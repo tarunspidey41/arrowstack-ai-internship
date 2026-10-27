@@ -1,0 +1,11 @@
+text,true_issue,true_urgency,base_issue,base_urgency,ai_issue,ai_urgency,ai_issue_conf,ai_urg_conf,needs_review,route_ai,route_true,route_base
+Is it normal that your app asks for my password again and again? Looks suspicious to me.,security,high,security,medium,security,medium,0.538,0.666,True,Security Operations,Security Operations,Security Operations
+The export button is gone. Was it removed or is it a bug?,technical,medium,technical,medium,billing,medium,0.333,0.751,True,Billing & Payments,Technical Support (L2),Technical Support (L2)
+Why am I seeing someone else's name on my dashboard? Customer data might be leaking.,security,critical,security,medium,security,high,0.513,0.313,True,Security Operations,Security Operations,Security Operations
+Just wondering whether it is possible to enable 2FA for all team members.,general_inquiry,low,account_access,medium,security,low,0.332,0.717,True,Security Operations,Customer Support (L1),Identity & Access Support
+I would like a feature to download my invoices in bulk because the billing page is too slow.,feature_request,low,billing,medium,feature_request,medium,0.375,0.593,True,Product Management,Product Management,Billing & Payments
+"someone changed my password and my email, I did not do this",security,high,account_access,medium,account_access,medium,0.69,0.691,False,Identity & Access Support,Security Operations,Identity & Access Support
+Can't sync files and the app says my subscription expired although I paid yesterday.,billing,high,billing,medium,billing,medium,0.472,0.884,True,Billing & Payments,Billing & Payments,Billing & Payments
+The reports page times out. We have an audit tomorrow and need the numbers today.,technical,high,general_inquiry,high,feature_request,high,0.383,0.412,True,Product Management,Technical Support (L2),Customer Support (L1)
+Where do I report a bug that lets anyone read other users' files?,security,critical,technical,medium,security,low,0.52,0.491,True,Security Operations,Security Operations,Technical Support (L2)
+Our admin left the company and we need to transfer ownership of the workspace.,account_access,medium,general_inquiry,medium,security,critical,0.547,0.533,True,Security Operations,Identity & Access Support,Customer Support (L1)

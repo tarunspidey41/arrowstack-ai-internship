@@ -1,0 +1,901 @@
+text,issue_type,urgency
+it would be great to have a dark mode.,feature_request,low
+Can you add export to Excel on the reports page? Please look into this in the next couple of days.,feature_request,medium
+"hi, the dashboarrd has been loading very slowly since this morning. thanks.",technical,medium
+"good morning, the dashboard has been loading veery slowly since this morning. this keeps happening and it is quite annoying. please help.",technical,medium
+Suggestion: add keyboard shortcuts for common actions. Just a minor thing. Please help.,feature_request,low
+"Hi, Fiel upload fails at 90 percent with an unknown error. We have a client deadline today.",technical,high
+"Good morning, Please consider adding single sign-on with Google. No rush at all. Regards, Arun",feature_request,low
+Please refnud the payment of Rs 499 made on 6/3. Please look into this in the next copule of days.,billing,medium
+"Dear support, The two-factor code is not accepteed on my new phone. We have a client deadline today. Thank you.",account_access,high
+i received a suspicious email pretending to be from your company asking for my password. we have a client deadline today. please help.,security,high
+please refund the paymnet of r s2999 made on 27/9. our whole production system is down.,billing,critical
+"Hello eam, The two-factor code is not accepted on my new phone. It is affecting my work a bit but I have a workaround. Thanks.",account_access,medium
+"can you add export to excel on the reports page? just a minor thing. regards, arun",feature_request,low
+do you have a student discount? just a minor thing. thank you.,general_inquiry,low
+"dear support, please refund the payment of rs 1499 made on 21/10. our whole prodcuiton system is down.",billing,critical
+"dear support, what are your support hours on weekends? thanks.",general_inquiry,low
+"Good morning, The two-factor code is no taccepted on my new phone. Thank you.",account_access,medium
+"Good morning, I want to update the credit card on file because it expires soon. Our whole production system is down. Thanks.",billing,critical
+"Hi, I want to update the credit card on file because it expires soon. Just a minor thing. Thanks.",billing,low
+"Hello team, I cannot log in, it says my credentials are invalid. This keeps happening and it is quite annoying.",account_access,medium
+"Dear support, The discount code FEST25 was not applied at checkout. This is blocking my whole eam.",billing,high
+"dear support, notifications are not being delivered to m phone. this is an emergency, it is happening right now. tahnk you.",technical,critical
+"hello eam, is there a plan to support a tamil language interface? whenever you get a chance. thank you.",feature_request,low
+"good morning, the two-factor code is not accetped on my new phnoe. this is blocking my whole team.",account_access,high
+"hi, i get a 500 error when exporting reports. just a minor thing.",technical,low
+"Dear support, I think someone accessed my account without permission, there are logins from another country. Please help.",security,high
+"hi, i received a suspicious email pretending to be from your company asking for my password. please look into this in the next couple of days. please help.",security,medium
+"Good morning, I want to update the credit card on file because it expres soon. All our users are affected and we are losing revenue.",billing,critical
+"Hello team, Can you add export to Excel on the reports page? Please look into this in the next couple of days. Thanks.",feature_request,medium
+"Where can I find the user guide fo rthe settings modulee? Just a minro thing. Regards, Arun",general_inquiry,low
+"Dear support, Where can I find the user guide for the analytics module? This keeps happening and it is quite annoying.",general_inquiry,medium
+I cancelled my plan but I still got billed. Please look into this in the next couple of days. Thanks.,billing,medium
+"Dear support, My invoice #6933 shows an amount I do not recognise. This is blocking my whole team. Thanks.",billing,high
+"Dera support, Where can I find the user guide for the billing module? Whenever you get a chance. Please help.",general_inquiry,low
+My account is locked after too many login attempts. Please reoslve this wthin a few hours. Please help.,account_access,high
+"good morning, what are yor support hours on weekends? just a minor tthing. thank you.",general_inquiry,low
+"hi, ii get a 500 error when exporting erports. please resolve this within a few hours. thanks.",technical,high
+"dear support, file upload fails at 90 percent with an unknown erro.r just a minor thing. reagrds, arun",technical,low
+"Hello team, Do you haev a student disconut? JJust a minor thing. Thank you.",general_inquiry,low
+"Dear support, I forgot my password and the reset email never arrives. Not urgent, just wanted to meention it. Thank you.",account_access,low
+"Hi, Please consider adding single sign-on with Google. Just a minor thing.",feature_request,low
+"Dear support, I acnnot log i,n it says my credentials are invaldi. Please look into this in the next couple of days. Thanks.",account_access,medium
+I found a vulnerability: the API returs other users' email addresses. Please resolve this within a few hours.,security,high
+"which regions are your servers hosted in? not urgent, just wanted to mntion it. regards, arun",general_inquiry,low
+please refund the payment of rs 2999 maed on 5/11.,billing,medium
+"Good morning, What are you support hours on weekends? It is affecting my work a bit but I have a workaround.",general_inquiry,medium
+"dear support, i forgot my password and the reset email never arrives. this keeps happening and it is quite annoying. please help.",account_access,medium
+"Hello team, Where can I find your data retention policy? Not urgent, just wanted to mention it.",general_inquiry,low
+"dear support, which regions are your servers hosted in? thank you.",general_inquiry,low
+"Dear support, Where can I find the user guide for the reports module? Not urgent, just wanted to mention it. Thanks.",general_inquiry,low
+"Dear support, I cancelled my plan but I still got billed. Please look into this n the next couple of days. Regards, Arun",billing,medium
+"Hello team, Which region are your servers hosted in? Just a minor thingg. Thanks.",general_inquiry,low
+"Good morning, Where can I find your data retention policy?",general_inquiry,low
+"Hi, Do you have a student discount? Not urgent, just wanted to mention it.",general_inquiry,low
+I need access added for a new team member. Please resolve this within a few hours.,account_access,high
+"Hello team, I get a 500 error when exporting reports. No rush at all. Thank you.",technical,low
+"Dera support, Where can I find the user guide for the settings module? Regards, Arun",general_inquiry,low
+what are your support hours on weekends? please look into this in the next couple of days. thank you.,general_inquiry,medium
+"Dear support, I get a 500 error when exporting reports. Customers cannot place any orders at all.",technical,critical
+"Hello team, The discount code STUDENT50 was not applied at checkout. I acnnot work unil this is fixed. Please help.",billing,high
+"dear support, the app crashes every time i open the analytics page.",technical,medium
+"API request return timeout errors intermittently. All our users are affected and we are losing revenue. Regards, Arun",technical,critical
+"good morning, is there a plan to support a tamil language interface? just a minor thing. regards, arun",feature_request,low
+A phishing site is using your company logo. Thiss is blocking my whole team. Thanks.,security,high
+Can you add export to Excel on the reports page? Please help.,feature_request,low
+"dear support, can i get a demo for my team? please help.",general_inquiry,low
+"Good morning, Where can I find the user guide for the profile module? Just a minor thing. Thanks.",general_inquiry,low
+"my api key was exposed in a public repository. this is an emergency, it is happening right now. thanks.",security,critical
+"Good morning, Where can I find your data retention policy? This keeps happening and it is quite annnoying. Pleasee help.",general_inquiry,medium
+"dear support, what are your support hours on weekends? this keeps happening and it is quite annoying.",general_inquiry,medium
+"Hello team, Suggestion: add keyboard shortcuts for common actions. This keeps happening and it is quite annoyiin. Thanks.",feature_request,medium
+"We would love a bulk edit option for contacts. Not urgent, just wanted to mention it. Thank you.",feature_request,low
+"Hello teamm, We would love a bulk edit option for contacts. Not urgent, just wanted to mention it.",feature_request,low
+"Good morning, I found a vulnearbility: the API returns other users' email addresses.",security,high
+can i get a dem for my team? please look int this in the next couple of days.,general_inquiry,medium
+"Hello team, Which regions are your servers hosted in? Just a minor thing.",general_inquiry,low
+My invoice #5127 shows an amount I do not recognise.,billing,medium
+"Good morning, How many users can I add n the starter plan? Wenever you get a chance.",general_inquiry,low
+"hi, please change the email address linkedd to my account. please hlp.",account_access,medium
+"hi, the app crashse every time i open the profile page. not urgent, just wanted to mention it.",technical,low
+"Good morning, I need access added for a new team member. Whenever you get a chance. Thank you.",account_access,low
+"Dear suppotr, I was charged twice for my Starter subscription this month.",billing,medium
+Posible data breach: customer records are visible to other tenants. We have a client deadline today.,security,high
+My API key was exposed in a public repostory. All our users are affected and we are losing revenue. Please help.,security,critical
+"Hello team, Please consider adding single sign-on with Google. Tahnks.",feature_request,low
+"dear support, a phishing site is using your company logo. i cannot work until this is fixed. please help.",security,high
+"Hello team, Which regions are your servers hosted in? Just a minor thing. Thanks.",general_inquiry,low
+"Dear support, I was chargd twice for my Starter subscription this month. I cannot work until this is fixed. Thank you.",billing,high
+"hi, where can i find your data retention policy? not urgent, just wanted to mention it. thank you.",general_inquiry,low
+"Dear support, My username is not recognised at sign in. This is blocking my whole team. Regards, Arun",account_access,high
+"Hi, Nootifications are not being delivered to my phone.",technical,medium
+API reuests return timeout errors intermittently. All our users are affected and we are losing revenue. Thanks.,technical,critical
+"hi, the dashboard has been loading very slowly since this morning. it is affecting my work a bit but i have a workaround. regards, arun",technical,medium
+"I think someone accessed my account without permission, there are logins from another country. This is an emergency, it is happening right now. Regards, Arun",security,critical
+My invoice #9740 shows an amount I do not recognise. Just a minor thing. Thanks.,billing,low
+"Hello team, API requests return timeout errors intermittently. Ths keeps happening and it is quite annoying.",technical,medium
+"dear support, i get a 500 error when exporting reports. this is an emergency, it is happening right now.",technical,critical
+"Dear support, I cannot log in, it says my credentials are invalid. We have a client deadline todya. Thank you.",account_access,high
+"Dear support, Possible data breach: customer records are visible to other tenants. This is blocking my whole team. Please help.",security,high
+"Hi, Can you add export to Excel on the reports page? Nt urgent, just wanted to mention it.",feature_request,low
+"good monring, where can i find your data retention policy? this keeps happening and it is quite annoying. please help.",general_inquiry,medium
+"Hello team, My invoice #5380 shows an amount I do not recognise. Please look into this in the next couple of dayys. Please help.",billing,medium
+"good morning, i forgot my password and the reset email never arrives. i cannot work until this is fixedd.",account_access,high
+"Hi, What are your support hours on weekends?",general_inquiry,low
+"Hi, File upload fails at 90 percent wwith an unknowwn error. This is blocking my whole team.",technical,high
+I forgot my password and the reset email never arrives. This keeps happening nad it is quite annoying. Thanks.,account_access,medium
+i need access added for a new team member. please help.,account_access,medium
+"Dear support, I get a 500 error when exporting reports. This keeps happening aand it is quite annoying. Please help.",technical,medium
+I was charged twice for my Team subsription tis month. Whenever you get a chance.,billing,low
+the dashboard has been loading very slowly since this morning. it is affecting my work a bit but i have a workaround. thank you.,technical,medium
+"Good morning, Sync between mobile and desktop has stopped working. No rush at all. Regards, Arun",technical,low
+"Hi, I cannot log in, it says my credentials are invalidd. Regards, run",account_access,medium
+"Dear support, I want to update the credit card on file because it expires soon. Thanks.",billing,medium
+"hello team, suggestion: add keyboard shortcuts for common actions. just a minor thing. please help.",feature_request,low
+"Hello team, Please change the email address lined to m yaccount. This is blocking my whole team.",account_access,high
+"hi, which regions are your servers hosted in? thi keeps happening and it is quite annoying.",general_inquiry,medium
+"Dear uspport, Where can I find hte user guide for the naalytics module? This keeps happening and it is quite annoying. Thanks.",general_inquiry,medium
+"good mornnig, my username s not recognised at sign in. i cannot work until this is fixed. please help.",account_access,high
+Why did my bill increase after the plan renewal?,billing,medium
+"hi, i want to update the credit card on file becausse it expires soon. it is affecting my work a bit but i have a workaround.",billing,medium
+"hello team, where can i find the user guide for the profile module? no rush at all. thank you.",general_inquiry,low
+"I want to update the credit card on file because iit expires soon. Not urgent, just waanted to mention it.",billing,low
+"I get a 500 error when exporting reportss. This is an emergency, it is happening right now. Thanks.",technical,critical
+The two-factor code is not accepted on my new phone. Please look into this in the next couple of days.,account_access,medium
+Is there a plan to support a Tamil language interface? Just a minor thing. Please help.,feature_request,low
+"Do you have a studnet discount? Whenever you get a chance. Regards, Arun",general_inquiry,low
+"Good morning, I want to update the credit card on file because it expires soon. Please help.",billing,medium
+"Dear support, A phishing site is using yuor company logo. Customers cannot place any orders at all. Please hel.p",security,critical
+"Hi, I cancelled my plan but I still got billed. No rush at all. Thank you.",billing,low
+Can you add epxort to Excel on the reports page? Thanks.,feature_request,low
+"Hello team, I received a suspicious email pretending to be from your company asking for my passsword. Thank you.",security,high
+"why did my bill increase after the plan renewal? this is an emergency, itt is happening right now. thanks.",billing,critical
+Please change the email address linked to my account. Please look into this in the next couple of days. Thank yu.,account_access,medium
+"Good morning, I cancelled my plan but I still got billed. Regards, Arun",billing,medium
+"Good morning, I cancelled my plan but I still got billed. Please resolve this within a few hours. Thanks.",billing,high
+"hi, how many users acn i add on the starter plan? thank you.",general_inquiry,low
+"Dear support, How many users can I add on the starter plan? Thank you.",general_inquiry,low
+"Good morning, The app crashes every time I open the billing page. Pleasse resolve this within a few hours. Thank you.",technical,high
+"Good morning, I found a vulnerability: the API returns other users' email addresss. Regards, Arun",security,high
+"Dear support, My invoice #1447 shos an amount I do not recognise. We have a client deadline today. Thanks.",billing,high
+My invoice #8925 shwos an amount I do not recognise. I cannot work until this is fiexd. Thank you.,billing,high
+"Good morning, Where can I find the user guide for the profile module? Whenever you get a chance. Thanks.",general_inquiry,low
+is there a plan to support a tamil language interface? pleas elook into this in the next couple of days. thank you.,feature_request,medium
+"hi, i was hcarged twice forr my starter subscription this month. i cannot work until this is fixed. thanks.",billing,high
+i forgot my password and the reset email never arrives. please resolve this within a few hours.,account_access,high
+we would love a bulk edit option for contacts.,feature_request,low
+"Dear support, Which regions are your servers hosted in?",general_inquiry,low
+"API requests return timeout errors intermittently. Just a minor thing. Regards, Arun",technical,low
+"dear support, i was charged twice for my team subscription this month. we have a client deadline today. please help.",billing,high
+"Hello team, Suggestion: add keyboard shortcuts for common actions.",feature_request,low
+"Hello team, How many users can I add on the starter plan? Whenever you get a hance. Regards, Arun",general_inquiry,low
+"Good morning, Where can I find your data retention policy? Regards, Arun",general_inquiry,low
+"Hi, I think someone accessed my account without permission, there are logins from another counttry. All our users are affected and we are losing revenue. Regards, Arun",security,critical
+"hi, the two-factor code is not acepted on my new phone. regars, arun",account_access,medium
+"hello team, sync bteween mobile and desktop has stopped working. we have a client deadline today. thank you.",technical,high
+"Hello team, How many users can I add on the starter plan? Whenever you get a chane.",general_inquiry,low
+"Hi, Possible data bbreach: customer records are visible to other tenants. All our users are affected and we are losing revenue. Thank you.",security,critical
+"Hello team, I cancelled my plan but I still got billed.",billing,medium
+"Hi, I need access added for a new team member. Just a minor thing. Please help.",account_access,low
+what are your support hours on weekends? just a minor thing. please help.,general_inquiry,low
+"The discount code WELCOME10 was not applied at checkout. This keeps happening and it is quite annoying. Regards, Arun",billing,medium
+"Hello team, Please consider adding single sign-on with Google. Whenever you get a chance. Thank you.",feature_request,low
+i was charged twice for my business subscription this month.,billing,medium
+"Dear support, Please cchange the email address linked to my account. TThis is blocking my whole team. Regards, Arun",account_access,high
+Where can I find your data retention policy?,general_inquiry,low
+"where can i find your data retention policy? not urgent, just anted to mention it. please help.",general_inquiry,low
+"Hi, File upload fails at 90 percent with an unknown error. We have a client deadline today. Thank you.",technical,high
+"Hello team, Can you add export to Excel on the reports page? This keeps happening and ti is quite annoying.",feature_request,medium
+"hi, i found a vulnerability: the api returns other users' email addresses. this keeps happening and it is quite annoying. regards, arun",security,medium
+"Good morninng, API requestts return timeout errors inntermittetly. Whneever you get a chance. Regards, Arun",technical,low
+"Hello team, My API key was exposed in a public repository. Regards, Arun",security,high
+Sync betwween mobile and desktop has stoppeed working. We have a client ddeadline today. Please help.,technical,high
+"Dear support, A phishing site is using your company logo. Custmers cannot place any orders at alll. Thank.s",security,critical
+Please refund the payment of Rs 2999 made on 16/4. This keeps happening nd it is quite annoying.,billing,medium
+"I think someone accesed my account without permission, there are logins from another country. All our users are affected and we are losing revenue.",security,critical
+my invoice #7477 shows an amount i do not recognise. please look into this in the next couple of days. please help.,billing,medium
+"Good morning, Please consider adding single sign-on with Google. Please look into this in the next couple of days.",feature_request,medium
+"i cannot log inn, it says my credentials are invalid. this keeps happening and it is quite annoying. thanks.",account_access,medium
+What aree your suupport hours on weekends? Thanks.,general_inquiry,low
+"Hello team, File upload fails at 90 percent with an unknow error. All our users are affected and we are losing revenuue. Regards, Arun",technical,critical
+"Good mornning, I was charged twice for my Team subscription this month.",billing,medium
+"Dear support, There are unauthorised transactions on my account. This is an emergency, it is ahppening right noow. Regards, Arun",security,critical
+what are your support hours on weekends?,general_inquiry,low
+"Hello team, My invoice #5778 shows an amount I do not recognise. It is affecting my work a bit but I have a workaround. Thank you.",billing,medium
+"Dear support, File upload fails at 90 percent with an unknown error. This is an emergency, it is happening righht now. Thanks.",technical,critical
+Possible data breach: customer records ar visible to other tenants. Please help.,security,high
+My username is not recognised at sign in. All our users are affected and we are losing revenue. Thank you.,account_access,critical
+"Dear support, The dashboarrd has been loading very slowly ince this morning. Regards, Arun",technical,medium
+"Hello team, API requests return tieout errors intermittently. We have a client deadline today. Thanks.",technical,high
+"good morning, i need access added for a new team member. i cannot work until this is fixed. please help.",account_access,high
+"hello team, my username is not recognised at sign in. it is affecting my work a bit but i have a workaround. regards, arun",account_access,medium
+How many users can I add on the starter plan?,general_inquiry,low
+"Dear support, I was charged twice for my Business subscription this month. Please look into this in the next couple of days. Thanks.",billing,medium
+"Good morning, We ould love a bulk edit option for contacts. This keeps happening and it is quite annoying. Please help.",feature_request,medium
+"Hello tea,m I forgot my password and the reset email never arrives. Please look into this in the nnext couple of days.",account_access,medium
+"Hi, The dashboard has been loading very slowly since this morning.",technical,medium
+"i cancelled my plan bbut i still got billed. it is affecting my work a bit but i have a workaround. regards, arun",billing,medium
+"good morning, my account is locked after oto many login attempts. this keeps happening and it is quite annoying. please help.",account_access,medium
+"Dear support, I received a suspicious email pretending to be from your coompany asking for my assword. Custmers cannot place any orders at all.",security,critical
+"Hi, I forgot my passwod and the reset email never arrives. Customers cannot place any orders at all. Thank you.",account_access,critical
+Cn you add export to Excel on the reports page? Please help.,feature_request,low
+"Hi, Is there a plan to support a Tamil language interface? Whenever you get a chance.",feature_request,low
+Please change the email address linked to my account. This is blockin gmy whole team.,account_access,high
+"Dear support, I want to update the credit card on file because it expires soon. Regards, Arun",billing,medium
+"Hi, The to-factor code is not accepted on my new phone. We have a client deadline today. Regards, Arun",account_access,high
+"Good morningg, Sync between mobile and desktop has stopped working.",technical,medium
+"Dear support, Please refund the payment of Rs 499 made on 13/8. Please resolve this within a few hours. Regards, Arun",billing,high
+"hello team, i get a 500 error when exporting eports. it is affecting my work a bit but i have a workaround. please help.",technical,medium
+"Good morning, Do you have a student discount? Just a minor thing. Please help.",general_inquiry,low
+"hi, my invoice #3880 shows an amount i do not rcognise. this is an emergency, it is happening right now. thanks.",billing,critical
+"Hello team, I was charged twice for my Team subscription this month. No rush at al. Regards, Arun",billing,low
+suggestion: add keyboard shortcuts for common actions. this keepps happening and it is quite annoyin.,feature_request,medium
+"Hello team, How many users can I add on the starter plan? No rush at all.",general_inquiry,low
+"Hi, My API key was exposed in a public repository. We have a client deadline today. Plese help.",security,high
+Which regions are your servres hoste in? Whenever you get a chance. Thank you.,general_inquiry,low
+"Hi, File upoad fails at 90 percent with an unknown error.",technical,medium
+"Good morning, Sync between mobile and desktop has stopped working. Not urgent, just wanted too mention it. Please help.",technical,low
+"Hi, I need access added for a new team member. Regards, Arun",account_access,medium
+I forgot my password and the reset email never arrives. Whenever you get a chance. Thank you.,account_access,low
+"Good morning, Is there a plan to support a TTamil language interface? hWenever you get a chance.",feature_request,low
+"Hi, My username is not recognised at sign in. All our users are affected and we are losing revenue. Please help.",account_access,critical
+"My invoice #7066 shows an amount I do not recognise. Not urgent, just wanted o mention it. Please help.",billing,low
+The discount code STUDENT50 was not applied at checkout. It is affecting my work a bit but I have a workarouund. Thanks.,billing,medium
+"Hi, I get a 500 error when exporting reports. This is an emergency, it is happening rihgt now. Regards, Arun",technical,critical
+"dear supprot, what are your suupport hours on weekends? whenever you get a chance. thanks.",general_inquiry,low
+"Hello team, I received a suspicious email pretendin to be from your company asking for my password. This is blocking my whole team. Thank you.",security,high
+File upload fails at 90 percent with an unknown error. I cannot work until this is fixed.,technical,high
+the app crashes every time i open the repports page. we have a client deadline today. please help.,technical,high
+"Hello team, The two-factor code is not accepted on my new phone. Please help.",account_access,medium
+I forgot my password and the reset email never arrives. Please look into this in the next couple of days. Please help.,account_access,medium
+"Hello team, File upload fails at 90 percent with an unknown error. Customers cannot place any orders at all. Thank you.",technical,critical
+"Hello team, Notifications are not being delivered to my phone. Just a minor thing. Please help.",technical,low
+"Good morning, We would love a bluk edit option for contacts. Whenever you get a chance.",feature_request,low
+"Please change the email address linked to my account. This keeps happening and it is quite anonying. Regards, Arun",account_access,medium
+Wheree can I find the user guide for tthe profile module? Just a minor thing. Thanks.,general_inquiry,low
+I want to update the credit card on file because it expires soon. This is blocking my whole team.,billing,high
+"Dear support, It would help if the calendar view could show week numbers.",feature_request,low
+"Hello team, How many users can I add on the starter plan? Thanks.",general_inquiry,low
+The two-factor coed is not accepted on my new phone. We have a client deadline today. Thanks.,account_access,high
+"notifications are not being delivered to my phone. this is an emergency, it is happening right now.",technical,critical
+please refund the payment of rs 499 made on 6/11. please look into this in the next couple of days. thank you.,billing,medium
+"Hello team, I want to update the ccredit card on file because it expires soon. I cannot work until this is fixed.",billing,high
+API requests return timeout errosr intermittently.,technical,medium
+I cancelled my plan but I still got billed. This keeps happening and it is quite annoying. Please help.,billing,medium
+"Hello team, I get a 500 error when exporting reports. Thanks.",technical,medium
+"hello team, notifications are not being deivered to m phone. regards, arun",technical,medium
+"good morning, the discount coe student50 was not applied at checkout. please look into this in the next couple of days. thank you.",billing,medium
+"I think someone accessed my account without permissino, there are logins from another ocuntry. I cannot work until this is fixed.",security,high
+"My username iss not recognised at sign in. This is an emergency, it is happening right now. Please help.",account_access,critical
+"good morning, the two-factor code is not caacepted on my new phone. whenever you get a chance.",account_access,low
+"dear support, my account is locked after too many login attemptss. we have a client deaddline today. hanks.",account_access,high
+"hi, is there a plan to support a tamil language interface?",feature_request,low
+"Dear support, I think someone accessed my account without permission, there are logins from another ccountry. We have a client deadline today.",security,high
+Where can I find the uesr guide for the profile module? This keeps happening and it is quite annoying. Thanks.,general_inquiry,medium
+"good morning, we would love a bulk edit option for contcats. not urgent, just wanted to mention it. please help.",feature_request,low
+"Dear support, Please refund the payment of Rs 1499 made on 27/3. Please look into this in the next couplle of days. Regards, Arun",billing,medium
+I received a suspicious email pretending to be from your company asking for my password. Please help.,security,high
+"Dear support, The two-factor code is nott accepted on my new phone. We have a client deadlin today. Thank you.",account_access,high
+"good morning, i think osmeone accessed m yaccount without permission, there are logins from another country. customers cannot place any orders at all. regards, arun",security,critical
+"Good morning, I cancelled my plann but I still got billed. Whenever you get a chance.",billing,low
+"Dear support, What are your supoprt hours on weekends? This keeps happening and it is quite annoying. Thanks.",general_inquiry,medium
+"can i get a demo for my team? not urgent, just wanted to mention it. please help.",general_inquiry,low
+"Hi, I found a vulnerability: the API returns other users' email addresses. Customers cannot place any orders at all. Regards, Arun",security,critical
+"Hello team, The app crashes every time I open the reports page. We have a client deadline today. Regards, rAun",technical,high
+"Where can I find your dtaa retention policy? Not urgent, just wanted to mention it. Regards, Arun",general_inquiry,low
+"Dear support, I forgot my password and the reset email never arrives. Regards, Arun",account_access,medium
+"Hello team, It would be great to have a drak mode. Please help.",feature_request,low
+File upload fails at 90 percent with an unknown error. This keeps happening andd it is quite annoying. Thanks.,technical,medium
+the app crashes every time i pen the settings page. i cannot work untli this is fixed.,technical,high
+"Notifications are not being delivered to my phone. Please resolve this within a few hours. Regards, Arun",technical,high
+"dear support, sync between mbile and desktop has stopped working. it is affecting my work a bit but i have a workaround.",technical,medium
+Can I get a demo for my team? Please look into this in the next couple of days.,general_inquiry,medium
+"Hello team, I need access addde for a new team member. Please look into this in the next couple of days.",account_access,medium
+"hello team, the dashboard has been loading very slowly since this morning. customers cannot place any orders at all. thank yuo.",technical,critical
+"Hi, I cannot log in, it says ym credentials are invalid. I cannot work until this is fixed.",account_access,high
+"Helllo team, A phishing site is using your company logo. Customeers cannot place any orders at all.",security,critical
+"hello team, it would be great to have a dark mode. no rush at all. please help.",feature_request,low
+"Hi, What are your support hours on weekends? Regards, Arun",general_inquiry,low
+"Hello team, Is there a plan to support a Tamil language interface? Just a minor thing.",feature_request,low
+"Dear support, Where can I find your data reetntion policy? Whenever you get a chance. Please help.",general_inquiry,low
+"Hello team, It would help if the calendar view could shoow week numbers. Regards, Arun",feature_request,low
+"Hello team, Can I get a demo for my team? Please help.",general_inquiry,low
+Why did my bill increase afte rthe plan renewal? Please look into this in the next coulpe of days.,billing,medium
+"My invoice #1505 shows an amount I do not recognise. Not urgent, just wanted to mention it.",billing,low
+is there a plan to support a tamil language interface? no ursh at all.,feature_request,low
+Can I get a demo foor my team? Please look into this in the next couple of days. Thanks.,general_inquiry,medium
+"Dear support, AAPI requests return timeout errors intermittently. Customers cannot place any orders at all. Please help.",technical,critical
+"Good morniing, Please consider adding single signn-on with Google. Please look into this in the next couple of days. Thank you.",feature_request,medium
+"Hi, Is there a plan to supporrt a Tamil language interface?",feature_request,low
+"Hello team, My invoice #5996 shows an amount I do not recognise.",billing,medium
+It would be great to have a dark mode. Thank you.,feature_request,low
+my invoice #7161 shows an amount i do not recognise. whenever you get a chance.,billing,low
+Please consider adding single sign-on with Google. No rush at all. Please help.,feature_request,low
+It would be great to have a dark mode. Just a minor thing.,feature_request,low
+"hi, file upload fails at 90 percent with an unknown error. please look into thi in the next couuple of days.",technical,medium
+suggestion: add keyboard shortcuts for common actions. whenever you get a chance.,feature_request,low
+"good morning, i get a 500 error when exporting reports. no rush at all. regards, arun",technical,low
+"dear suppotr, sync between mobile and desktop has stopped working. please look into this in the nexxt couple of days. regards, arun",technical,medium
+"Good morning, API requests return timeout errors intermittently. Please resoolve this within a few hours.",technical,high
+"hi, my username is not recognised at sign in. i cannot work until this is fixed. please help.",account_access,high
+"Good morning, Notifications are not being delivered tto my phone. Not urgent, just wanted o mention it. Regards, Arun",technical,low
+"Good morning, I want to update the credit card on fle because it expires soon. Just a minor thing. Regards, Arun",billing,low
+"Hi, My API key was exposed in a public repository. Customers cannot place any orders at all. Regards, Arun",security,critical
+"Hello team, Which regions are your servers hosted in? No rush at all. Thank you.",general_inquiry,low
+"hi, there are unauthorised transacitons on my account. our whole production system is down.",security,critical
+Can I get a demo for my team? Please help.,general_inquiry,low
+"Hello team, The two-factoor code is not accepted on my new phone. Just a minor thing. Thanks.",account_access,low
+"the two-factor ocde is not accepted on my new phone. it is affectiingg my work a bit but i have a workaround. regards, arun",account_access,medium
+"dear support, i forgot my password and the reset email never arrives. please resolve this within a few hours. please help.",account_access,high
+"dear support, please refund the payment of rs 499 made on 5/4. we have a client edadline today. thank you.",billing,high
+"dear support, my api key was expoed in a public repository. this is an emergency, it is happening rigt now.",security,critical
+it would be great to have a dark mode.,feature_request,low
+"dear support, i need access added for a new team member. not ugrent, just wanted to mention it. please help.",account_access,low
+"I cannot og in, it says my credentials are invalid. I cannot work until this is fixed.",account_access,high
+It would b egreat to have a dark mode. It is affecting my work a bit but I have a workaround.,feature_request,medium
+do you have a student discunt? whenever you get a chance.,general_inquiry,low
+"hi, notifications are not being delivered to my phone. customers cannot place any orders at all. thank you.",technical,critical
+A phishing site is using your company logo.,security,high
+"Hi, I received a suspicious email pretending to be from your company asking for my password. I cannot work until this is fixed. Thank you.",security,high
+Is there a plan to support a Tamil languagge interface?,feature_request,low
+"Is there a plan to support a Tamil language interface? Not urgent, just wanted to mention it. Thank you.",feature_request,low
+There are unauthorised transactions no m account. This is blocking my whole team.,security,high
+The discount code STUDENT50 was not applied at checkotu. It is affecting my work a bit but I have a workaround. Thanks.,billing,medium
+"Possible data breach: customer records are visible to other tenants. We have a client deadline today. Regards, Arun",security,high
+"Dear support, Please change the email address linked to my account. Thank you.",account_access,medium
+"Hello team, Suggestion: add keyboard shortcuts for coommon actions. It is affecting my work a bit but I have a workaround. Thanks.",feature_request,medium
+"good morning, my invoice #5831 shows an amount i do not recognise. thank you.",billing,medium
+"hi, i need access added for a new team member. this keeps happening and it is quite annoying. thanks.",account_access,medium
+My username is not recognised at sign in. This keeps happening and it is quite annoying.,account_access,medium
+"hello team, the discount code fest25 was not applied at checkout. this keeps happening and it is quite annoying. please help.",billing,medium
+I received a susspicious email pretending to be from your company asking for my password. Our whole prdouction system is down. Thanks.,security,critical
+My username is not recognised at sin in. Please resolve this within a few hours.,account_access,high
+i need access addded for a new team member. thank you.,account_access,medium
+"Hello team, It would help if the calendar vie could show week numbers. Whenever you get a chance. Please help.",feature_request,low
+"Dear suppot, What are your support hours on weekends? Not urgent, just wanted to mention it. TThank you.",general_inquiry,low
+"Goo dmorning, I cannot log in, it says my credentials are invalid. It is affecting my work a bit but I have a workaround.",account_access,medium
+"Dear support, Is there a plan to support a Tamil language interface? Whenever you get a chance. Regards, Arun",feature_request,low
+"Hello team, I fnuud a vulnerability: the API returns other users' email addresses. Please resolve this within a few hours. Please help.",security,high
+"Dear support, Which regions are your servers hosted in? Regards, Arun",general_inquiry,low
+"Good omrning, How many users can I add on the starter plan? Please look into this in the next couple of days.",general_inquiry,medium
+"Sync between mobile and desktop has stopped working. Regards, Arun",technical,medium
+The app crashes every time I open the prfoile page. We have a client deadline today.,technical,high
+the dashboard has been loadingg very slowly since this morning. it is affecting my wor ka bit but i have a workaround. thank you.,technical,medium
+I want to update the credit card on file because it expires soon. Please look into this in the next couple of days. Thanks.,billing,medium
+why did my bill increase after the plan renewal?,billing,medium
+"Hi, M account is locked after too many login attempts. No rush at all. Thank you.",account_access,low
+"Hello team, I received a suspicious email pretneding to be from your company asking for my password. Our whole production system is down. Thanks.",security,critical
+"I need access added for a new team member. Not urgent, just wanted to mention it. Thank you.",account_access,low
+"Hi, WWhere can I find your data retention policy? Whenever you get a chance.",general_inquiry,low
+it would help if the calendar view could show week numbers. please look into this in the next couple of days. thank you.,feature_request,medium
+please change the email address linked to my accouunt. this keeps happening and it is quite annoying.,account_access,medium
+Can you add export to Excel on the reports page?,feature_request,low
+My username is not recognised at sign in.,account_access,medium
+"hi, i cancelled my plan but i still got billed. thank you.",billing,medium
+"Suggestion: add keyboard shortcuts for common actions. This keeps happening and it is quite annoying. Regards, Arun",feature_request,medium
+"good morning, i think someone accessed my account without permission, there are logins from another country. this is an emergency, it is happening right now. regards, arun",security,critical
+"Hello team, I want to update the credit card on file because it expires soon. We have a client deadline today. Thanks.",billing,high
+Do you have a student discount? Thanks.,general_inquiry,low
+"Hi, Please change the email address linked to my account. This keps happening and it is quite annoying.",account_access,medium
+"Dear support, It would help if the calendar view could show week numbers. Thanks.",feature_request,low
+"Hello team, Where can I find your data retntion policy? Thanks.",general_inquiry,low
+"the dshboard has been loading very slowly since this morning. regards, arun",technical,medium
+"Dear support, My invoice #6918 shows an amount I do not recognise. Just a minor thing.",billing,low
+I forgot my password and the reset email never arrive.s We have a client deadline today. Thank ou.,account_access,high
+"Dear support, My username is not recognised at sign in. Regards, Arun",account_access,medium
+a phishing site is using your company logo. all our users are affected and we are losing revenue.,security,critical
+"Dear support, My invoice #1244 shows an amount I do not recognise. Please help.",billing,medium
+"heello team, a phishing site is using your company logo. regards, arun",security,high
+"I cannot log in, it says my credentials are invalid. Thanks.",account_access,medium
+"Hello team, How many users can I add on the starter plan? Whenever you get a chance.",general_inquiry,low
+"Good morning, o you have a student discount? No rush at all.",general_inquiry,low
+"hi, i received a suspicious email pretendign to be from your company asking for my passowrd. i cannot work until this is fixed.",security,high
+Can you add export to Excel on the reports page? Whenever you get a chance.,feature_request,low
+"Hi, I found a vulnerability: the API returns other users' email addresses. Our whole production system is down. Please help.",security,critical
+"hi, which regions are your servers hosted in?",general_inquiry,low
+"Hi, I found a vulnerability: the API returns other users' email addresses. Please help.",security,high
+"Hi, What are your support hours n weekends?",general_inquiry,low
+"Sync between mobile and desktop has stopped working. Whenever you get a chance. Regards, Arun",technical,low
+"Good morning, Is there a plan to support a Tamil language interface? No rush at all. Thanks.",feature_request,low
+"Hello team, Please consider adding single sign-on with Google. It is affecting my work a bit but I have a workarounnd. Thanks.",feature_request,medium
+there are unauthorised transactions on myy account. we have a client deadline today.,security,high
+Is there a plan to support a Tamil language iinterface? Whenever you get a chance. Thanks.,feature_request,low
+"Hello team, I think someone accessed my account without permission, there are logins from another country. Thi sis blocking my whole team.",security,high
+"dear support, can you add export to excel on the reports page? thank you.",feature_request,low
+"Dear support, uSggetsion: ad dkeyyboard shortccuts for common actions. No rush at all. Thank you.",feature_request,low
+"hello team, a phishing site is using your company logo. this is an emergency, it is happning right now. please help.",security,critical
+"Goodd orning, My account is locked after too many login attempts. Thanks.",account_access,medium
+"Hi, I think someone accessed ym account without permission, there are logins from another country. I cannot work until this is fixed. Please help.",security,high
+"dear support, the discuont code student50 was no applied at checkout. i cannot work until this is fixed. regards, arun",billing,high
+"Dear support, The two-factor code is not accepted on my new phone. This keeps happenng and it is quite annoying.",account_access,medium
+"Hello team, I received a suspicious email pretending to be fromm your company askin for my password. This is blocking my whole team.",security,high
+I found a vulnerability: te API returns otehr users' email addresses. I cannot work until this is fixed. Thank you.,security,high
+the two-factor code is not accepted on my new phone. we have a client deadline today. please help.,account_access,high
+"Hello team, Where can I find the user guide for the billing module? Whenever you get a chance.",general_inquiry,low
+"Good morning, The two-factor code is not accepted on m ynew phon.",account_access,medium
+"Dear support, Notiifcations are not ebing delivered to my phone. Thank you.",technical,medium
+"hi, why did my bill increase after the plan renewal? this keeps haappeningg and it is quite annoying.",billing,medium
+"Sync between mobile and desktop has stopped working. I cannot work until this is fixed. Regards, Arun",technical,high
+"Hi, The dashboard has been loading very slowly since this morning. This is blocking my whole team. Thank you.",technical,high
+"dear support, i think someone acesseed my account without permission, there aree logins from another country. please resolve this within a few hours. regards, arun",security,high
+"hello team, my api key was exposed in a public repository. i cannot work until this is fixed.",security,high
+"please change the email address linked to my account. this is an emergency, it is happening right now. thanks.",account_access,critical
+"hello team, which regions are your servers hosted in? just a minor thing.",general_inquiry,low
+"Hi, Please consdier adding single sign-on with Google. Not urgent, just wanted to mention it. Thanks.",feature_request,low
+"hello team, the two-factor code is not accepted on my new phone. thanks.",account_access,medium
+"Hi, I cannot log in, it says mmy credentials are invvalid. Please help.",account_access,medium
+please refund the payment of rs 1499 made on 14/2. this kkeeps happening and it is quite annyoing.,billing,medium
+"Good morning, My API key was exposed inn a public repository. All our users are affected andd we are losing revenue. Regards, Arun",security,critical
+"Do you have a student discount? Not urgent, just wanted to mention it.",general_inquiry,low
+Please refund thee payment of Rs 2999 mad on 3/1. Please resolve this within a few hours. TThanks.,billing,high
+"Good morning, Sync between mobile and desktop has stopped working.",technical,medium
+"Hello team, It would be great to have a dark mode. Just a minr thing. Regards, Arun",feature_request,low
+"good morning, where can i find the user guide for the reports module? regards, arun",general_inquiry,low
+"hi, how many users can i add on the starter plan? plase help.",general_inquiry,low
+"hi, i found a vulnerability: the api returns other users' email addresses. our whole production system is down.",security,critical
+"i forgot my password and the reset email never arrives. please resolve this within a few hours. regards, arun",account_access,high
+"dear support, it would be great to have a dark mode. this keeps happening and it is quite annoying.",feature_request,medium
+I need access added for a new team memmber. Please look into this in the next couple oof days.,account_access,medium
+"Hi, My account is locked after too many login attempts. We have a client deadline today. Please help.",account_access,high
+"hello team, theer are unauthorised transactions on my account. thanks.",security,high
+"dear support, where can i find the user guide for the analyttics module?",general_inquiry,low
+"Hi, Please refund the payment of Rs 1499 made on 14/1. Thank you.",billing,medium
+"I want to update the credit card on file because it expires sooon. Not urgent, just wanted to mention it. Thanks.",billing,low
+"Hi, Which regions are your servers hosted in?",general_inquiry,low
+Which ergions are your servers hosted in? This keeps happeningg and it is quite annoying. Please help.,general_inquiry,medium
+"hello team, i get a 500 error when exporting reports. it is affecting my work a bit but i have a workaround. please help.",technical,medium
+"We would love a bulk edit option for contacts. Not urgent, just wanted to mention it. Please help.",feature_request,low
+"Good morning, My invoice #3365 shows an amount I do not recognise. Whenever you get a chance. Thank yo.u",billing,low
+"Hi, I cannot log in, it says my credentilas are invalid. This is blocking my whole team. Please help.",account_access,high
+"Hi, My API key was exposed in a public repository. We have a client deadline today.",security,high
+"Hello team, It would be great to have a dark mode. Regards, Arun",feature_request,low
+The tow-factor code is not accepted on my new phone. Please look into this in the next couple of days. Thanks.,account_access,medium
+"Good morning, The two-factor code is not accepted on my new phone. I cannott work until this is fixed.",account_access,high
+"my username is not recognised ta sign in. regards, arun",account_access,medium
+"Dear support, Please change the email address linked too my account. his is blocking my whole team. Please help.",account_access,high
+"The discount code FEST25 was not applied at checkout. This keeps happennig and it is quite annoying. Regards, Arun",billing,medium
+"dearr support, can you add eport to excel on thhe reports page? whenever you get a chance.",feature_request,low
+"Hello team, I was charged twice for my Team subscription this month. I cannot work unitl this is fixed. Thank you.",billing,high
+"Hi, Do you have a student discount?",general_inquiry,low
+"Hi, Suggestion: add keyboard shortcuts for common actions. It is affectingg my work a bit but I have a workaround.",feature_request,medium
+I found a vulnerability: the API returns other users' email addresses. Thanks.,security,high
+"Hlelo team, I received a suspicious email pretending ot be from your company asking for my password. Our whole production system is down.",security,critical
+"It would be great to have a dark mode. Whenever you get a chance. Regards, Arun",feature_request,low
+I cancelled my plan but I still got billed. This is blocking my whole team.,billing,high
+"Hello team, M yaccount is locked after too many login attempts. Please look into this in the next couple of days.",account_access,medium
+"which regions are your servers hosted in? not urgent, just wanted to mention it. thank you.",general_inquiry,low
+"Hi, Why did my bill increase after the llan renewal? Just a minor thing.",billing,low
+"Dear support, It would helpp if the calendar view could show week numbers. Thaanks.",feature_request,low
+"dear support, which regions are your servers hosted in? thank you.",general_inquiry,low
+"good mornin,g i need access added for a new team member. this keeps happening and it is quite annoying. regards, arun",account_access,medium
+"Hi, We would love a bulk edit option for contacts. Regards, AArun",feature_request,low
+"Dear support, I received a suspicious email pretending to be from your company asking for my password. Regards, Arun",security,high
+"Good morning, There are unauthorised transactions on my account. Our whole production system is down. Please help.",security,critical
+"Good morning, It owuld be great to have a dark mode. Whenever you get a chance.",feature_request,low
+Please change the email address linked to my account. We have a client deadline today. Thanks.,account_access,high
+"Good morning, The app crashes every time I open the reports page. It is affecting my work a bit but I hve a workaround. Thank you.",technical,medium
+"Hello team, I forgot my passwrd and the reset email never arrives. Just a minor thing. Please help.",account_access,low
+The dashboard has been loading very slowly since this morning. Thank you.,technical,medium
+"dear support, a phishing site is using your company logo. all our usrs are affected and we are losing revenue.",security,critical
+"Dear support, File upload fails at 90 percent with an unknown error. It is affecting my work a bit but I have a workaround. Regards, Arun",technical,medium
+"good morning, my api key was exposed in a public repositoory. this is blocking my whole team. regards, arun",security,high
+"hello team, i need access added for a new team member. all our users are affected and we are losing revenue. regards, arun",account_access,critical
+"Hi, Wheere can I find the user guide for the billiing module? Whenever you get a chance.",general_inquiry,low
+The discount code FEST25 was not applied at checkout. This keeps happening and it is quite annoying. Thanks.,billing,medium
+"hi, the discount code student50 was not applied at checkout. we have a client deadline today. please help.",billing,high
+"Dear suppotr, File upload fails at 90 percent with an unkonwn error. Regards, Arun",technical,medium
+"Dear support, Sync between mobile and desktop has stopped working. Please resolve this within a few houurs.",technical,high
+"Dear support, I need access added for a enw team member. I cannot work until this is fixed.",account_access,high
+"there are unauthorised transactions on my account. i cannot work until this is fixed. regards, arun",security,high
+"Good morning, I forgot my password and the reset email never arrives. Not urgent, just wanted too mention it. Thank you.",account_access,low
+api requests return tmieout errors intrmittently. please look into this in the next couple of days.,technical,medium
+Can I get a demo for my team? Please look into this i nthe next couple of days. Thanks.,general_inquiry,medium
+"why did my bill increase after the plan renewal? i cannot work until this is fixed. regards, arun",billing,high
+We would love a bulk edit option for contacts. Please help.,feature_request,low
+It would be great to have a dark mode.,feature_request,low
+"good morning, i want to update the credit card on file because it expires soon. tis is blocking my whole team. thank you.",billing,high
+"Good morning, I cannot log in, it says my credentials are ivalid. This is an emergency, it is happening right now.",account_access,critical
+"Why did my bill increase after the plan renewal? This kees happening and it is qquite annoying. Regards, Arun",billing,medium
+"dear support, i forgot my password and the reset email never arrives. just a minor thing.",account_access,low
+"Good moning, API requests return timeout errors intermittently. I cannot work until this is fxied. Thank you.",technical,high
+"Hi, The two-factor code is not accepted on my new phone. Not urgent, just wanted to mention it. Thanks.",account_access,low
+"Hello team, The dashboard has been loading vry sowly since this morning. This keeps happening and ti is quite annoying. Please help.",technical,medium
+why did m ybill increase after the plan renewal? whenever you get a chance.,billing,low
+"Hello team, It would help if the calendaar view could show week numbers.",feature_request,low
+i was charged twice for my pro subscription this month. thank you.,billing,medium
+The two-factor code is not accepted on my new phone. Thank you.,account_access,medium
+"hello team, can you add export to excel on the reports page? whenever you get a chance. thanks.",feature_request,low
+"Good morning, The dashboard has been loading very slowly since this morning. It is affecting my work a bit but I have a workaround. Thanks.",technical,medium
+"hello team, sync between mobile and desktop has stopped working.",technical,medium
+I forgot my password and the reset email never arrives.,account_access,medium
+a phishing site is using your company logo. please help.,security,high
+I was charged twic ofr my Team subscription hiss month. We have a client deadline today.,billing,high
+Which regions are your servers hosted in? It is affecting my work a bit but I have a workaround.,general_inquiry,medium
+"I found a vulnerability: the API returns other users' email addresses. Regards, Arun",security,high
+"I found a vuulnerability: the API returns other users' email addresses. Regards, Arun",security,high
+"Hi, Can you add export to Excel on thee reports page? Not urgent, just wanted to mention it. Thank you.",feature_request,low
+"Dear support, I need access added for a new team member. All our users are affected and we are losing revenue. Thank you.",account_access,critical
+"Hello team, I cannot log in, itt says my credenntials are invalid. Please resolve this within a few hours. Regards, Arun",account_access,high
+"Hello team, Sync between mobile and desktop has stopped working. Thank you.",technical,medium
+"Hello team, Why did my bill increase after the plan renewal? Regards, Arun",billing,medium
+M invoice #5422 shows an amount I do not recognise. Thank you.,billing,medium
+Where can I find your data retention policy? It is affecting my work a bit but I have a workaround.,general_inquiry,medium
+"dear suppport, we would love a bulk edit option for contacts. it is affecting my work a bit but i have a workaround. thanks.",feature_request,medium
+sync between mobile and desktop has stopped working. please help.,technical,medium
+"good morning, my api key was exposed in a public repository. please loook into this in the next couple of days.",security,medium
+"Good morning, Snyc between mobile and desktop has sopped working. This is an emregency, it is happening right now. Thanks.",technical,critical
+api requests return timeout errors intermittently. i cannot work until this is fixed. thanks.,technical,high
+why did my bill increase after the plan renewal? please resolve tihs within a few hours.,billing,high
+"God morning, My API key was exposed in a public repository. We have a client deadline today. Thank you.",security,high
+"Hi, The dashboard has been loading very slowly since this morning. Please resolve this within a few hours.",technical,high
+The dashboard has been loading very slowly since this morning. Please look into this in the next couple of days. Thank you.,technical,medium
+"Dear support, I watn to update the credit card on file because it xepires soon.",billing,medium
+"hello team, where can i find your data etention policcy?",general_inquiry,low
+"I forgot my password and the reset email never arrives. It is affecting my work a bit but I have a workaround. Regards, Arun",account_access,medium
+"Hi, Notifications are not being delivered to my phone. This keeps happening and it is quite annoying.",technical,medium
+"hello tea,m where cna i find the user guide for the reports module? this keeps happening and it is quite annoying. thanks.",general_inquiry,medium
+"dear support, the dashboard has been loading very slowly since thsi morning. all our users are affected and we are losing revenue. regards, arun",technical,critical
+i forgot my password and the reset email never arrives. i cannot work until this is fixed.,account_access,high
+The tw-fator code is not accepted on my new phone. We have a client deadline oday. Thanks.,account_access,high
+"Hi, I get a 500 error when exporting reporst. All our users are affected and we are losing revnue. Regards, Arun",technical,critical
+Do you have a student disount? Thanks.,general_inquiry,low
+"it would help if the calendar view could show week numbers. just a minor thing. regards, aurn",feature_request,low
+"Hello team, The dashboard has been loading very slowly since this morning. Our whole production system is down. Thank you.",technical,critical
+"Dear support, I found a vulnerability: the API returns other users' email addresses. Please help.",security,high
+"Good morning, I get a 500 error when exporting reports. All our users are affected and we are losing revenue.",technical,critical
+please consider adding single sign-on with google. this keeps happening and iit is quite annoying.,feature_request,medium
+"I think someone accessed my account without permission, there are logins from another country. Thanks.",security,high
+"hello team, how many users can i add on the starter plan? not urgent, just wanted to mention it. please help.",general_inquiry,low
+"hi, i was charged twice for my starter subscription this month. please look into this in the next couple of days.",billing,medium
+"Dear support, Please refund the payment of Rs 999 madde on 23/12. Whenever you get a chance. Thank you.",billing,low
+"dear support, a phishing site is using your company logo. our whole production system is down.",security,critical
+"dear support, i cannot log in, it says my credentials are invalid. we have a client deadline today. thanks.",account_access,high
+My account is locked after too many login attempts. Please help.,account_access,medium
+"hello team, my invoice #6097 shows an amount i d ont recognise. thannks.",billing,medium
+Notiifications are not being delivered to my phone. This is blocking my whole team.,technical,high
+My invoice #4900 shows an mount I do not recognise. I cannot work until this is fixed. Please help.,billing,high
+"hello team, i get a 500 error when exporting reports. just a minor thing. thank you.",technical,low
+"Good morning, It would be great to hhave a dark mode. It is affecting my work a bit but I have a workaround.",feature_request,medium
+"dear support, suggestion: add keyboard shortcuts for common actions. it is affecting my work a bit but i have a workaround.",feature_request,medium
+"Hi, API requests return timeout errors intermittently.  Icannot work until this is fixed. Thank you.",technical,high
+Do you have a student discount?,general_inquiry,low
+"hello team, please change the email address linked to my account.",account_access,medium
+"dear support, we would love a bulk edit option for contacts.",feature_request,low
+"Dear support, Please consider adding single sign-on with Google.",feature_request,low
+The dashboard has been loading very slowly since this morning. Thanks.,technical,medium
+"Dear support, I think osmeone acessed my account without permission, there are logins from another country. Please help.",security,high
+"Hello team, The dashboard has been loading very slowly since this morning. Thank you.",technical,medium
+"dear support, i forgot my password and the reset email never arrives. please look into this in the neext couple of days. regards, arun",account_access,medium
+notifications are not beign delivered to my phone. we have a client deadline today. thank you.,technical,high
+the two-factor code is not accepted on my new phone. this is blocking my whole team.,account_access,high
+"Hello team, Where can I find your data retention policy? No rush at all. Thank you.",general_inquiry,low
+"Helo tea, I cannot log in, it says my credentials are invalid. Please resolve this within a few hours. Thank you.",account_access,high
+How many users can I add on the starter plan? It is affecting my work a bit but I have a workaround. Thank you.,general_inquiry,medium
+"the app crashes every time i open the reports page. regards, arun",technical,medium
+"Helllo team, Where can I find the user guide for the billing module? Not urgent, just wanted to mention it. Thanks.",general_inquiry,low
+"Hello team, I get a 500 error when exporting reports. This is blocking my whole team. Please help.",technical,high
+"dear support, the app crashes every time i open the analytics page. i is affectinng my work a bt but i have a workaround.",technical,medium
+"Dear support, Can I get a demo for my team? Please help.",general_inquiry,low
+"I think smoeone accessed my account without permission, there are logins from another country. Our whole production system is down.",security,critical
+"Hi, Do you have a student diiscounnt? This keeps happening and it is quite annoying. Please help.",general_inquiry,medium
+"Good morning, Please refund the payment of R 499 made on 10/7. Regards, Arun",billing,medium
+"Good morning, The discount code WELCOME10 was not applie dat checkout. This keeps happening and it is quite annoying. Regards, Arun",billing,medium
+"Good morning, File upload fails at 90 percent with an unknown error. Thanks.",technical,medium
+"hello team, it would help if the calendar view could show week numbers. whenever you get a chance. thank you.",feature_request,low
+"good morning, itt would be great to have a dark mode. not urgent, just wanted to mention it. regards, arun",feature_request,low
+"Hello team, I found a vulnerability: the API returns other users' email addresses. This is an emergency, it is happening right now.",security,critical
+It would be great to have a dark mode. Please look into this in the next couple of days.,feature_request,medium
+"dear support, why did my bill increase after thhe plan renewal? i cannot work unttil this is fixed. thanks.",billing,high
+"Hi, My invoice #4687 shows an amount I do not recognise. We have a client deadline today.",billing,high
+"Hello team, Where can I find the user guide for the settings module?",general_inquiry,low
+"Hi, Suggestin: add keyboard shortcuts for common actions. This keeps happening and it is quite annoying. Regards, Arun",feature_request,medium
+"Dear support, I think someone accessed my account without permission, there are logins from another country. We have a client deadline today. Thank you.",security,high
+"Hi, Notifications are not being delivered to my phone. Whenever you get a chance. Thank you.",technical,low
+why did my bill increase after the plan renewal? please look into tis in the next couple of days. thank you.,billing,medium
+"I was charged twice for my Pro subscription this month. It is affecting my work a bit but I have a workaround. Regards, Arun",billing,medium
+I want to update the credit card on file because it expires soon. Please look into this in the next couple of days.,billing,medium
+"What are youur support hours on weekends? Not urgent, just wanted to emntion it. Thanks.",general_inquiry,low
+api requests return timeout errors intermittently. please look into this in the next coulpe of days. please help.,technical,medium
+It would help if the calendar view could show week numbers. Just a minor thing. Thaanks.,feature_request,low
+"Dear support, There are unauthorised transactions on my account.",security,high
+"it would be great to have a dark mode. not urgent, just wanted to mention it. thanks.",feature_request,low
+"the dashboard has been loading very slowly since this morning. no rush at all. regards, arun",technical,low
+"Dear support, Where can I find the user guide for the analytics module? No rush at all.",general_inquiry,low
+"dear support, the app crashes every time i open the profile page. please look into thhis in the next couple of days.",technical,medium
+Notificatios are not being delivered to my phone. Please look into this in the next couple of dasy. Thank you.,technical,medium
+"where can i find the user guide for the billing module? regadrs, arun",general_inquiry,low
+"dear spport, please refund the payment of rs 1499 made on 28/8. whenever you get a chance. regards, arun",billing,low
+"Good morning, The app crashes every time I open the analytics pge. No rush at all.",technical,low
+"Hello team, The two-factor code is not accepted on my ne phone. It is affecting my work a bit but I have a workaround.",account_access,medium
+"hi, api requests return timeout errors intermittently. thanks.",technical,medium
+We would love a bulk edit option for contacts. It is affecting my work a bit but I have a workaround.,feature_request,medium
+"Dear support, Suggestion: add keyboard shortcuts for common actions.",feature_request,low
+"Good morning, Where can I find the user guide for the profile modulee?",general_inquiry,low
+"Hi, I think someone accessed my account without permission, there are logins from another country. This is blocking my whole team. Thanks.",security,high
+A phishing site is using our company logo. This is blocking my whhole team. Thank you.,security,high
+"Dear supporrt, API requests return timeout errors intermittently. NNo rush at al. Thank you.",technical,low
+"i think someone accessed my account without permission, there are logins from another country. this i sblocking my whole team. regards, arun",security,high
+sync between mobile and desktop has stopped working.,technical,medium
+"hello team, i think someone accessed my account without permission, there are logins from another country. our whole production system is down.",security,critical
+"Hello team, What are your support hours on weekends? This keeps happeninng and ti is quite annoying. Thansk.",general_inquiry,medium
+My username is not recognised at sign in. This is blocking myy whole team.,account_access,high
+"Dear support, API requests return timeout errors intermitetntly. Whenever youu get a chance. Please help.",technical,low
+"good morning, the dashboaard has been loading very slowly since this morning. pleaes help.",technical,medium
+"Hi, The two-factor code is not accepted on my new phone. Just a minor thing. Thanks.",account_access,low
+I want to update the credit card on file because it expires soon. This is blocking my whole team. Thanks.,billing,high
+We would love a bulk edit ption for contacts. No rush at all. Please help.,feature_request,low
+"Dear support, Which regions are your servers hostedd in? Whenever you get a chance.",general_inquiry,low
+We would love a bulk edit option for contacts. Please look into this in the next couple o days.,feature_request,medium
+"good morning, i cancelled my pla but i still got billed. this keeps happening and it is quite annoying.",billing,medium
+"Dear support, Can I get a demo for my team? Thank you.",general_inquiry,low
+"Good morning, I received a suspicious email pretending to be from your company asking for my password. It is affecting my woork a bit but II have a workaround.",security,medium
+"good morning, i want to update the credit card on file because it expires soon. please resolve this within a few hours. regards, arun",billing,high
+"Hello team, We would love a bulk edit option for contacts. Thanks.",feature_request,low
+"Hi, Is there a plan to support a Tamil lagage interface? Whenever you get a chance.",feature_request,low
+i get a 500 error when exporting reports. please look into this in the next couple of days.,technical,medium
+The two-factor code is not acceptde on my new phone. Thank you.,account_access,medium
+"possible data breach: customer records are visible to other tenants. our whole production system is down. regards, arun",security,critical
+"Good morning, I was charged twice for my Business subscription this month. Please resolve this within a few hours.",billing,high
+please consider adding single sign-on with google. no rush at all.,feature_request,low
+"Dear support, API requests return timeout errors intermittently. Not urgent, just wanted to mention it.",technical,low
+Why did my bill increase after the plan renewal? Whenever you get a chance. Thanks.,billing,low
+"Goo morning, I fogot my password and the reset email never arrives. It is affecting my work a bit but I have a workaround. Thank you.",account_access,medium
+"Dear support, I fouund a vulnerability: the API returns other users' email addresses. Customers cannot place any orders at all.",security,critical
+"Dear support, I was chharged twice for my Starter subscription this month. IIt is affecting my work a bit but I have a workaround. Regards, Arun",billing,medium
+"Good morning, Can I get a demo for my team? Please help.",general_inquiry,low
+"Hello team, We would love a bulk edit option for conntacts. This keeps happening and it is quite annoying.",feature_request,medium
+"Dear support, I need access added for a new team member. This is an emergency, it is happenign right now. Regards, Arun",account_access,critical
+"I forgot my password and the reset email never arrives. Regards, Arun",account_access,medium
+is there a plan to support a tamil language interface? thank you.,feature_request,low
+"API requests return timeout errors intermittently. Not urgent, just wanted to mention it. Thank you.",technical,low
+what are your support hours on weekends? it is affecting my work a bit but i have a workaround. thanks.,general_inquiry,medium
+"Hi, Please consider adding single sign-on with Google. Thanks.",feature_request,low
+Which regions are your servers hosted in? Thanks.,general_inquiry,low
+"Hello team, Why did my bill increase after the plan renewal? Thanks.",billing,medium
+My invoice #6292 shows an aomunt I do not recognise. Please look into this in the next couple of days.,billing,medium
+"Good morning, I received a suspicious email pretending to be fro your company asking for my password. I cannot work until this is fixed. Regards, Arun",security,high
+"Hello team, Sync between mobile and dessktop has stoped working. Thank yo.u",technical,medium
+"Dear support, I forgot my password and the reset email never arrives. Please look into this in the next couple of days.",account_access,medium
+"Hi, I need access added ffor a new team member. Customers cannot place any orders at all. Thank you.",account_access,critical
+"Hello team, File upload fails at 90 percent iwth an unknown eror. Thanks.",technical,medium
+"Please consider adding single sign-on with Google. Just a minor thing. Regards, Arun",feature_request,low
+"dear support, please change the email address linked to my account.",account_access,medium
+"Hi, I think someone accessed my ccount without permission, there are loggins from another country. This is blocking my whole team. Thank you.",security,high
+"Hello team, How mmany users can I add on the starter plan? Just a minor thing. Thank you.",general_inquiry,low
+"Good morning, Can you add export to Excel on the reports page? It is affecting my work a bit bu I have a workaround. Regards, Arun",feature_request,medium
+"Hello team, My account is lockd after to many login attempts. I cannot work until this is fixed. Thanks.",account_access,high
+"Dear support, Can I get a demo for my team? It is affecting my work a bit but I have a workaround.",general_inquiry,medium
+"Dear support, I think someone accessed my account without permission, there are logins from another country. Pease resolve this within a few hours. Thank you.",security,high
+"Dear upport, What are your support hours on weekends? Not urgent, just wanted to mention it.",general_inquiry,low
+"hi, file upload fails at 90 percent with an unknown error. please look into thhis in the next couuple of days.",technical,medium
+API requests return timeout errors intermittently. Customers cannot place any orders at all.,technical,critical
+"Hi, I received a suspiciouus email pretending to be from your company asking for my password. This is blocking my whole team.",security,high
+"Goo morning, Please consider adding single sign-on with Google. Not urgent, just wanted to mention it.",feature_request,low
+"Hello team, Please consider ading single sign-on with Google. No rush at all.",feature_request,low
+"Hi, I received a suspicious email pretending to be from your company asking for my password. We have a client deadline today.",security,high
+There are unauthorised transactions on my account. Please look into this in the next couple of days.,security,medium
+"Good morning, I found a vulnerability: the API returns other users' email addresses. This is blocking my whole team.",security,high
+"Dear support, How many users can I add on the starter plan? No rush at al. Please help.",general_inquiry,low
+"Hello team, Whhere can I find the user guide for the billing module? No russh at all.",general_inquiry,low
+whatt are your support hours on weekends? no rush at all.,general_inquiry,low
+"hello team, i received a susspicious email pretending to be from your company asking for my password. this is blocking my wwhole team. please help.",security,high
+"Dear support, It would be great to have a dark mode. Not urgnet, just wanted to mention it.",feature_request,low
+"Hi, It would help if the calendar view could show week number.s Just a minor thing. Regards, Arun",feature_request,low
+"it would be great to have a dark mode. whenever you get a chance. regards, arun",feature_request,low
+"Dear suppport, Notifications are not being delivered to my phone.",technical,medium
+"Hello team, Can I get a demo for my team? No rush at all. Thanks.",general_inquiry,low
+"hello team, we would love a bulk edit option for contacts. whenever you get a chace.",feature_request,low
+"Hello team, How many users can I add on the starter plan? Whenever you egt a chance. Thanks.",general_inquiry,low
+"good morning, possible data breach: customer records are visible to other tenants. this is bolcking my whole team. thanks.",security,high
+"hi, it would be great to have a dark mode. just a minor thing. please help.",feature_request,low
+"hello team, file upload fails at 90 percent with an unknown error. thi sis blocking my whole etam. thanks.",technical,high
+"dear support, why did my bill increase after the plan renewal? it is affecting my work a bit but i have a workaround.",billing,medium
+"Good morning, I cancelled my plan but I still got billed. This keeps happening and it is quite annoying. Thanks.",billing,medium
+My API key was exposed in a public repository. We have a client deadline today. Thak you.,security,high
+"I forgot my password and the reset email never rarives. This keeps happenin gand it is quite annoying. Regards, Arun",account_access,medium
+"Hi, The discount code WELCOME10 was ont applied at checkout. Whenever you get a chance. Please help.",billing,low
+"hi, my username is not recognised at sign in. this keeps happening and it is quite annoying. thank you.",account_access,medium
+I received a suspicious email pretending to be fro your company asking for my password. All our users are affected and we are losing revenue.,security,critical
+Please change the email address linked to my account. Our whole production system is down.,account_access,critical
+"Hi, We would love a bulk edit option for contacts.",feature_request,low
+"hello team, i was charged twice for my business subscription this month. this keeps happening an it is quite annoying. thank you.",billing,medium
+The app crashes evey time I open the settings page. This is blocking my whole team. Thanks.,technical,high
+"good mornin,g notifications are no being delivered to my phone. customers cannot plac eany orders at all. tank you.",technical,critical
+"Hlelo team, File upload fails at 90 percent with an unknown error. No rush at all. Please help.",technical,low
+"Hi, A phishing site is using your company loog. We have a client deadline today.",security,high
+"Dear support, API reuests returnn timeout errors intermittently. Not urgent, just wanted to mention it. Tank you.",technical,low
+"where can i find the user guide for the billing module? it is affecting my work a bit but i have a workaround. regards, arun",general_inquiry,medium
+i received a suspiicous email pretending to be from your company asking for my password. please resolve this within a few hours. please help.,security,high
+"Good morning, There are unauthorised transactions on my account. All our users are affected and we are losing revenuee.",security,critical
+"Hello team, It would help if the calenddar view could show week numbers. Please look into this in the next couple of days. Thanks.",feature_request,medium
+"Hi, It would help if the calendar view could show week numbers. Whenevre you get a chance.",feature_request,low
+"dear support, i forgot my passsword and the reset email never arrives. please look into this in the next couple of days. thank you.",account_access,medium
+"Hi, Where can I find your data retention policy? Just a minor thing. Regards, Arun",general_inquiry,low
+"dear support, please refund the payment of rs 999 made on 9/2. whenever you get a chance.",billing,low
+Please consider adding single sign-on with Google. Please look into this in the next couple of days.,feature_request,medium
+"i think someone accessed my account without permission, there are logins from another country. regards, arun",security,high
+"Hi, My invoice #4143 shows na amount I do not recognise. Please look into this in the next couple of days. Please help.",billing,medium
+"Hi, I think someone accessed my account withoutt permission, there are logins from another country. Thanks.",security,high
+"Dear support, It would be great to have a dark mode. It is affectiing my work a bit but I have a workaroun.",feature_request,medium
+"Good morning, A phishig site is using your company logo. This is an emergency, it is happening right now. Regards, Arun",security,critical
+"Hello team, The discount code WWELCOME10 was not applied at checkout. Please help.",billing,medium
+"The dashboard has been loading very slowly since this morning. This is an emergency, it is happening rigt now. Thanks.",technical,critical
+"good morning, what are yor support hours on weekendds? please look into this in the next couple of dys.",general_inquiry,medium
+"Dear support, Do you have a student discount? Just a minor thing. Thanks.",general_inquiry,low
+Which regions are your servers hosted in? Whenever you get a chance. Thanks.,general_inquiry,low
+"the twwo-factor code is not accepted on my new phone. not urgent, just wanted to menttion it. please help.",account_access,low
+"Where can I find your data retention poliy? Not urgent, just wanted to mention it. Regards, Arun",general_inquiry,low
+"Hello team, Can I get a demo for my team? Not urgent, just wanted to mention it. Please help.",general_inquiry,low
+Do you have a student discount? Just  minor thing. Thanks.,general_inquiry,low
+"Good morning, We would love a bulk edit option for contacts. No rush at all. Thank you.",feature_request,low
+My username is not recognised at sign in. This is blocking my whole team. Please help.,account_access,high
+"Dear support, API requests return timeout errors intermittently. This is blocking my whole team. Thanks.",technical,high
+It would help if the callendarr view could show week numbers. Please help.,feature_request,low
+"Hello team, The app crahes every time I open the reports page. Just a minor thing.",technical,low
+"Hi, Which regions are your servers hosted in? No rush at all. Thank you.",general_inquiry,low
+Do you have a student discount? This keeps happening and it is quite annoying.,general_inquiry,medium
+"Good morning, Please refund the paymetn of Rs 499 made on 19/9. This is blocking my whole team. Please help.",billing,high
+"Dear support, Suggestion: add keyboard shortcuts for common actions. This keeps happening and it is quite annoying. Regards, Arun",feature_request,medium
+"good morning, i need access added for a new team member. we have a client deadline today.",account_access,high
+"The discount code WELCOME10 was not applied at checkout. Please look into this iin the next couple of days. Regards, Arun",billing,medium
+"It would help if the calendar view could show weeek numbers. Regards, Arun",feature_request,low
+"good morning, why did my bill increase after the plan renewal? not urgent, just wanted to mention it.",billing,low
+"The discount code STUDENT50 wa not applied at checkout. Regards, Arun",billing,medium
+It would help if the calendar view could show week numbers. Please look into this in the next couple of days. Thank you.,feature_request,medium
+"Hi, The two-factor code is not accepted on my new phone. It is affecting my work a bit but I have a workaround. Regards, Arun",account_access,medium
+"hi, sync between mobile and desktop has stopped working. regards, arun",technical,medium
+I gett a 500 error when exporting rpeorts. It is affecting my work a bit bt I have a workaround.,technical,medium
+why did my bill increase after the plan renewal? i cannot work until this is fixed. please help.,billing,high
+"Hello team, Can I get a demo for my team? Whenever you get a chance.",general_inquiry,low
+"Good morning, The two-factor code is not accepted on my new phone. Thanks.",account_access,medium
+Why di dmy bill increase after the plan renewal? We have a client deadline today.,billing,high
+"Dear support, Wat are your support hours on weekends? Just a minor thing. Regards, Arun",general_inquiry,low
+"Dear support, The discount code STUDENT50 was ont applied at checkout. This keeps happening and it is quite annoying. Thanks.",billing,medium
+"Good morning, I need access aded for a new team member. Please resolve this within a few hours. Please help.",account_access,high
+why did my bill increaase after the plan renewal? it is affecting my work a bit but i have a workaround. please help.,billing,medium
+"dear support, sync between mobile and desktop has stopped working. it is affecting my work a bit ubt i have a wokraround. pllease hellp.",technical,medium
+"Dear support, I found a vulnerability: the API returns other users' email addresses. Please resolve this within a feew hours.",security,high
+"Dear support, Can you add export to Excel on the reports page? Thanks.",feature_request,low
+"Hi, We would love a bulk edit option forr contacts. Not urgent, just wanted to mention it. Thank you.",feature_request,low
+"hello team, there are unauthorised transactions on my account. this is blocking my whole team.",security,high
+Notifications are not being delivered to my phone. Thanks.,technical,medium
+"Dear support, I cancelled my plan but I still got billed.",billing,medium
+The app crashes every time I open the profile page. Thanks.,technical,medium
+The discount code WELCOME10 was not applied at checkout. Please look into this in the next couple of days.,billing,medium
+"dear support, please change the email address linked to my account. it is affecting mmy work a bit but i have a workaround.",account_access,medium
+"Dear support, Which regions are your servers hosted in? Just a minor thing. Please help.",general_inquiry,low
+a phishing site is using your company logo.,security,high
+"Hi, The two-factor code is not accepted on my new phone. Our hole production system is down.",account_access,critical
+it would be great to have a dark mode.,feature_request,low
+"hi, i canellled my plan but i still got biilled. just a minor tthing. please help.",billing,low
+There are unauthorised transactions on my account. Customers cannot place any orders at all. Thanks.,security,critical
+"I think someone accessed my account without permission, there are logins from another country. Our whole production system is down.",security,critical
+"hi, is there a plan to support a tamil language interface? whenever you get a chance.",feature_request,low
+My username is no recgonised at sign in. Please resolve this within a few hours. Thank you.,account_access,high
+"dear support, do you have a student discount? thank you.",general_inquiry,low
+"Hello team, File upload fails at 90 percent with an unknown error. I cannot work until this is fixed.",technical,high
+There are unauthorised transactions on my account. Please help.,security,high
+"Hi, The dashboard has been loading very slowly sice this morning. This is blocking my whole team. Thank you.",technical,high
+"Good morning, I forgot my password and the reset email never arrives. Thanks.",account_access,medium
+"good morning, possible data breach: customerr records are visible to other tenants. we have a client deadline today. thanks.",security,high
+"Hello team, I found a vulnerability: the API returns other users' email addresses. This is an emergency, it is happening right now.",security,critical
+"dear support, can i get a demo for my team? not urgent, just wanted to mention it.",general_inquiry,low
+sync between mobile and desktop has stopped working. we have a client deadline today. please help.,technical,high
+a phishing siet is using your company logo. customers cannot plac eany orders at all. thanks.,security,critical
+"Dear support, I need access added for a ne wteam member.",account_access,medium
+"Hello team, I received a suspicious email pretending to be from your company asking fr my password. All our users are affected and we are losing revenue.",security,critical
+"i found a vulnerability: the api returns other users' email addresses. this is an emergency, it is happening right now. thank you.",security,critical
+"Dear support, The app crashes every time I open the analytics page.",technical,medium
+"good morning, possible data breach: customer records are visible to other tenants. thanks.",security,high
+Possible data breeach: customer records are visible to other tenants. Please resolv this within a few hours.,security,high
+"hi, possible data breach: customer records are visible to other tenants. this is an emergency, it is happeing right now. thanks.",security,critical
+"hello team, the discount code welcome10 was not applied at checkout. it is affecting mmy work a bit but i have a workround.",billing,medium
+"Hi, I received a suspicious email pretending to be from your company asking for y password. This keeps happening and it is quite annoying. Regards, Arun",security,medium
+"hello team, i get a 500 error when exporting reports. thank you.",technical,medium
+"Hi, My API key was exposed in a public repository. This is blocking my whole team. Thanks.",security,high
+My account is locked after too many login attempts. I cannot work until this is fixed. Thanks.,account_access,high
+"Good morning, Can I get a demo for my team? Just a minor thing. Thanks.",general_inquiry,low
+"Can I get a demo for my team? Just a minor thing. Regards, Arun",general_inquiry,low
+I found a vulnerability: the API returns other users' email addresses. All our users are affected and we are losing revenue. Please help.,security,critical
+"Good morning, I want to update the rcedit card o nfile because it expires soon. Please look into this in the next couple of days. Thanks.",billing,medium
+"Dear support, Why did my bill increase after the plan reneewal? Not urgent, just wanted to mntion it. Please help.",billing,low
+"Hello team, The dashboard has been loading very slowly sinec this moring. Please help.",technical,medium
+"Hello team, Where can I find the user guide for the analytics module? It is affecting my work a bit but I have a workaround.",general_inquiry,medium
+i found a vulnerability: th api returns other users' email addresses. i cannot work until this is fixed.,security,high
+"hi, a phishing site is using your company logo. please resolve this withhin a few hours. thanks.",security,high
+"hello team, the app crashes every time i open the reports page. not urgent, just wanted to mention it.",technical,low
+"good morning, please refund the payment of rs 499 made on 16/8. please look into this in the next couple of days. regard,s arun",billing,medium
+"hi, the dashboard has been loading very slowly since this morning. please look into this in the next cuple of days. thanks.",technical,medium
+Can you add export to Excel on the reports page? Please help.,feature_request,low
+It would be great to have a dark mode. No rush at all. Please help.,feature_request,low
+i cancelled my plan but i still got billed. this keeps happening and it is quite nanoying. thanks.,billing,medium
+"Why did my bill increase after the plan renewal? Please look into this in the next couple of days. Regards, Arun",billing,medium
+"Godo mornin,g My API keyy was exposed in a public repository. Customers cannot place any orders at all. Thank you.",security,critical
+"hello team, possible data breach: customer records are visible to other tenants. all our users are affected and we are losing revenue.",security,critical
+"Dear support, Do you have a student discount? No rush at all.",general_inquiry,low
+"Hi, A phishng site is using your company logo. Please esolve this within a few hors. Thank you.",security,high
+"hi, i found a vulnerability: the api returns other users' email addrsesees. this is an emergency, it iis happpening right now.",security,critical
+"A phishing site is using your compnay logo. Please resolve this within a few huors. Regardss, Arun",security,high
+Is there a lpan to support a Tamil language interface? Tank you.,feature_request,low
+"Good morning, I want to update the credit card on file because it expires soon. We have a client deadline today. Please help.",billing,high
+"dear support, suggestion: add keyboard shortcuts for common actions. noo rush at all. thanks.",feature_request,low
+"hello team, i forgo my password and the reset email ever arrives. please look into this in the next couple of days. please help.",account_access,medium
+I need access added for a new team member. It is afefcitng my work a bit but I have a workaround. Thanks.,account_access,medium
+Notifications are not being delivered to my phone. All our users ar affected and we are losing revenue. Please help.,technical,critical
+"Hi, API rqeuests return timout errors intermittently. Please look into this in the next couple of days. Regards, Arun",technical,medium
+"Hi, Do you have a student discount? It is affecting my work a bit but I have a workaround. Regards, Arun",general_inquiry,medium
+"Hello team, What are your support hours on weekends? Whenever you get a chance. Thank you.",general_inquiry,low
+"Dear support, The app crashes every time I opeen the reports page. Whenever you get a chance. Thanks.",technical,low
+"dear support, possible data breach: customer records are visible to other tenants. thanks.",security,high
+"Hello team, I cannot log in, it says my credentials are invalid. Not urgent, just wanted to mention it.",account_access,low
+"Hi, II found a vunerability: the API rturns other users' email addresses. Thank you.",security,high
+"Hello team, There are unauthorised transactions on my account. We have a client deadline today.",security,high
+"hello team, please consider addng single sign-on with google. please look into this in the next couple of days. regards, arun",feature_request,medium
+"It would be great to have a dark mode. Not urgent, just wanted to mention it. Thank you.",feature_request,low
+i forgot my password and the reset email never arrives. we have a client deadline today.,account_access,high
+"Hello team, Please refund the payment of Rs 1499 made on 4/3. I cannot work until this is fixed. Thanks.",billing,high
+My account is locked afetr too many login atteempts. Please resolve this within a few hours.,account_access,high
+"dear support, i ofund a vulnerability: the api returns other users' email addresses. our whole productioon system is down.",security,critical
+I need acess added for a new team member. No rush at all.,account_access,low
+"hi, possible data breach: customer records are visible to other tenants. pleease help.",security,high
+"Good morning, My account is locked after too many login attempts. We have a clent deadlin today. Please help.",account_access,high
+"Hello team, I think someone accesseed my account ithout permission, there are logins from another country. Thanks.",security,high
+"Dear support, I cancelled my plan but I stil lgot billed.",billing,medium
+a phishing site is using your company logo. all our users are affected and we are losing revenue.,security,critical
+Is there a plan to support a Tamil language interface? No rush at all. Pleasee help.,feature_request,low
+"hello team, please consider adding single sign-on with google. whenever you get a chance.",feature_request,low
+"hi, is there a plan to support a tamil language interface?",feature_request,low
+"good morning, do you have a student discount?",general_inquiry,low
+"Hi, Is there a plan to support a Tamil language interface? Please look into this in the next couple of days. Thank you.",feature_request,medium
+"hi, i think someone accessed my account without permission, there are logins from another country. i cannot work until this is fixed.",security,high
+"Hi, My username is not recognised at sign in. Thank you.",account_access,medium
+"Dear support, Do you have a student discount? No rush at all. Thank you.",general_inquiry,low
+"Hello team, I cannot log in, it says my credentials are invalid. This keeps happening and it is quite annoying. Plese help.",account_access,medium
+the discount code welcome10 was not applied at checkout. all our users are affected and we are losng revenue.,billing,critical
+"Hello team, The app crashes every time I open th ebilling page. Not urgent, just wanted to mention it. Thank you.",technical,low
+"Hi, Where can I find your data retention ppolicy? Thank you.",general_inquiry,low
+"Hello team, Suggestoin: add keyboard shotcuts for common actions. Regards, Arun",feature_request,low
+"Good morning, Is there a plan to support a Tamil language interface? No rush at alll.",feature_request,low
+Possible data breach: customer records are visible to other tenants. Please resolve tis within a few hours.,security,high
+I received a suspicious email pretending to be from your company asking for my password. Customers cannot place any orders at all.,security,critical
+It would help if the calendar vie oculd show week numbers. Pleasse help.,feature_request,low
+"Dear support, I received a suspicious email preteding to be from your ocmpany asking for my password.",security,high
+"Good morning, I found a vulnerability: the API retturns other users' email addresses. This keeps happening and it is quite annoying.",security,medium
+"Dear support, Can you add export to Excel on the reports page? Plese help.",feature_request,low
+"Suggestion: add keyboard shortcuts for common actions. Not urgent, just wanted to mention it.",feature_request,low
+"Good morning, Can I get a demo for my team? It is affecting my work a bit but I have a workaround. Please help.",general_inquiry,medium
+"Hello team, Please change hte email address linked to my account. All our users are affected and we are losing revenue.",account_access,critical
+"Hello team, Sync between ombile and desktop has stopped workking. This keeps happening and it is quite annoying.",technical,medium
+My API key was exposed in a public repository. Our whole production system is down.,security,critical
+"Hello team, We would love a bulk edit option for contacts. Whenever you get a chance. Regards, Arun",feature_request,low
+"Good morning, There are unauthorised transactions on my account. I cannot work until thiis is fixed. Regards, Arun",security,high
+"hello team, can you add export to excel on the reports page? this keeps happening and it is quite annoying. thank you.",feature_request,medium
+"Hi, Sync between mobile and desktop has stopped working. All our users are affected and we are losing revenue. Thank you.",technical,critical
+"suggestion: add keyboard shortcuts for common actioons. not urgent, just wanted to mention it. thanks.",feature_request,low
+"Good morning, Is there a plan to support a Tamil language interface? Whenever you get a chance. Regards, Arun",feature_request,low
+Please change the email address linked to my account. It is affecting my work a bit but I have a workaround. hanks.,account_access,medium
+"dear support, my invoice #8953 shows an amount  do not recognise. not urgent, just wanted to mention it. thank you.",billing,low
+i cancelled my plan but i still got bliled.,billing,medium
+"It would help if the calendar view could show week numbers. Not urrgent, just wanted to mention it. Thanks.",feature_request,low
+It would be great to have a drk mode. No rush at all.,feature_request,low
+Possible data breach: customer records are visible t other tenants.,security,high
+"Dear support, I want to update the credit card on file because ti expires soon. It is affecting my work a bit but I have a workaround. Reggards, Arun",billing,medium
+"hi, please refund the payment of rs 999 made on 18/12.",billing,medium
+"Hell oteam, It would help if the calendar view could show week numbers. Whenever you get a chance. Thanks.",feature_request,low
+"dear support, i cannot log in, it says my credentials are invaid. this keeps happening and it is quite annoying. please help.",account_access,medium
+"Hello team, File upload fails at 90 percent with n unknown error. Customers cannot place any orders at all. Thank you.",technical,critical
+"dear support, i received a suspicious email pretending to be from your company asking for my password. please resolve this within a few hours. thanks.",security,high
+"Good morning, I think someone accessed my account without permission, there are logins from anotheer country. Wee have a client deadline today.",security,high
+"hello team, how many users can i add on the starter plan? not urgent, just wanted to mention it. pleae help.",general_inquiry,low
+"Good morning, API requests return timeout errors intermmittently. It is affecting my work a bit but I have a workaround.",technical,medium
+"dear support, please change the email adress linked to my account. we have a client deadline today. thanks.",account_access,high
+"Dear support, The two-factor code is not accepted on my new phone. This is an emergency, it is happening right now.",account_access,critical
+"Good morning, Wheer can I find the user guide for the billing module? Just a minor thing. Thank you.",general_inquiry,low
+"Hello team, File upload fails at 90 percent with an unknown error. Please look into this in the next couple of days. Thank you.",technical,medium
+"Dera suporpt, My API key was exposed in a public repository. Customes cannot place any orders at all.",security,critical
+"Hi, Suggestion: add keyboard shortcuts for common actions. Please look into this in the next couple of days. Regrds, Arun",feature_request,medium
+I cancelled my plan but I still got billed. Thanks.,billing,medium
+"Good morning, Why did my bill increase after the plan renewal? Please look into this in the next couple of days. Regrds, Arun",billing,medium
+"i want to upate tthe credit card on file because it expires soon. this is an emergency, it is happening right now.",billing,critical
+"dear support, where can i find your data retention policy? just a minor thing. thank you.",general_inquiry,low
+"Dear support, What are your support hours on weekends? Just a minor thing. Thak you.",general_inquiry,low
+We would love a bulk edit option for contacts.,feature_request,low
+"Dear support, There are unauthorised transactions on my account. Customers cannot place any orders at all.",security,critical
+Where can I find the user guide for the settings module? This keepps happening and it is quite annoying. Thank you.,general_inquiry,medium
+"Hi, I want tto update the credit card on file because it expires soon. Customers cannot place any ordders at all. Thanks.",billing,critical
+Possible data breach: customerr records are visible to other tenants. This is blocking my whole team. Thank you.,security,high
+"Dear support, The app crashes every time I open the analytics page.",technical,medium
+"Hello team, My invoice #6198 shows an amount I do not recognise. Please help.",billing,medium
+"Dear support, Please change the email address linekd to my account. Please resolve tis within a few houurs. Thanks.",account_access,high
+"Why did my bill increase after the plan renewal? ot urgent, just wanted to mention it.",billing,low
+"Hello team, I think someone accessed my account without permission, there are logins from another country. Please resolve this within a few hours. Thanks.",security,high
+"Which regions are your servers hosted in? Not urgent, just wanted to mention it.",general_inquiry,low
+"Hi, I need access added for a new team member. Please resolve this wthin a few hours. Please help.",account_access,high
+"good morning, which regions are your servers hosted in?",general_inquiry,low
+"Hi, My invoice #9218 shows an amount I do not recognise. Please resolve htis within a few hours.",billing,high
+It would help if the calndar view could show week numbers. Just a minor thing. Thank you.,feature_request,low
+"Can you add export to Excel on te reports page? Whenever you get a chance. Regards, Arun",feature_request,low
+"Good morning, It would help if the calendar view could show week numbers. Not urgent, just wanted to mention it. Regards, Arun",feature_request,low
+"Good morning, Which regions are your servers hosted in? Thanks.",general_inquiry,low
+I received a suspicious email pretending to be from your company asking for my password. Our whole production system si down. Please help.,security,critical

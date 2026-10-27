@@ -1,0 +1,68 @@
+{
+  "eval": {
+    "baseline": {
+      "issue_type": {
+        "accuracy": 0.5533,
+        "macro_f1": 0.5706
+      },
+      "urgency": {
+        "accuracy": 0.7167,
+        "macro_f1": 0.71
+      },
+      "routing_accuracy": 0.5533,
+      "severe_under_prioritised": 7
+    },
+    "ai": {
+      "issue_type": {
+        "accuracy": 0.7433,
+        "macro_f1": 0.7462
+      },
+      "urgency": {
+        "accuracy": 0.9533,
+        "macro_f1": 0.9624
+      },
+      "routing_accuracy": 0.7433,
+      "severe_under_prioritised": 0
+    },
+    "guardrails": {
+      "tickets": 300,
+      "sent_to_human_review": 151,
+      "auto_routed": 149,
+      "auto_routed_routing_accuracy": 0.9866,
+      "review_rate": 0.5033
+    }
+  },
+  "hard_cases": {
+    "baseline": {
+      "issue_type": {
+        "accuracy": 0.4211,
+        "macro_f1": 0.3611
+      },
+      "urgency": {
+        "accuracy": 0.4737,
+        "macro_f1": 0.4512
+      },
+      "routing_accuracy": 0.4211,
+      "severe_under_prioritised": 3
+    },
+    "ai": {
+      "issue_type": {
+        "accuracy": 0.7368,
+        "macro_f1": 0.712
+      },
+      "urgency": {
+        "accuracy": 0.6316,
+        "macro_f1": 0.6217
+      },
+      "routing_accuracy": 0.7368,
+      "severe_under_prioritised": 1
+    },
+    "guardrails": {
+      "tickets": 19,
+      "sent_to_human_review": 13,
+      "auto_routed": 6,
+      "auto_routed_routing_accuracy": 0.8333,
+      "review_rate": 0.6842
+    }
+  }
+}

@@ -1,0 +1,21 @@
+text,issue_type,urgency
+"I was charged twice and now I also cannot log in to see the invoice, please fix both.",billing,medium
+Is it normal that your app asks for my password again and again? Looks suspicious to me.,security,high
+The export button is gone. Was it removed or is it a bug?,technical,medium
+Not urgent but our entire production environment has been down since 9am.,technical,critical
+hi,general_inquiry,low
+Do you plan to add refunds to the mobile app? I have asked for a refund of my payment too.,billing,medium
+Why am I seeing someone else's name on my dashboard? Customer data might be leaking.,security,critical
+Just wondering whether it is possible to enable 2FA for all team members.,general_inquiry,low
+The new update broke login for all our staff and we cannot open the shop.,account_access,critical
+I would like a feature to download my invoices in bulk because the billing page is too slow.,feature_request,low
+Thanks for the quick help last time! Quick question: do you offer annual billing?,general_inquiry,low
+URGENT!!! please reply ASAP!!! my account,account_access,high
+"someone changed my password and my email, I did not do this",security,high
+Can't sync files and the app says my subscription expired although I paid yesterday.,billing,high
+The reports page times out. We have an audit tomorrow and need the numbers today.,technical,high
+Please add more payment options like UPI. It would make renewals easier.,feature_request,low
+"My card was declined but the money left my account, can you check, no rush.",billing,low
+Where do I report a bug that lets anyone read other users' files?,security,critical
+Not able to access,account_access,medium
+Our admin left the company and we need to transfer ownership of the workspace.,account_access,medium

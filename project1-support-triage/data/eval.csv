@@ -1,0 +1,301 @@
+text,issue_type,urgency
+"hi, please consider adding single sign-on with google.",feature_request,low
+"Good morning, The GST amount on my latest invoice looks wrong. Please help.",billing,medium
+"hi, the search box returns lbank results for annything i type. it is affecting my work a bit but i have a workaround.",technical,medium
+Where can I fnd your data retention policy? lease help.,general_inquiry,low
+"dear support, i was charged twice for my starter subscription this month. not urgent, just anted to mention it. thanks.",billing,low
+"good morning, the discount code student50 was not applied at chekcout. no urgent, just wanted to mention it.",billing,low
+Screen freezes and the page never finishes rendering after the latest update. This keeps happening and it is quite annoying. Thanks.,technical,medium
+"Dear support, Do you have a student discount? Not urgent, just wanted to mentio nit. Thankks.",general_inquiry,low
+"I thnik someone accessed my account wihout permission, there are logins from another country. Please resolve this within a few hours. Thank you.",security,high
+"hi, i want to update the credit card on ffile because it expires soo.n no rush at all. regards, arun",billing,low
+"Hi, Someone has been sending message from my profile and I did not write them. We have a client deadline toady.",security,high
+"someone has been sending messages rom my profile and i did not write thhem. please reslve this within a few hours. regards, arun",security,high
+API requests return timeout errors intermittently. We have a client deadline today. Please help.,technical,high
+"Good morning, Would you eer build a native tablet version? Just a minor thing.",feature_request,low
+"hello team, could someone explain the difference between the standard and premium tiers? no rush at al. thank you.",general_inquiry,low
+"Hello team, Someone has been sending messages from my profile and I did not write them. This is blocking my whole tem. Thanks.",security,high
+"Good morning, After changing my number I cannot receive the verification code o get in. This keeps happening and itt is quite annoying. Thanks.",account_access,medium
+"Dear support, Money was deducted from my bank but the payment shows as pending. Customers cannot place any orders at all. Please help.",billing,critical
+"Hello team, Would you ever build a native tablet version? This keeps happening and it is quite annoying. Thakns.",feature_request,medium
+"Notifications are not being delivered to mmy phone. We have a client deadline today. Regards, Arun",technical,high
+"good morning, my username is not recognised at sign in. customers cannot place ny orders at all.",account_access,critical
+"It would be great to have a dakr mode. Not urgent, just wanted to mention it. Please help.",feature_request,low
+"Hello team, A phishing sit eis using your company logo. Our whole production system is down. Thank you.",security,critical
+"Hi, Why did my bill increase after the plan renewal? It is affecting my work a bit but I have a workaround.",billing,medium
+suggestion: add keyboard shortcuts for common actions. whenever ou get a chance. thank you.,feature_request,low
+"hello team, i think soeone accessed my account without permission, there are logins from another countr. please look into this in the next couple of days.",security,medium
+"Good morning, Someone has been sending messages from my profile and I did not write them. ustomers cnanot place any order at all.",security,critical
+"good morning, someone has been sennding messages from my profile and i did not write them. this is an emergency, it is happening right now. thank you.",security,critical
+"unable to get into my profiile, the pge keeps sending me back to the sign n sceren. regrds, arun",account_access,medium
+Money was deeducted from my bank but hte payment shows as pending. We have a client deadline today.,billing,high
+"Hi, Is your esrvice available in Hinddi and Tamill support? Whenever you get a chance.",general_inquiry,low
+The dashboard has been loading very slowly since this morning. Please look int this in the next couple of days. Thank you.,technical,medium
+Suggestion: add keyboard shortcuts for common actions. Please look into this in the next couple fo days.,feature_request,medium
+The search box returns blank results for anything I type. It is affecting my work a bit but  Ihave a workaround.,technical,medium
+"hell oteam, the search box returns blank results for aanything i type. we haave a client deadline today. thanks.",technical,high
+"Dear suport, I need access added for a new team meber. It is affecting my work a bit but I have a workaround.",account_access,medium
+"Hi, Would you ever build a native tablet version? Regards, Arun",feature_request,low
+"Hi, Money was eddductedd from my bank but the payment shows as pending. It is affecting ym work a bit bt I have a workaround.",billing,medium
+"Hello team, Possible datta becah: customer records are visible to other tenats. Thansk.",security,high
+"Good morning, Please change the email address linked to my account. Regards, Arun",account_access,medium
+"Dear support, Would you ever build a native tablet version? It is affecting my work a bit but I have a workaround. Taanks.",feature_request,medium
+"Unable to get into my profile, the page keeps sending me back to the sign in screen. Please look into this in the next couuple of days. Thanks.",account_access,medium
+Sync between mobile and desktop has stopped working. This keeps happening and it is quite nnoying.,technical,medium
+what are your support hours on weekends? whenever you get a chance. thank you.,general_inquiry,low
+"dear support, why did my bill increase after the plan renewal? not urgent, justt wanted to mention it. please help.",billing,low
+"dear support, what are your support hours on weekends? just a minor thing. thank you.",general_inquiry,low
+"Good morning, Screen freezes and the page never finishes ernedring after the latest update. It is affectin gmy work a bit but I have a workaround. Please help.",technical,medium
+would you eve rbuild a native tablet vresion? just a minor thing. plase help.,feature_request,low
+Is your servic available in Hindi and Tamil suppport? I tis affecting my work a bit but I have a workaround.,general_inquiry,medium
+"Good morning, Screen freezes and the page never finishes rendeing after the latest update. We have a client deadline today. Please help.",technical,high
+"Good morning, After changing my number I cannot rceeive the veirfication code to get in. Regards, Arun",account_access,medium
+"Hello team, A phishing site is using your company logo. We have a client deadline today. Regards, Arun",security,high
+"Hello team, The search box returns blank results for nything I type. tI is affecting my work a bit but I have a workaound. Thanks.",technical,medium
+"Dear support, Would you ever build a native tablt evrsion? This keeps happening and it is quite annoying. Thank you.",feature_request,medium
+"Hello team, Would you ever build a natvie tablet versio? This keeps happening and it is quite annoying. Regards, Arun",feature_request,medium
+Someone has been snding messages from myy profile and I did not write them. All our users are affected and we are losing revenue.,security,critical
+"hi, there are unauthorised transactions on my account. we have a client deadline today. thanks.",security,high
+"Hello team, The search box returns blank results fo anything I typee. Or whole production system is down. Please help.",technical,critical
+could someone explain the difference between hte standard and premium tiers? please help.,general_inquiry,low
+"dear support, mney was deducted from my bank but the payment shows as pending. it is affecting my work a bit but i have a workaroound.",billing,medium
+"Dear support, Please chage the email address linked to my account. This is blocking my whole team.",account_access,high
+"Hi, The GST amount on my latest invoice looks wrong. Thanks.",billing,medium
+"Dear support, Is your service available in Hindi and Tamil support? No rush at all. Thanks.",general_inquiry,low
+"Good mornning, After changing my number I cannot receive the verification code to get in. Thank you.",account_access,medium
+"dear support, would you ever build a nnative tablet version? his keeps happening and i is quite annoying. thank youu.",feature_request,medium
+Wolud you ever build a native tablet version? Thanks.,feature_request,low
+Which regions are your servers hosted in? Just a minor thing. Thank you.,general_inquiry,low
+"Can you add export to Excel on the reports page? It is affecting ym work a bit but I have a workaround. Regards, Arun",feature_request,medium
+"Hello team, Is there a plan to support a Tamil language intefrace? No rush at all. Thanks.",feature_request,low
+"Dear support, The GST amount on my latest invoice looks wong. I cannot work until this is fixed. Please help.",billing,high
+"it would bee great to have a dark mode. not urgent, just wanted to mentoin it. please help.",feature_request,low
+"Hi, It would be great to hvae a dark modee. Not urgent, just wanted to mention it.",feature_request,low
+"Hello team, I received a suspicious email pretending to be from your company asking for my password. This is blocking my whole team. Please help.",security,high
+"Hi, Could someone explain the differrence beeteen the standard and premiu mtiers? Whenever you gget a chance. Please help.",general_inquiry,low
+"Dear supprot, It wouldd help if the calendar view could show wee knumbers. Just a minor thing. Thank you.",feature_request,low
+"good morinng, please refund the payment of rs 2999 made on 20/11. please help.",billing,medium
+"Hi, After changing my number I cannot receive the veriifctoni code to get in. Please look into this in the next couple of days. Reards, Arun",account_access,medium
+"Hi, Can you add export to Excel on the report spage?",feature_request,low
+money was deducted from my bank but the paymeent shows as pending. this keeps happening and it is uqite annoying. pleaes help.,billing,medium
+"Good morinng, The dahboard has been loading very slowly since this morning. Please resolve this wiithin a few hours. Regards, Arun",technical,high
+"Our team need a way t schedule reports to e emailed every Monday. It is affecting my work a bit but I have a wokraround. Regards, Arun",feature_request,medium
+Would you ever buil da native ttablet version? Whenever you get a chanc. Thank you.,feature_request,low
+"Hello team, How many users can I add on the startr plan? Thhank you.",general_inquiry,low
+the discount code student50 was nt applied at checkout. i cannnot work until this is fixed.,billing,high
+"Hi, Money was deducted from my bank but the payment shows as pending.",billing,medium
+"Dear supprt, I want to update the credit card on file because it expires soon.",billing,medium
+"Good morning, Please change the email address linked to my account. It is affecting my work a bit but I have a workaround. Thanks.",account_access,medium
+The search box returns blank results for anything I type. Thi is blocking my whole team.,technical,high
+"Good morinng, The discount code WELCOME10 wass not applie at checkout. Please look into this in the next couple of days. Please help.",billing,medium
+Someone has bee sending messages from my profile and I did not write them. Please resolve this within a few hours.,security,high
+"Hi, Would you ever bild a native tablet version? Please look into this inn the ext couplee of days. Thanks.",feature_request,medium
+"My API keey was expse in a public repository. This is an emergency, it is happening rigth now. Reegadrs, Arun",security,critical
+"Our audit logs show an unknown admin account created last night. Regards, Arun",security,high
+"Good morning, The discount code WELCOME10 was not applied at checkout. Please look int othis in the next cuple of days.",billing,medium
+"Where can I find your data retenton policy? Not urgent, just wanted to mention it. Regards, Arun",general_inquiry,low
+"Hi, Unable to get into my profile, the page keeps sending me abck to the sign in screen. Regards, Arun",account_access,medium
+"Hello team, There are unauthorised transactions on my account. Thank.s",security,high
+"hello team, would you ever build a ntive tablet version? no rush at all. thank you.",feature_request,low
+"Hi, Money was deducted from my bank but the payment shows as pending. I cannot work until this is fixed. Please help.",billing,high
+I need access added for a new team member.,account_access,medium
+"dear support, could someone explain the difference between the standard and premium tiers? just a minor thing.",general_inquiry,low
+Money was deducted from my bank but the payment shows as pending. Just a minor thing. Thanks.,billing,low
+"Good morning, Possible data breach: customre records are visible to other tenants. Our whole production system is down.",security,critical
+money was dedcuted from my bank but the payment shoows as pending. please look into this in the next couple of days. thanks.,billing,medium
+The GST amount on my latest invoice looks wrong. Please look into this in the ext couple of days.,billing,medium
+"is your service available in hindi and tamil support? regards, arun",general_inquiry,low
+Someone has been sending messages from my profile and I di not write them. Thank you.,security,high
+"Goood morning, Sync between mobile and dekstop has stopped working. It is affecting my work a bit but I have a workaround. Regards, Arun",technical,medium
+"Good morning, Is your service available in Hindi and Tmail support?",general_inquiry,low
+"Hello team, A phishing site is using your company logo. This is an emergency, it is happening right now.",security,critical
+"Good morning, The GST maount on my latest invoice lokss wrong. Just a minor thing. Thanks.",billing,low
+"Dear support, Our audit logs show an unknown admin account created last night. All our usesr are affected and we are losing revenue. Thanks.",security,critical
+"hello team, the dashboard has been loading very slowly since this morning. this eeps happening and it is quite annoying.",technical,medium
+"Hello team, I need acess added for a new team member. This keeps happening and it is quite annoying. Regards, Arun",account_access,medium
+"Hi, Please consider adding single sign-on with Google. Thank you.",feature_request,low
+"Which regions are your servers hosted in? It is affecting my work a bit but I have a workround. Regards, Arnu",general_inquiry,medium
+Someone has been sending messages fro my profile and I did not write them. Customers cannot place any orders at all.,security,critical
+"Hi, I cancelled my lpan but I still got billed. Pleease look into this in the next couple of days. Thank you.",billing,medium
+"good morning, the search box rteurns blank results for anything i tyep. rgards, arun",technical,medium
+"Good morning, Our team needs a way to schedule reports to be emailed every Monday. Just a imor thing. Regards, Arun",feature_request,low
+"Dear spport, nUable to get into my profile, the page keeps sending me back to the sign in screen. Not urgent, just wanted to mention it. Regards, Arun",account_access,low
+"Hi, Ater changing my number I cannot receive the verification code to get in. Thank you.",account_access,medium
+"hello team, what are your support ours on weekends? not urgent, just wannted to mention it. regards, arun",general_inquiry,low
+our team needs a waay to scchedule reoprts to be emailed every monday. no rsh at all. thank yuo.,feature_request,low
+"screen freezes an dthe page never finishes rendering after the latest update. it is afffecting my work a bit but i have a workaround. regards, arun",technical,medium
+Our team needs a way to scheedule reports to b eemailed eevry Monday. Just a minor thing. Please help.,feature_request,low
+"Goo dmorning, Would you ever build  native tablet version? No ruhs at all. Tahnks.",feature_request,low
+"Hello team, Could someone explain the difference between the standard and premium tiers? Whenever you get a chance. Thanks.",general_inquiry,low
+"dear support, what are your support hours on weekends? not urgent, just wanted to menntionn it.",general_inquiry,low
+"dear suppoort, sync between mobile and desktop has stopped working. please look into this n the next couple of days. thanks.",technical,medium
+"Hello team, I want to update the crdit card on file because it expires soon. Nott urgent, just wanted to mentionn it. Regards, Arun",billing,low
+"Dear support, Scren freezes and the page never finishes rendering fter th latest update. This is blocking my whole team. Thanks.",technical,high
+"Dear support, Our team needs a way to schedule eports to be emailed every Monday. It is affecting my work  abit but I have a workaround. Thanks.",feature_request,medium
+"Good morning, The GST amount on my latest invoice looks wrong. This keeps happeniing and it is quite annyoing.",billing,medium
+"Dear support, Please refund the payment of Rs 1499 made on 17/3.",billing,medium
+"Hi, The dashboard has been loading very slowly since this morning. This is blocking my whle team.",technical,high
+"good morning, i cannot log in, it says my credentials are invalid. this is blocking my whole team. ergards, arun",account_access,high
+The app crashes every time I open the reports page. Thank you.,technical,medium
+"Good morning, Unable to get into my profile, the page keeps sending me back to the sign in screen. Please look into this in the next couplee of days. Please help.",account_access,medium
+"Good morning, Notifications are not being delivered to my phone. This is locking my whole team.",technical,high
+"Good morning, The search box rteurns blank results for anything I ype. Whenever you get a chance.",technical,low
+"Hi, The GST amount on my latest invoice looks wrong. Just a minor thing.",billing,low
+"Hi, Screen freezes and the page never finishes rendering after the latest update. Please resolve this within a few hours. Thanks.",technical,high
+"Dear support, Can you add export to Excel on the reports page? lease look intt othis in the next couple of days. Thank you.",feature_request,medium
+"Hello team, Please change the email address linked to my account. Just a minor thing. Thank you.",account_access,low
+"Hi, A phishing site is using your company logo. This is blocking my whole team. Regards, Arun",security,high
+"Hello team, Someone has been sending message sfrrom my profiel and I did not write them. All our users are affected and we are losing revenue. Regards, Arun",security,critical
+Please change the email address linked to my account. Ths is blockingg my whole team.,account_access,high
+"Hello team, Our audit logs show an unknown admin account created last night. This keeps happening annd it is quite annoying. Please help.",security,medium
+"good moorning, which regions are your servers hosted in? pleas elook into this in the next couple of days. regards, arun",general_inquiry,medium
+"Hi, Why did my bill increase after the plan renewal? This is blocking my whoel team.",billing,high
+"Hello team, Where can I find your data retention policy?",general_inquiry,low
+"Dear suppport, Sceen freezes and the page never fniishes rrendering after the latest update. It is affecting my work a bit but I have a workaround. Regards, Arun",technical,medium
+"Hi, Is there a plan to support a Tamil languagge interface? This keeps happening and it is quite anoying. Please help.",feature_request,medium
+"Good morning, Is there a plan to support a Tamil language interface? Thank you.",feature_request,low
+"good morning, there are unauthorised transactions on my account. i cannot work until this is fixed. please help.",security,high
+"After changin gmy number I cannot receive the verification code to get in. Customers acnnot place any orders at all. Regards, Arun",account_access,critical
+Sync between mobile and desktop has stopped working. It is affecting my work a bit but I have a workaround. Thanks.,technical,medium
+"Hi, Is your service available in Hindi and Tamil support? Not urgent, just wanted to mention it. Thhank you.",general_inquiry,low
+The search box returns blank results for anything I type. This keeps happening and it is quite annoying. Thank you.,technical,medium
+"hi, why did my bill increase after hte plan renewal?",billing,medium
+"The search box retursn blank results for anything I type. This is an emergency, it is happening right now. Please help.",technical,critical
+"Hello team, How many users can I add on the starter plan?",general_inquiry,low
+my invoice #8731 shows an amount i do not recognise. please help.,billing,medium
+"Hi, Would you ever build a native ttablet version? Please look into this in the next couple of days. Regards, Arun",feature_request,medium
+"Good morning, I cancelled my plan but I still got billled. Just a minor thnig.",billing,low
+"good morning, where can i find the user guide for the reports module? please look into thiis in hte next couplee of days. thanks.",general_inquiry,medium
+Could someone explain the difference between the standard and premium tiers? No rush at all. Please help.,general_inquiry,low
+"Hi, After changing my number I cannot receiv ethe verifiation code to get in. This keeps happening aand it is quite annoying. Thanks.",account_access,medium
+AP Irequests reutrn timeout erroors itermittently. This keeps happening and it is quite annoying. Thanks.,technical,medium
+"Dear support, Our team needs a way to schedule reprots to be emailed every Monday. It is affecting my work a bit but I have a workaround. Thank you.",feature_request,medium
+"Hello team, Thee search box returns blank eusls for anything I type. Please loko into this in the next couple of days. Regards, Arun",technical,medium
+"Good morning, Why did my bill increase after the plan renewal? This keeps happening and iit is quite annoyin.",billing,medium
+"Good morning, Where can I find your data retention policy? No rrush at all.",general_inquiry,low
+"Good morning, The search box returns blank results for anything I type. Not urgent, just wanted to mention it. Please help.",technical,low
+The search box rteurns blank results for anything I tpye.,technical,medium
+"Hi, Sync between mobile and desktop has stope dworking.",technical,medium
+"hello team, nable to get into my profile, the page keeps sending me back to the sign in screen. thank you.",account_access,medium
+"Hello team, After changing my nuber I ccannot receive the verfication code to get in. Please look into this in the next couple of days. Thanks.",account_access,medium
+"Hello team, Our team needs a way to schedule reports to be emailed every Monday. Thank you.",feature_request,low
+After changinng my number I cannot receive the verification code to get in. I cannot work until this is ifxed.,account_access,high
+"Hi, Money was deducted from my bank but the payment shows a pending.",billing,medium
+Someone hs been sending messages from my profile and I did not write them. I cannot work until this is fixed.,security,high
+"good morning, our audit logs show an unnknown admin account created last night. please resolve tthis withi na few hours. regards, arun",security,high
+"Good morning, Screen freezes and the page never finishes renderring after the latest update. Regards, Arun",technical,medium
+Our team needs a way to schedule reorts to be emailed every Monday. Pleease help.,feature_request,low
+my uername is noot recognised at sign in. please resolve this within a few hours.,account_access,high
+"Hi, Could somoene explain the dfiference between the sstandard and premium tiers? Not uurgent, just wanted to mention it.",general_inquiry,low
+"Hello team, Unable to get into my profile, the page keeps sending me bak to the sign in screen. All our users are affecte and we are losing revenue.",account_access,critical
+"Good morning, Possible data breach: customer record are vsiible to other tenants. Customers cannot place any orders at all.",security,critical
+"Good morning, I think someone accessed my account without permission, there are logins from another country. Our whhole productio system is down. Please help.",security,critical
+After changing my number I cannot receive the verification code to get in. Thanks.,account_access,medium
+"Dear support, Screen freezes and the page never finishes rendering after the latest update. This is blocking my whole team. Thank you.",technical,high
+"where can i find teh user guide for the profile module? not urgent, just wanted to mention it. thank you.",general_inquiry,low
+"Dear support, The app crashse every time I open the profile page. Thank you.",technical,medium
+"hello team, can i get a demo for my team? please look into this in the next couple of days.",general_inquiry,medium
+"Dear support, The app crashes every time I open the billiing page. Just  aminor thing.",technical,low
+"Dear support, The app crashes every time I open the reports page. Please resole this within a few hours. Regarrds, Arun",technical,high
+"hello team, money was dedcted form my bank but the payment shhows as pending. no rush at all. regards, arun",billing,low
+"Dear support, Please consider addinng single sign-on with Google. Regards, Arun",feature_request,low
+"Money was deducted rfom my bank but the payment shows as pending. Regards, Arun",billing,medium
+"Hello team, Is your service available in Hindi and Tamil suppport? Just a minor thing. Thank you.",general_inquiry,low
+"Dear support, Whih regions are your servers hosted in? Whenever you get a chance. Thanks.",general_inquiry,low
+"Good morning, Uanble to get into my profile, the page keeps sending me bac kto the sign in screen. Just a minor thing.",account_access,low
+"Hi, The GST amount on my latest invoice looks wrong. We have a client deadline today. Thanks.",billing,high
+"the gst amount on my latest nivoice llooks wrong. not urgent, just wanted to mention it. please help.",billing,low
+"Unable to gt into my profile, the page keeps sending me back o the sign in screen. Noot urgent, just wanted to mention it.",account_access,low
+"The ST amount on my latest invoice looks wrong. No rus at all. Regards, Arun",billing,low
+"Dear support, Which regions are your servers hosted in?",general_inquiry,low
+Please conssider adding single sign-on with Gogle. Please look into this in the nex tcouple of days.,feature_request,medium
+"Hello team, Can you add export to Excel on the reports page? Whenever you get a chance. Regards, Arun",feature_request,low
+"Goood morning, My API key was exposed in a public repository. Thank you.",security,high
+"good morning, there are unauthorsed transactions on my account. please resolve this within a few hurs. please help.",security,high
+"Dear support, The app crashes every time I open the profile page.",technical,medium
+"Dear supprt, Can I get a demo for my team? Whenever you get a chance. Please help.",general_inquiry,low
+I was charged twice for my Pro subscription this month. This is blocking my whole team.,billing,high
+"Hello team, Money was deducted from m bank but the payment shows as pending. Thank you.",billing,medium
+"hello team, is your service available in hhindi annd tamil support? just a minor thing.",general_inquiry,low
+"Money was deducted from my bank but the payment shows as pending. Please look into thi in the next couple of days. Regards, Arun",billing,medium
+"Hello team, Our audit logs show an unknown admin account created last night. I cannot work until this is fixed. Thank yo.",security,high
+"Dear support, Would you ever build a native tablt version? Not ugreent, just wanted to mentiion it.",feature_request,low
+"dear support, someone has been sending mesages from my profile and i did not write them. regards, arun",security,high
+"Hi, The search box returns blank results for anything I type.",technical,medium
+"Good morning, I found a vulnerability: the API returns other users' email addresses.",security,high
+"Our team needs a way to schedule reports to be eamiled every Monday. Whenever youu gget a chance. Regards, Arun",feature_request,low
+"Hello team, My API key was exposed in a public repository. It is affecting my work  abbit but I have a workaround. Please hhelp.",security,medium
+"Hello team, Unable to get into my profile, the page keeps sending me back to the sign inn screen. Customers cannto place any orders at all.",account_access,critical
+We would love a bulk edit option for contacts. Please help.,feature_request,low
+"Good morning, Why did my bill increase after te plan renewal? Just a minr thing.",billing,low
+could someone explain the difference between the standard and premium tiers? please look into this in the next coouple of days. thank you.,general_inquiry,medium
+My API key was exposed in a public repository. Please look into this in the nxt cuple of days. Thanks.,security,medium
+Our audit logs show an unknown admin account created last inght. All our users are affected and we are losing revenue.,security,critical
+"Dear support, After changing my numebr I cannot receive th verification code to get in. IIt is affecting my work a bit but I have a workaround.",account_access,medium
+"Hello team, Where acn I find your data retention policy? It is affecting my work a bit but I have a workaround.",general_inquiry,medium
+"Hi, I cannto log in, ti says my credentials are invalid. Whenever you get a chance.",account_access,low
+"unable to get into m prfile, the page keeps sending me back to the sign in screen. reagrds, arun",account_access,medium
+my username is not recognised at sign in. no rush at all. thank you.,account_access,low
+"Good morningg, The discount code FEST25 was not applied at checkout. It is affecting my work a bit but I have a workaround. Thank you.",billing,medium
+"Goood morning, Is there a plan to suppor a Tamil language interface? Not urgent, just wanted to mention it. Please help.",feature_request,low
+"Hi, Money was deducted from y bank but the payment shows as pending. This keeps happening and it is quite annoying. Thanks.",billing,medium
+"Good morning, API requests return timeout errrors intermittently. Please resolve this within a few hous.",technical,high
+"hi, whre acn i find the user guide for th ebbilling module? whenever you get a chance.",general_inquiry,low
+"Dear support, he two-faactor code is not accepted on my new phnoe. This is blocking my whole team.",account_access,high
+I get a 500 error when exporting reports. I cannot work until this is fixed. Pllease help.,technical,high
+"good morning, aafter changing my nubmer i cannot reeceive the verification code to get in. it is affecting my work a bit but i have a woorrkaround.",account_access,medium
+"Hello team, Is your service available in Hindi and Tamil support? No rush at all.",general_inquiry,low
+"Hello team, fter changing my number I cannot receive the verification code to get in. This is an emergency, it is happening riight now. Regarrds, Arun",account_access,critical
+"dear supportt, would you ever build a native tablet version? whenever you get a chance.",feature_request,low
+Please consider adding singl esign-on with Googl. Whenever you get a chance.,feature_request,low
+"Hello team, Notificaiton sare not being deliveerd to my phone. I cannot work until this is fixed.",technical,high
+"Hllo team, Pleas refund the apyment of Rs 2999 made on 25/3. Please look into this in the next couple off days. Thanks.",billing,medium
+our team needs a way to schedule reports to bbe emailed every monday. no rush at all.,feature_request,low
+"Dear support, Syync betweenn mobile and desktop haas stopped working. All our users are affected and we are olsing revenue. Thank you.",technical,critical
+"could someone explain the difference between the standard and premium tiers? just a minor thing. rregards, arun",general_inquiry,low
+"Dear suppor,t What are your support hours on weekends? Whenever you get a chance. Please help.",general_inquiry,low
+"good morning, my account is locked after too many login attempts. not urgent, just wanted to mention it.",account_access,low
+"hi, screen freezes and the page never finishes rendering after the latest update. thanks.",technical,medium
+"hi, i forgot my password and the reset email never arrves. this is bocking my whole team. regards, arun",account_access,high
+"good morning, the search box returns blank results for anything i type.",technical,medium
+"Hello team, Possible data breach: customer records are visible to other tenants. W ehave a client deadline today. Thank you.",security,high
+"Uable to get nto my profile, the page keeps sending me back to the sign in screen. It is affecting my work a bit bbut I have a workaround. Thanks.",account_access,medium
+"Dear support, Could someone explain the difference bewteen the standrad and premium tiers? Just a minor thing. Regards, Arun",general_inquiry,low
+money was deducted from my bank but the payment shos a spending. no rush at all. thhank you.,billing,low
+please change the email address inked to my account.,account_access,medium
+our audit logs show an unknown admin account created lst night. all our users are fafected and we are losing revenue. thank you.,security,critical
+"Dear support, After changing my number I cannot receive the verification code to get in. This keeeps happeing and it is quite annoying. Tahnks.",account_access,medium
+"dear support, our team needs a way to schedule reports to be emailed every monday. this keeps happenig and it is uqite anoying.",feature_request,medium
+"Unable to get into my profile, the page keeps ending me back to the sign in screen. We have a clent deadline today. Thank you.",account_access,high
+What are your support hours on weekends?,general_inquiry,low
+could someone explain the difference between the standard an premium tiers? lpease help.,general_inquiry,low
+"Hi, Can I e a demo for my team? Please look into this in the next couple of days. Thanks.",general_inquiry,medium
+"Good morning, Someone has been sending messages from my profile and I did not write them. This is blocking my whole team. Thanks.",security,high
+After changing my numbe I cannot receive the vverification code to get in. Thanks.,account_access,medium
+"hello team, which regions rae your servers hosted in? please help.",general_inquiry,low
+"hi, possible data breach: customer records aare visible to other tenants. please help.",security,high
+"unable to get into my profile, the page keeps sending me back to the sign in screen. i cannot work until this is fixed. thank.",account_access,high
+"i think someone accessed my account without permission, there are logins from another country. this keeps happening and it is quite annoyng. regards, aarun",security,medium
+"Hello team, I found a vulnerability: the API returns other users' email addresses.",security,high
+my api key was exposed in  public reposittory. please resolve this within a few hours.,security,high
+"Good morning, Could someone explain the difference between the standard and premium tiers? No rush at all. Please help.",general_inquiry,low
+notifications are not being delviered to my phone. thank you.,technical,medium
+screen freezes and the pge never finishes rendering after the latest update. we have a client deadline today.,technical,high
+"Good morning, I need access added for a new teamm member. I cannot work until this is fiixed.",account_access,high
+"Good morninng, Unable to get into my profile, the page keeps sendding me back to the sign in screen. Please look into this in the next couple of days.",account_access,medium
+"Hi, Possible data breach: custommer records arre visible to other tenants. This keeps happening and it is quite annoying. Thank you.",security,medium
+"Dear support, Our team needs a way to schedul reports to be emailed every Monday. Whhenever yyou get a chnace. Please help.",feature_request,low
+"is your servie available in hindi and tamil support? not urgent, just awnted to mention it. thank you.",general_inquiry,low
+"Dea support, We would love a bulk edit option for contacts. This keeps happening and it is quite annoying. Thank you.",feature_request,medium
+"Good morning, Money was deducted from my bank but the payment shows as pending. I cannot work untiil this is fixed. Please help.",billing,high
+"hi, could somone explain the difference between the standard and premium iters? please help.",general_inquiry,low
+"Hi, Is there a plan to suupport a Tamil language interface? No rush at all.",feature_request,low
+"good morning, i received a suspicious email pretending to be from your company asking for my password. all our users are fafected and we are losing revenue. regards, arun",security,critical
+after changinng my number i cannot receive the verification code to get in. thank.,account_access,medium
+"Hello team, The GST amount on my latest invoice looks wrong. Thiis keeps happening and it is quite annoying.",billing,medium
+"Dear support, Where can I find your data retention policy?",general_inquiry,low
+Notifiations are not being delivered to my phone. Please resolve this within a few hours. Thank you.,technical,high
+"I think smeone accessed my account without permission, there are logins froom aonther country. This is an emergecy, it is happening right now. Thanks.",security,critical
+Our auddit lgs show an unknown admin account created last night. This is blocking my whole team. Please help.,security,high
+"hi, after changing my number i cannot receive the verification code to get in. we have a client deadlinee todya. please help.",account_access,high
+"ourr audit logs show an unknown amin account created last nigh. our whole production systeem is down. regrds, arun",security,critical
