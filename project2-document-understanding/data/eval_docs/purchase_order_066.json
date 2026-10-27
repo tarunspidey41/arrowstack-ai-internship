@@ -1,0 +1,12 @@
+{
+ "doc_type": "purchase_order",
+ "fields": {
+  "po_number": "PO-9686",
+  "order_date": "2026-02-08",
+  "delivery_date": "2026-02-15",
+  "buyer_name": "Madras Retail Corp",
+  "supplier_name": "Nova Stationers LLP",
+  "total_amount": 135900.0,
+  "currency": "EUR"
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "doc_type": "service_agreement",
+ "fields": {
+  "contract_number": "AGR-590/2026",
+  "effective_date": "2026-07-06",
+  "end_date": "2027-01-02",
+  "provider_name": "Riverstone Hardware Ltd",
+  "client_name": "Delta Education Trust",
+  "contract_value": 1250000.0,
+  "currency": "INR",
+  "governing_law": "Tamil Nadu, India"
+ }
+}

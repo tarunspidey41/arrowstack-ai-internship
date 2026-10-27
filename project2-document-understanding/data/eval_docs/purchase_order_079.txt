@@ -1,0 +1,23 @@
+PURCHASE ORDER
+
+Purchase Order No
+PO-6912
+Date Ordered
+30/05/2026
+Delivery Date
+13/06/2026
+Bill To
+Meridian Hotels Pvt Ltd
+Supplier
+Nova Stationers LLP
+
+Item                            Qty   Unit Price
+Consulting hours                29    120
+Cloud hosting (monthly)         93    2100
+Packaging boxes                 78    120
+
+Total
+USD 208,140.00
+
+Goods must be delivered to the main warehouse during working hours. Partial shipments require written approval.
+Invoices for this order must quote the purchase order number above.

@@ -1,0 +1,13 @@
+{
+ "doc_type": "service_agreement",
+ "fields": {
+  "contract_number": "AGR-826/2026",
+  "effective_date": "2026-05-07",
+  "end_date": "2028-05-06",
+  "provider_name": "Orion Software Solutions Pvt Ltd",
+  "client_name": "Coastal Exports Inc",
+  "contract_value": 1250000.0,
+  "currency": "INR",
+  "governing_law": "Maharashtra, India"
+ }
+}

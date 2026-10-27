@@ -1,0 +1,13 @@
+{
+ "doc_type": "service_agreement",
+ "fields": {
+  "contract_number": "AGR-683/2026",
+  "effective_date": "2026-11-14",
+  "end_date": "2027-05-13",
+  "provider_name": "Lotus Textiles Pvt Ltd",
+  "client_name": "Atlas Manufacturing Ltd",
+  "contract_value": 3600000.0,
+  "currency": "INR",
+  "governing_law": "Karnataka, India"
+ }
+}

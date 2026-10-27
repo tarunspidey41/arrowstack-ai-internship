@@ -1,0 +1,17 @@
+Purchase Order
+
+PO Num                    PO-2485
+Order Dt                  2026-09-30
+Date of Delivery          2026-10-14
+Ordering Company          Kaveri Healthcare Pvt Ltd
+Vendor Name               Orion Software Solutions Pvt Ltd
+
+Item                            Qty   Unit Price
+Software licence                77    340
+Safety helmets                  64    2100
+Office chairs                   50    2100
+
+Order Value               $265,580.00
+
+Goods must be delivered to the main warehouse during working hours. Partial shipments require written approval.
+Invoices for this order must quote the purchase order number above.

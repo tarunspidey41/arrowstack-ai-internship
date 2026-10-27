@@ -1,0 +1,16 @@
+PURCHASE ORDER
+
+Purchase Order Number: PO-2244
+PO Dt: 16/01/2026
+Date of Delivery: 15/02/2026
+Ordering Company: Delta Education Trust
+Vendor Name: Harbor Foods Inc
+
+Item                            Qty   Unit Price
+Printer cartridges              75    340
+Software licence                26    2100
+
+Order Value: 80,100.00 USD
+
+The supplier must confirm this order within two working days. Items that do not match the specification will be returned.
+Invoices for this order must quote the purchase order number above.

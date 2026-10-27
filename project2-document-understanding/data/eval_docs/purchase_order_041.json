@@ -1,0 +1,12 @@
+{
+ "doc_type": "purchase_order",
+ "fields": {
+  "po_number": "PO-8590",
+  "order_date": "2026-02-17",
+  "delivery_date": "2026-03-10",
+  "buyer_name": "Meridian Hotels Pvt Ltd",
+  "supplier_name": "Harbor Foods Inc",
+  "total_amount": 25140.0,
+  "currency": "USD"
+ }
+}

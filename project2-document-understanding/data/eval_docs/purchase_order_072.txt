@@ -1,0 +1,17 @@
+Order Form - Purchase Order
+
+Order Ref                 PO-1764
+Order Dt                  12-May-2026
+Date of Delivery          02-Jun-2026
+Ordering Company          Coastal Exports Inc
+Seller                    Apex Consulting LLC
+
+Item                            Qty   Unit Price
+Software licence                34    2100
+LED panels                      100   900
+Safety helmets                  7     340
+
+Total Amt                 163,780.00 INR
+
+Goods must be delivered to the main warehouse during working hours. Partial shipments require written approval.
+Invoices for this order must quote the purchase order number above.

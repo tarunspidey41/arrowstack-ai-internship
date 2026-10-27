@@ -1,0 +1,13 @@
+{
+ "doc_type": "service_agreement",
+ "fields": {
+  "contract_number": "AGR-641/2025",
+  "effective_date": "2026-05-25",
+  "end_date": "2028-05-24",
+  "provider_name": "Lotus Textiles Pvt Ltd",
+  "client_name": "Vertex Analytics Pvt Ltd",
+  "contract_value": 1250000.0,
+  "currency": "USD",
+  "governing_law": "Tamil Nadu, India"
+ }
+}

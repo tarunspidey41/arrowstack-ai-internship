@@ -1,0 +1,13 @@
+{
+ "doc_type": "invoice",
+ "fields": {
+  "invoice_number": "INV-9980",
+  "invoice_date": "2026-01-05",
+  "due_date": "2026-02-04",
+  "vendor_name": "Orion Software Solutions Pvt Ltd",
+  "customer_name": "Madras Retail Corp",
+  "tax_amount": 2868.0,
+  "total_amount": 26768.0,
+  "currency": "INR"
+ }
+}

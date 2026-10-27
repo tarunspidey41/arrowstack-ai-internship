@@ -1,0 +1,13 @@
+{
+ "doc_type": "service_agreement",
+ "fields": {
+  "contract_number": "AGR-334/2025",
+  "effective_date": "2026-11-18",
+  "end_date": "2027-11-18",
+  "provider_name": "Greenfield Agro Pvt Ltd",
+  "client_name": "Kaveri Healthcare Pvt Ltd",
+  "contract_value": 1250000.0,
+  "currency": "INR",
+  "governing_law": "Maharashtra, India"
+ }
+}

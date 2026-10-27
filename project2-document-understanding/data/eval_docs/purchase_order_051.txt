@@ -1,0 +1,18 @@
+Purchase Order
+
+PO Number                 PO-9981
+Date Ordered              28 September 2026
+Delivery Date             28 October 2026
+Buyer                     Atlas Manufacturing Ltd
+Supplier                  Lotus Textiles Pvt Ltd
+
+Item                            Qty   Unit Price
+Network cables                  95    340
+Steel brackets                  13    340
+Consulting hours                91    2100
+Network cables                  30    340
+
+Order Total               Rs. 2,38,020.00
+
+The supplier must confirm this order within two working days. Items that do not match the specification will be returned.
+Invoices for this order must quote the purchase order number above.

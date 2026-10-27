@@ -1,0 +1,13 @@
+{
+ "doc_type": "service_agreement",
+ "fields": {
+  "contract_number": "AGR-777/2025",
+  "effective_date": "2026-11-21",
+  "end_date": "2028-11-20",
+  "provider_name": "Greenfield Agro Pvt Ltd",
+  "client_name": "Vertex Analytics Pvt Ltd",
+  "contract_value": 250000.0,
+  "currency": "EUR",
+  "governing_law": "Tamil Nadu, India"
+ }
+}

@@ -1,0 +1,22 @@
+Purchase Order
+
+Purchase Order Number
+PO-9678
+Date of Order
+2 September 2026
+Delivery Dt
+23 September 2026
+Buyer Name
+Madras Retail Corp
+Vendor Name
+Pioneer Steel Works Ltd
+
+Item                            Qty   Unit Price
+Packaging boxes                 75    2100
+Office chairs                   30    340
+
+Order Value
+EUR 167,700.00
+
+Goods must be delivered to the main warehouse during working hours. Partial shipments require written approval.
+Invoices for this order must quote the purchase order number above.

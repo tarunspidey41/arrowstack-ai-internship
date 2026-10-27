@@ -1,0 +1,13 @@
+{
+ "doc_type": "invoice",
+ "fields": {
+  "invoice_number": "INV-6601",
+  "invoice_date": "2026-09-21",
+  "due_date": "2026-10-06",
+  "vendor_name": "Riverstone Hardware Ltd",
+  "customer_name": "Meridian Hotels Pvt Ltd",
+  "tax_amount": 23004.0,
+  "total_amount": 150804.0,
+  "currency": "INR"
+ }
+}

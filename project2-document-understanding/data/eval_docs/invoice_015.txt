@@ -1,0 +1,27 @@
+INVOICE
+
+Invoice Number
+INV-2406
+Invoice Date
+24/08/2026
+Due Date
+08/09/2026
+From
+Nova Stationers LLP
+Client
+Meridian Hotels Pvt Ltd
+
+Description                     Qty   Unit Price
+Steel brackets                  2     480
+Cloud hosting (monthly)         11    250
+Maintenance visit               4     3200
+
+Subtotal  16,510.00
+GST
+INR 825.50
+Total Amount
+17,335.50 INR
+
+Payment terms: payment is due within the period shown above. Late payments attract interest of 1.5 percent per month.
+This invoice refers to purchase order PO-4972 and the related delivery note.
+Thank you for your business.

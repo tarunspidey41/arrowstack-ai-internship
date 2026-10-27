@@ -1,0 +1,20 @@
+Tax Invoice
+
+Inv. No.                  INV-6106
+Date of Issue             21/08/2026
+Payment Due               05/10/2026
+Billed By                 Harbor Foods Inc
+Client                    Skyline Builders LLP
+
+Description                     Qty   Unit Price
+Safety helmets                  7     3200
+Maintenance visit               15    3200
+Maintenance visit               5     480
+
+Subtotal  72,800.00
+Tax                       Rs. 3,640.00
+Total                     76,440.00 INR
+
+Please remit payment by bank transfer. Late payments may incur a penalty fee and suspension of services.
+This invoice refers to purchase order PO-5189 and the related delivery note.
+Thank you for your business.

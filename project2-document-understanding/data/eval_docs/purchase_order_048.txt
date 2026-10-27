@@ -1,0 +1,18 @@
+Order Form - Purchase Order
+
+PO Num                    PO-3494
+PO Dt                     27 August 2026
+Required By               3 September 2026
+Ordering Company          Meridian Hotels Pvt Ltd
+Vendor Name               Bluewave Logistics Ltd
+
+Item                            Qty   Unit Price
+LED panels                      18    900
+Steel brackets                  48    2100
+Maintenance visit               59    2100
+Consulting hours                76    120
+
+Total Order Value         INR 250,020.00
+
+Goods must be delivered to the main warehouse during working hours. Partial shipments require written approval.
+Invoices for this order must quote the purchase order number above.

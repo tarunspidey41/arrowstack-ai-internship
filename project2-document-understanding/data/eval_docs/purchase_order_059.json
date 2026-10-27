@@ -1,0 +1,12 @@
+{
+ "doc_type": "purchase_order",
+ "fields": {
+  "po_number": "PO-8037",
+  "order_date": "2026-02-28",
+  "delivery_date": "2026-03-14",
+  "buyer_name": "Maple Finance Ltd",
+  "supplier_name": "Sunrise Traders Pvt Ltd",
+  "total_amount": 108060.0,
+  "currency": "INR"
+ }
+}

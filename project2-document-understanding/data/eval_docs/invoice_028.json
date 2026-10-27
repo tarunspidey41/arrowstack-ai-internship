@@ -1,0 +1,13 @@
+{
+ "doc_type": "invoice",
+ "fields": {
+  "invoice_number": "INV-9470",
+  "invoice_date": "2026-06-29",
+  "due_date": "2026-07-29",
+  "vendor_name": "Harbor Foods Inc",
+  "customer_name": "Madras Retail Corp",
+  "tax_amount": 6177.6,
+  "total_amount": 57657.6,
+  "currency": "INR"
+ }
+}

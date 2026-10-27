@@ -1,0 +1,19 @@
+Tax Invoice
+
+Invoice #                 INV-9420
+Invoice Date              November 12, 2026
+Pay By                    December 27, 2026
+From                      Nova Stationers LLP
+Billed To                 Sapphire Clinics LLC
+
+Description                     Qty   Unit Price
+Printer cartridges              8     7800
+LED panels                      1     7800
+
+Subtotal  70,200.00
+GST                       8,424.00 INR
+Total Amount              78,624.00 INR
+
+Payment terms: payment is due within the period shown above. Late payments attract interest of 1.5 percent per month.
+This invoice refers to purchase order PO-8807 and the related delivery note.
+Thank you for your business.

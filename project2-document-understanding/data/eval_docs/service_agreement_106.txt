@@ -1,0 +1,16 @@
+Master Service Agreement
+
+Agreement Number          AGR-893/2026
+Effective Dt              01/04/2026
+Ends On                   31/03/2028
+Service Provider Name     Zenith Electronics Pvt Ltd
+Customer Name             Atlas Manufacturing Ltd
+Fees Payable              $3,600,000.00
+Governing Jurisdiction    England and Wales
+
+Terms and conditions
+1. The Client shall pay all undisputed invoices within thirty days of receipt.
+2. The Service Provider shall deliver the services described in Schedule A with reasonable skill and care.
+3. Either party may terminate this Agreement with thirty days written notice if the other party commits a material breach.
+4. Each party shall keep the other party's confidential information secret and use it only for this Agreement.
+Invoices will be raised monthly and each invoice shall quote the agreement number.

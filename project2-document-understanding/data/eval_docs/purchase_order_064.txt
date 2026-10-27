@@ -1,0 +1,22 @@
+PURCHASE ORDER
+
+Order Ref
+PO-6288
+Order Dt
+February 11, 2026
+Delivery Dt
+March 4, 2026
+Purchaser
+Madras Retail Corp
+Seller
+Crescent Packaging Pvt Ltd
+
+Item                            Qty   Unit Price
+Office chairs                   80    900
+Safety helmets                  46    120
+
+Order Value
+$77,520.00
+
+Goods must be delivered to the main warehouse during working hours. Partial shipments require written approval.
+Invoices for this order must quote the purchase order number above.

@@ -1,0 +1,13 @@
+{
+ "doc_type": "service_agreement",
+ "fields": {
+  "contract_number": "AGR-257/2025",
+  "effective_date": "2026-03-04",
+  "end_date": "2028-03-03",
+  "provider_name": "Harbor Foods Inc",
+  "client_name": "Delta Education Trust",
+  "contract_value": 250000.0,
+  "currency": "INR",
+  "governing_law": "Tamil Nadu, India"
+ }
+}

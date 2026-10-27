@@ -1,0 +1,18 @@
+Order Form - Purchase Order
+
+PO Num: PO-4929
+Date of Order: September 3, 2026
+Date of Delivery: September 10, 2026
+Buyer Name: Meridian Hotels Pvt Ltd
+Vendor Name: Nova Stationers LLP
+
+Item                            Qty   Unit Price
+Printer cartridges              46    2100
+Packaging boxes                 41    2100
+Laptop batteries                42    900
+Office chairs                   75    340
+
+Total Amt: INR 246,000.00
+
+The supplier must confirm this order within two working days. Items that do not match the specification will be returned.
+Invoices for this order must quote the purchase order number above.

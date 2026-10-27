@@ -1,0 +1,13 @@
+{
+ "doc_type": "service_agreement",
+ "fields": {
+  "contract_number": "AGR-216/2026",
+  "effective_date": "2026-01-22",
+  "end_date": "2028-01-22",
+  "provider_name": "Sunrise Traders Pvt Ltd",
+  "client_name": "Sapphire Clinics LLC",
+  "contract_value": 3600000.0,
+  "currency": "INR",
+  "governing_law": "England and Wales"
+ }
+}

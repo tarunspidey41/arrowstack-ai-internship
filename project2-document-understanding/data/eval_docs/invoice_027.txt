@@ -1,0 +1,27 @@
+INVOICE
+
+Invoice Number
+INV-6993
+Date
+2026-04-08
+Due On
+2026-05-23
+Vendor
+Nova Stationers LLP
+Client
+Madras Retail Corp
+
+Description                     Qty   Unit Price
+Consulting hours                1     3200
+Steel brackets                  4     7800
+LED panels                      16    1250
+
+Subtotal  54,400.00
+Tax
+Rs. 9,792.00
+Total
+Rs. 64,192.00
+
+Please remit payment by bank transfer. Late payments may incur a penalty fee and suspension of services.
+This invoice refers to purchase order PO-1031 and the related delivery note.
+Thank you for your business.

@@ -1,0 +1,19 @@
+INVOICE
+
+Invoice No: INV-4339
+Invoice Date: July 19, 2026
+Payment Due: August 18, 2026
+From: Orion Software Solutions Pvt Ltd
+Bill To: Vertex Analytics Pvt Ltd
+
+Description                     Qty   Unit Price
+Software licence                2     250
+LED panels                      10    480
+
+Subtotal  5,300.00
+GST: Rs. 954.00
+Total: 6,254.00 INR
+
+Please remit payment by bank transfer. Late payments may incur a penalty fee and suspension of services.
+This invoice refers to purchase order PO-7347 and the related delivery note.
+Thank you for your business.

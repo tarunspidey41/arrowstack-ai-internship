@@ -1,0 +1,12 @@
+{
+ "doc_type": "purchase_order",
+ "fields": {
+  "po_number": "PO-2244",
+  "order_date": "2026-01-16",
+  "delivery_date": "2026-02-15",
+  "buyer_name": "Delta Education Trust",
+  "supplier_name": "Harbor Foods Inc",
+  "total_amount": 80100.0,
+  "currency": "USD"
+ }
+}

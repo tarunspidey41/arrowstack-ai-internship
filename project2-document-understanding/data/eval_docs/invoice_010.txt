@@ -1,0 +1,20 @@
+Tax Invoice
+
+Invoice Num: INV-3057
+Date of Invoice: 13/03/2026
+Date Due: 27/04/2026
+Seller: Sunrise Traders Pvt Ltd
+Customer Name: Sapphire Clinics LLC
+
+Description                     Qty   Unit Price
+Printer cartridges              17    1250
+Cloud hosting (monthly)         18    480
+Safety helmets                  14    7800
+
+Subtotal  139,090.00
+Tax Amt: Rs. 6,954.50
+Invoice Total: 146,044.50 INR
+
+Payment terms: payment is due within the period shown above. Late payments attract interest of 1.5 percent per month.
+This invoice refers to purchase order PO-5647 and the related delivery note.
+Thank you for your business.

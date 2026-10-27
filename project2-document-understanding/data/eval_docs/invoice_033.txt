@@ -1,0 +1,27 @@
+Tax Invoice
+
+Bill No
+INV-1311
+Date
+2026-05-16
+Payment Due
+2026-06-30
+Supplier
+Zenith Electronics Pvt Ltd
+Client
+Madras Retail Corp
+
+Description                     Qty   Unit Price
+Cloud hosting (monthly)         19    1250
+LED panels                      20    250
+Software licence                6     1250
+
+Subtotal  36,250.00
+Tax Amount
+Rs. 6,525.00
+Total Payable
+INR 42,775.00
+
+Payment terms: payment is due within the period shown above. Late payments attract interest of 1.5 percent per month.
+This invoice refers to purchase order PO-1218 and the related delivery note.
+Thank you for your business.

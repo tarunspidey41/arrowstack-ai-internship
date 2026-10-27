@@ -1,0 +1,27 @@
+Tax Invoice
+
+Invoice Ref No
+INV-1357
+Inv Date
+July 14, 2026
+Date Due
+July 29, 2026
+Seller
+Lotus Textiles Pvt Ltd
+Billing Name
+Atlas Manufacturing Ltd
+
+Description                     Qty   Unit Price
+Network cables                  19    480
+Cloud hosting (monthly)         7     250
+Consulting hours                17    1250
+
+Subtotal  32,120.00
+Total Tax
+Rs. 3,854.40
+Total Amt
+Rs. 35,974.40
+
+Please remit payment by bank transfer. Late payments may incur a penalty fee and suspension of services.
+This invoice refers to purchase order PO-4420 and the related delivery note.
+Thank you for your business.

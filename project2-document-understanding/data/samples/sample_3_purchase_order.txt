@@ -1,0 +1,16 @@
+PURCHASE ORDER
+
+PO Number: PO-2580
+Order Date: September 1, 2026
+Deliver By: September 8, 2026
+Buyer: Atlas Manufacturing Ltd
+Supplier: Nova Stationers LLP
+
+Item                            Qty   Unit Price
+Safety helmets                  96    340
+Maintenance visit               57    120
+
+Grand Total: 39,480.00 EUR
+
+The supplier must confirm this order within two working days. Items that do not match the specification will be returned.
+Invoices for this order must quote the purchase order number above.

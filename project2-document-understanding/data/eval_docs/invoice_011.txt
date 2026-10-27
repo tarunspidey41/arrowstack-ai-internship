@@ -1,0 +1,20 @@
+INVOICE
+
+Bill No                   INV-6347
+Invoice Date              15/09/2026
+Payment Due               15/10/2026
+Vendor                    Zenith Electronics Pvt Ltd
+Client                    Vertex Analytics Pvt Ltd
+
+Description                     Qty   Unit Price
+Printer cartridges              3     7800
+Safety helmets                  18    1250
+Cloud hosting (monthly)         6     3200
+
+Subtotal  65,100.00
+Tax                       7,812.00 USD
+Amount Due                72,912.00 USD
+
+Please remit payment by bank transfer. Late payments may incur a penalty fee and suspension of services.
+This invoice refers to purchase order PO-5806 and the related delivery note.
+Thank you for your business.

@@ -1,0 +1,19 @@
+Invoice
+
+Invoice Ref No: INV-1997
+Invoice Dt: 08-Jul-2026
+Date Due: 07-Aug-2026
+Issued By: Crescent Packaging Pvt Ltd
+Billing Name: Kaveri Healthcare Pvt Ltd
+
+Description                     Qty   Unit Price
+Office chairs                   13    480
+Network cables                  13    1250
+
+Subtotal  22,490.00
+Tax Amt: 1,124.50 INR
+Amount Payable: INR 23,614.50
+
+Payment terms: payment is due within the period shown above. Late payments attract interest of 1.5 percent per month.
+This invoice refers to purchase order PO-4096 and the related delivery note.
+Thank you for your business.

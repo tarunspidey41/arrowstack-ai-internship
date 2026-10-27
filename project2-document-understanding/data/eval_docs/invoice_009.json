@@ -1,0 +1,13 @@
+{
+ "doc_type": "invoice",
+ "fields": {
+  "invoice_number": "INV-8568",
+  "invoice_date": "2026-02-08",
+  "due_date": "2026-03-25",
+  "vendor_name": "Apex Consulting LLC",
+  "customer_name": "Skyline Builders LLP",
+  "tax_amount": 4846.0,
+  "total_amount": 101766.0,
+  "currency": "INR"
+ }
+}

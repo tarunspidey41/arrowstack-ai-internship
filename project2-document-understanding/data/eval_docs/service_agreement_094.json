@@ -1,0 +1,13 @@
+{
+ "doc_type": "service_agreement",
+ "fields": {
+  "contract_number": "AGR-227/2025",
+  "effective_date": "2026-04-08",
+  "end_date": "2026-10-05",
+  "provider_name": "Lotus Textiles Pvt Ltd",
+  "client_name": "Sapphire Clinics LLC",
+  "contract_value": 3600000.0,
+  "currency": "INR",
+  "governing_law": "Delaware, USA"
+ }
+}

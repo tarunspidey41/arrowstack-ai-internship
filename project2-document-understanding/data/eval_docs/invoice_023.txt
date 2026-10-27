@@ -1,0 +1,21 @@
+Tax Invoice
+
+Bill No                   INV-1973
+Invoice Date              31-Aug-2026
+Due Date                  15-Sep-2026
+From                      Greenfield Agro Pvt Ltd
+Client                    Sapphire Clinics LLC
+
+Description                     Qty   Unit Price
+Software licence                1     250
+Laptop batteries                1     250
+Steel brackets                  2     7800
+Consulting hours                10    3200
+
+Subtotal  48,100.00
+Tax                       Rs. 8,658.00
+Total                     INR 56,758.00
+
+Payment terms: payment is due within the period shown above. Late payments attract interest of 1.5 percent per month.
+This invoice refers to purchase order PO-7251 and the related delivery note.
+Thank you for your business.

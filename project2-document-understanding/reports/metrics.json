@@ -1,0 +1,214 @@
+{
+  "documents": 150,
+  "doc_type_accuracy": {
+    "keyword_baseline": 0.7333,
+    "assistant": 1.0
+  },
+  "field_accuracy_end_to_end": {
+    "naive": 0.0293,
+    "rules": 0.2054,
+    "assistant": 0.8587
+  },
+  "field_counts": {
+    "naive": [
+      27,
+      920
+    ],
+    "rules": [
+      189,
+      920
+    ],
+    "assistant": [
+      790,
+      920
+    ]
+  },
+  "by_condition": {
+    "style=colon | heldout_labels=False | noise=0.0": {
+      "naive": 0.1522,
+      "rules": 0.837,
+      "assistant": 1.0
+    },
+    "style=colon | heldout_labels=False | noise=0.1": {
+      "naive": 0.1884,
+      "rules": 0.7536,
+      "assistant": 1.0
+    },
+    "style=colon | heldout_labels=True | noise=0.0": {
+      "naive": 0.0,
+      "rules": 0.3623,
+      "assistant": 0.7391
+    },
+    "style=colon | heldout_labels=True | noise=0.1": {
+      "naive": 0.0,
+      "rules": 0.3804,
+      "assistant": 0.7283
+    },
+    "style=spaced | heldout_labels=False | noise=0.0": {
+      "naive": 0.0,
+      "rules": 0.0,
+      "assistant": 1.0
+    },
+    "style=spaced | heldout_labels=False | noise=0.1": {
+      "naive": 0.0,
+      "rules": 0.0,
+      "assistant": 1.0
+    },
+    "style=spaced | heldout_labels=True | noise=0.0": {
+      "naive": 0.0,
+      "rules": 0.0,
+      "assistant": 0.7283
+    },
+    "style=spaced | heldout_labels=True | noise=0.1": {
+      "naive": 0.0,
+      "rules": 0.0,
+      "assistant": 0.6957
+    },
+    "style=stacked | heldout_labels=False | noise=0.0": {
+      "naive": 0.0,
+      "rules": 0.0,
+      "assistant": 1.0
+    },
+    "style=stacked | heldout_labels=False | noise=0.1": {
+      "naive": 0.0,
+      "rules": 0.0,
+      "assistant": 0.9891
+    },
+    "style=stacked | heldout_labels=True | noise=0.0": {
+      "naive": 0.0,
+      "rules": 0.0,
+      "assistant": 0.7246
+    },
+    "style=stacked | heldout_labels=True | noise=0.1": {
+      "naive": 0.0,
+      "rules": 0.0,
+      "assistant": 0.6957
+    }
+  },
+  "by_field": {
+    "invoice.currency": {
+      "naive": 0.0,
+      "rules": 0.3,
+      "assistant": 0.925
+    },
+    "invoice.customer_name": {
+      "naive": 0.0,
+      "rules": 0.225,
+      "assistant": 0.65
+    },
+    "invoice.due_date": {
+      "naive": 0.0,
+      "rules": 0.075,
+      "assistant": 0.85
+    },
+    "invoice.invoice_date": {
+      "naive": 0.0,
+      "rules": 0.075,
+      "assistant": 1.0
+    },
+    "invoice.invoice_number": {
+      "naive": 0.0,
+      "rules": 0.125,
+      "assistant": 0.875
+    },
+    "invoice.tax_amount": {
+      "naive": 0.0,
+      "rules": 0.25,
+      "assistant": 0.85
+    },
+    "invoice.total_amount": {
+      "naive": 0.0,
+      "rules": 0.225,
+      "assistant": 0.825
+    },
+    "invoice.vendor_name": {
+      "naive": 0.0,
+      "rules": 0.2,
+      "assistant": 0.65
+    },
+    "purchase_order.buyer_name": {
+      "naive": 0.1,
+      "rules": 0.325,
+      "assistant": 0.875
+    },
+    "purchase_order.currency": {
+      "naive": 0.025,
+      "rules": 0.325,
+      "assistant": 1.0
+    },
+    "purchase_order.delivery_date": {
+      "naive": 0.025,
+      "rules": 0.075,
+      "assistant": 1.0
+    },
+    "purchase_order.order_date": {
+      "naive": 0.0,
+      "rules": 0.075,
+      "assistant": 1.0
+    },
+    "purchase_order.po_number": {
+      "naive": 0.1,
+      "rules": 0.25,
+      "assistant": 0.9
+    },
+    "purchase_order.supplier_name": {
+      "naive": 0.05,
+      "rules": 0.25,
+      "assistant": 0.725
+    },
+    "purchase_order.total_amount": {
+      "naive": 0.025,
+      "rules": 0.325,
+      "assistant": 1.0
+    },
+    "service_agreement.client_name": {
+      "naive": 0.075,
+      "rules": 0.225,
+      "assistant": 0.75
+    },
+    "service_agreement.contract_number": {
+      "naive": 0.0,
+      "rules": 0.2,
+      "assistant": 0.65
+    },
+    "service_agreement.contract_value": {
+      "naive": 0.05,
+      "rules": 0.275,
+      "assistant": 0.75
+    },
+    "service_agreement.currency": {
+      "naive": 0.05,
+      "rules": 0.275,
+      "assistant": 0.75
+    },
+    "service_agreement.effective_date": {
+      "naive": 0.0,
+      "rules": 0.025,
+      "assistant": 0.85
+    },
+    "service_agreement.end_date": {
+      "naive": 0.025,
+      "rules": 0.025,
+      "assistant": 0.925
+    },
+    "service_agreement.governing_law": {
+      "naive": 0.1,
+      "rules": 0.35,
+      "assistant": 0.95
+    },
+    "service_agreement.provider_name": {
+      "naive": 0.05,
+      "rules": 0.25,
+      "assistant": 1.0
+    }
+  },
+  "human_review": {
+    "documents_sent_to_review": 94,
+    "review_rate": 0.6267,
+    "auto_accepted_business_docs": 56,
+    "auto_accepted_fully_correct": 0.9821,
+    "wrong_but_unflagged_docs": 1,
+    "fully_correct_docs_overall": 0.5417
+  },
+  "summary_key_fact_coverage": 0.6833
+}

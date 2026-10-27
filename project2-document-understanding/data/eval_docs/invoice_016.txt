@@ -1,0 +1,21 @@
+Tax Invoice
+
+Inv Number: INV-2934
+Inv Date: 11 January 2026
+Date Due: 25 February 2026
+Issued By: Crescent Packaging Pvt Ltd
+Billing Name: Delta Education Trust
+
+Description                     Qty   Unit Price
+Printer cartridges              9     3200
+Network cables                  8     3200
+LED panels                      6     3200
+LED panels                      15    7800
+
+Subtotal  190,600.00
+Tax Amt: 34,308.00 INR
+Total Amt: INR 2,24,908.00
+
+Please remit payment by bank transfer. Late payments may incur a penalty fee and suspension of services.
+This invoice refers to purchase order PO-8173 and the related delivery note.
+Thank you for your business.

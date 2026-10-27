@@ -1,0 +1,13 @@
+{
+ "doc_type": "service_agreement",
+ "fields": {
+  "contract_number": "AGR-849/2025",
+  "effective_date": "2026-11-25",
+  "end_date": "2028-11-24",
+  "provider_name": "Sunrise Traders Pvt Ltd",
+  "client_name": "Skyline Builders LLP",
+  "contract_value": 480000.0,
+  "currency": "INR",
+  "governing_law": "Delaware, USA"
+ }
+}

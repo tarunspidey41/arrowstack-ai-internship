@@ -1,0 +1,12 @@
+{
+ "doc_type": "purchase_order",
+ "fields": {
+  "po_number": "PO-1771",
+  "order_date": "2026-05-25",
+  "delivery_date": "2026-06-01",
+  "buyer_name": "Coastal Exports Inc",
+  "supplier_name": "Orion Software Solutions Pvt Ltd",
+  "total_amount": 34380.0,
+  "currency": "USD"
+ }
+}

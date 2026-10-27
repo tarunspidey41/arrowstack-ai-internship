@@ -1,0 +1,26 @@
+INVOICE
+
+Bill No
+INV-1135
+Date of Issue
+26 January 2026
+Due Date
+12 March 2026
+From
+Riverstone Hardware Ltd
+Client
+Coastal Exports Inc
+
+Description                     Qty   Unit Price
+Consulting hours                7     1250
+Steel brackets                  20    480
+
+Subtotal  18,350.00
+VAT
+EUR 3,303.00
+Grand Total
+21,653.00 EUR
+
+Please remit payment by bank transfer. Late payments may incur a penalty fee and suspension of services.
+This invoice refers to purchase order PO-3143 and the related delivery note.
+Thank you for your business.

@@ -1,0 +1,13 @@
+{
+ "doc_type": "service_agreement",
+ "fields": {
+  "contract_number": "AGR-607/2025",
+  "effective_date": "2026-06-18",
+  "end_date": "2028-06-17",
+  "provider_name": "Sunrise Traders Pvt Ltd",
+  "client_name": "Skyline Builders LLP",
+  "contract_value": 3600000.0,
+  "currency": "INR",
+  "governing_law": "Karnataka, India"
+ }
+}

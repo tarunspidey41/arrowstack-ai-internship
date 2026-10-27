@@ -1,0 +1,21 @@
+Invoice
+
+Invoice Number: INV-4478
+Date of Issue: November 10, 2026
+Due Date: December 25, 2026
+Vendor: Apex Consulting LLC
+Client: Vertex Analytics Pvt Ltd
+
+Description                     Qty   Unit Price
+Software licence                12    250
+Steel brackets                  6     7800
+Software licence                16    3200
+Steel brackets                  1     7800
+
+Subtotal  108,800.00
+Tax: 5,440.00 INR
+Total Amount: INR 1,14,240.00
+
+Payment terms: payment is due within the period shown above. Late payments attract interest of 1.5 percent per month.
+This invoice refers to purchase order PO-1183 and the related delivery note.
+Thank you for your business.

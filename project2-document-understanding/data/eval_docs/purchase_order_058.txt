@@ -1,0 +1,23 @@
+Order Form - Purchase Order
+
+PO Num
+PO-9289
+Order Dt
+August 11, 2026
+Delivery Dt
+September 10, 2026
+Purchaser
+Skyline Builders LLP
+Vendor Name
+Zenith Electronics Pvt Ltd
+
+Item                            Qty   Unit Price
+Laptop batteries                88    2100
+Office chairs                   52    120
+Maintenance visit               92    2100
+
+Total Order Value
+384,240.00 INR
+
+Goods must be delivered to the main warehouse during working hours. Partial shipments require written approval.
+Invoices for this order must quote the purchase order number above.

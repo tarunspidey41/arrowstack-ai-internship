@@ -1,0 +1,12 @@
+{
+ "doc_type": "purchase_order",
+ "fields": {
+  "po_number": "PO-7692",
+  "order_date": "2026-09-03",
+  "delivery_date": "2026-09-17",
+  "buyer_name": "Madras Retail Corp",
+  "supplier_name": "Bluewave Logistics Ltd",
+  "total_amount": 47340.0,
+  "currency": "INR"
+ }
+}

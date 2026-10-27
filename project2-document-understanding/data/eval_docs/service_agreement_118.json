@@ -1,0 +1,13 @@
+{
+ "doc_type": "service_agreement",
+ "fields": {
+  "contract_number": "AGR-199/2026",
+  "effective_date": "2026-11-27",
+  "end_date": "2027-11-27",
+  "provider_name": "Bluewave Logistics Ltd",
+  "client_name": "Maple Finance Ltd",
+  "contract_value": 3600000.0,
+  "currency": "INR",
+  "governing_law": "Delaware, USA"
+ }
+}

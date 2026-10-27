@@ -1,0 +1,13 @@
+{
+ "doc_type": "service_agreement",
+ "fields": {
+  "contract_number": "AGR-143/2026",
+  "effective_date": "2026-08-02",
+  "end_date": "2027-08-02",
+  "provider_name": "Apex Consulting LLC",
+  "client_name": "Sapphire Clinics LLC",
+  "contract_value": 1250000.0,
+  "currency": "EUR",
+  "governing_law": "Karnataka, India"
+ }
+}

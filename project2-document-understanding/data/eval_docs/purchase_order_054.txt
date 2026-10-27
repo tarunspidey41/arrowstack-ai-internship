@@ -1,0 +1,17 @@
+Purchase Order
+
+PO Num                    PO-6866
+Date of Order             15-Mar-2026
+Date of Delivery          05-Apr-2026
+Buyer Name                Delta Education Trust
+Supplied By               Nova Stationers LLP
+
+Item                            Qty   Unit Price
+Consulting hours                32    340
+Steel brackets                  99    2100
+Packaging boxes                 10    340
+
+Order Value               EUR 222,180.00
+
+Goods must be delivered to the main warehouse during working hours. Partial shipments require written approval.
+Invoices for this order must quote the purchase order number above.

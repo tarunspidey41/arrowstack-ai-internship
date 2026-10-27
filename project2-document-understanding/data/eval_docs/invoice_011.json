@@ -1,0 +1,13 @@
+{
+ "doc_type": "invoice",
+ "fields": {
+  "invoice_number": "INV-6347",
+  "invoice_date": "2026-09-15",
+  "due_date": "2026-10-15",
+  "vendor_name": "Zenith Electronics Pvt Ltd",
+  "customer_name": "Vertex Analytics Pvt Ltd",
+  "tax_amount": 7812.0,
+  "total_amount": 72912.0,
+  "currency": "USD"
+ }
+}

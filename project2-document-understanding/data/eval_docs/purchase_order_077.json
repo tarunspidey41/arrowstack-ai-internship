@@ -1,0 +1,12 @@
+{
+ "doc_type": "purchase_order",
+ "fields": {
+  "po_number": "PO-2833",
+  "order_date": "2026-06-03",
+  "delivery_date": "2026-07-03",
+  "buyer_name": "Madras Retail Corp",
+  "supplier_name": "Lotus Textiles Pvt Ltd",
+  "total_amount": 15820.0,
+  "currency": "INR"
+ }
+}

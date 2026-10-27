@@ -1,0 +1,26 @@
+Invoice
+
+Invoice Num
+INV-6601
+Invoice Dt
+21/09/2026
+Payment Due Date
+06/10/2026
+Seller
+Riverstone Hardware Ltd
+Billing Name
+Meridian Hotels Pvt Ltd
+
+Description                     Qty   Unit Price
+Steel brackets                  18    3200
+Consulting hours                9     7800
+
+Subtotal  127,800.00
+Total Tax
+23,004.00 INR
+Invoice Total
+Rs. 150,804.00
+
+Please remit payment by bank transfer. Late payments may incur a penalty fee and suspension of services.
+This invoice refers to purchase order PO-6595 and the related delivery note.
+Thank you for your business.

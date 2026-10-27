@@ -1,0 +1,12 @@
+{
+ "doc_type": "purchase_order",
+ "fields": {
+  "po_number": "PO-9924",
+  "order_date": "2026-02-20",
+  "delivery_date": "2026-03-13",
+  "buyer_name": "Skyline Builders LLP",
+  "supplier_name": "Crescent Packaging Pvt Ltd",
+  "total_amount": 187280.0,
+  "currency": "USD"
+ }
+}

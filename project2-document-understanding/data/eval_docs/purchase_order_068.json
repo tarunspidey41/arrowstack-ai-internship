@@ -1,0 +1,12 @@
+{
+ "doc_type": "purchase_order",
+ "fields": {
+  "po_number": "PO-6145",
+  "order_date": "2026-02-05",
+  "delivery_date": "2026-02-12",
+  "buyer_name": "Vertex Analytics Pvt Ltd",
+  "supplier_name": "Orion Software Solutions Pvt Ltd",
+  "total_amount": 191700.0,
+  "currency": "USD"
+ }
+}

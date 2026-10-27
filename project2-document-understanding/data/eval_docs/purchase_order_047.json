@@ -1,0 +1,12 @@
+{
+ "doc_type": "purchase_order",
+ "fields": {
+  "po_number": "PO-7468",
+  "order_date": "2026-03-04",
+  "delivery_date": "2026-03-11",
+  "buyer_name": "Coastal Exports Inc",
+  "supplier_name": "Harbor Foods Inc",
+  "total_amount": 98500.0,
+  "currency": "USD"
+ }
+}

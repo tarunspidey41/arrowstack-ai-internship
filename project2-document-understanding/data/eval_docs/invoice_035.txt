@@ -1,0 +1,21 @@
+INVOICE
+
+Inv. No.                  INV-2796
+Invoice Date              16-May-2026
+Payment Due               30-Jun-2026
+From                      Riverstone Hardware Ltd
+Client                    Maple Finance Ltd
+
+Description                     Qty   Unit Price
+Office chairs                   3     250
+Maintenance visit               19    3200
+Laptop batteries                14    7800
+Software licence                9     480
+
+Subtotal  175,070.00
+VAT                       USD 8,753.50
+Total Amount              USD 183,823.50
+
+Payment terms: payment is due within the period shown above. Late payments attract interest of 1.5 percent per month.
+This invoice refers to purchase order PO-6542 and the related delivery note.
+Thank you for your business.

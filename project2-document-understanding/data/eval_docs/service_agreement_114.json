@@ -1,0 +1,13 @@
+{
+ "doc_type": "service_agreement",
+ "fields": {
+  "contract_number": "AGR-723/2025",
+  "effective_date": "2026-09-07",
+  "end_date": "2027-03-06",
+  "provider_name": "Bluewave Logistics Ltd",
+  "client_name": "Madras Retail Corp",
+  "contract_value": 480000.0,
+  "currency": "INR",
+  "governing_law": "Tamil Nadu, India"
+ }
+}

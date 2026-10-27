@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Document Understanding Assistant</title>
+<style>
+:root{--bg:#f6f7fb;--card:#fff;--ink:#1b2437;--mut:#6b7488;--pri:#0f766e;--bd:#e1e6f0;--ok:#16a34a;--warn:#d97706;--bad:#dc2626}
+*{box-sizing:border-box}body{margin:0;font-family:Segoe UI,Arial,sans-serif;background:var(--bg);color:var(--ink)}
+header{background:var(--pri);color:#fff;padding:18px 28px}header h1{margin:0;font-size:20px}header p{margin:4px 0 0;opacity:.85;font-size:13px}
+main{max-width:1100px;margin:22px auto;padding:0 16px;display:grid;grid-template-columns:340px 1fr;gap:18px}
+@media(max-width:850px){main{grid-template-columns:1fr}}
+.card{background:var(--card);border:1px solid var(--bd);border-radius:10px;padding:16px;margin-bottom:16px}.card h2{margin:0 0 10px;font-size:16px}
+textarea{width:100%;min-height:110px;border:1px solid var(--bd);border-radius:8px;padding:8px;font:12px Consolas,monospace}
+button{background:var(--pri);color:#fff;border:0;border-radius:8px;padding:8px 14px;font:inherit;cursor:pointer;margin:4px 4px 0 0}button.sec{background:#e6f4f2;color:var(--pri)}
+select,input[type=file],input[type=text]{width:100%;padding:6px;border:1px solid var(--bd);border-radius:6px;margin:4px 0}
+.pill{display:inline-block;padding:2px 10px;border-radius:99px;font-size:12px;font-weight:600;background:#e6f4f2;color:var(--pri)}
+.warn{background:#ffedd5;color:var(--warn)}.good{background:#dcfce7;color:var(--ok)}.bad{background:#fee2e2;color:var(--bad)}
+table{width:100%;border-collapse:collapse;font-size:13px}th,td{text-align:left;padding:6px;border-bottom:1px solid var(--bd);vertical-align:top}th{color:var(--mut)}
+.mut{color:var(--mut);font-size:12px}.err{color:var(--bad);font-size:13px;margin-top:6px}.bar{height:6px;background:#e5e7eb;border-radius:3px;width:70px;display:inline-block;vertical-align:middle}.bar i{display:block;height:100%;border-radius:3px}
+ul{margin:6px 0;padding-left:18px;font-size:13px}.hl{font-size:15px;font-weight:600;margin:6px 0}
+</style></head><body>
+<header><h1>Document Understanding Assistant</h1><p>Classifies business documents, extracts and validates key fields, summarises, and flags uncertain results for human review. Simulated documents only.</p></header>
+<main>
+<div>
+<section class="card"><h2>Upload</h2><input type="file" id="file" accept=".txt,.pdf,.png,.jpg,.jpeg"><button id="up">Analyze file</button>
+<div class="mut">Text, text-based PDF (images need Tesseract OCR installed).</div></section>
+<section class="card"><h2>Sample documents</h2><select id="samples"></select><button class="sec" id="runSample">Analyze sample</button></section>
+<section class="card"><h2>Paste text</h2><textarea id="text" placeholder="Paste document text..."></textarea><button id="pasteGo">Analyze text</button><div id="err" class="err"></div></section>
+<section class="card"><h2>History</h2><div id="hist" class="mut">-</div></section>
+</div>
+<div id="out"><section class="card mut">Analyze a document to see the result.</section></div>
+</main>
+<script>
+const $=id=>document.getElementById(id);
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+let current=null;
+async function call(url,opts){const r=await fetch(url,opts);return {ok:r.ok,data:await r.json()}}
+function show(res){
+  current=res;$('err').textContent='';
+  const rows=Object.entries(res.fields).map(([k,f])=>{
+    const c=f.confidence,col=c>=.85?'#16a34a':c>=.7?'#d97706':'#dc2626';
+    const val=f.currency?`${f.value} (${f.currency})`:f.value;
+    return `<tr><td><b>${esc(k)}</b><div class="mut">label: ${esc(f.label_found)} (line ${f.line})</div></td>
+    <td><input type="text" data-f="${esc(k)}" value="${esc(f.value)}"></td>
+    <td><span class="bar"><i style="width:${c*100}%;background:${col}"></i></span> ${c}</td></tr>`}).join('');
+  const v=res.validation;
+  $('out').innerHTML=`<section class="card"><h2>${esc(res.filename)}</h2>
+  <span class="pill">${esc(res.doc_type)}</span> <span class="mut">type confidence ${res.doc_type_confidence}</span>
+  ${res.needs_human_review?'<span class="pill warn">Human review required</span>':'<span class="pill good">Auto-accepted</span>'}
+  <div class="hl">${esc(res.summary.headline)}</div>
+  ${res.summary.key_points.length?'<div class="mut">Key points</div><ul>'+res.summary.key_points.map(p=>'<li>'+esc(p)+'</li>').join('')+'</ul>':''}</section>
+  ${rows?`<section class="card"><h2>Extracted fields</h2><table><thead><tr><th>Field</th><th>Value (editable)</th><th>Confidence</th></tr></thead><tbody>${rows}</tbody></table>
+  <button id="confirm">Confirm / save corrections</button> <a href="/api/export/${res.document_id}"><button class="sec">Download JSON</button></a><div id="rv" class="mut"></div></section>`:''}
+  <section class="card"><h2>Validation</h2>
+  <div>Schema valid: <span class="pill ${v.schema_valid?'good':'bad'}">${v.schema_valid}</span></div>
+  ${v.missing_required.length?'<div class="err">Missing required: '+v.missing_required.map(esc).join(', ')+'</div>':''}
+  ${[...v.errors,...v.rule_warnings].map(e=>'<div class="err">'+esc(e)+'</div>').join('')}
+  ${res.review_reasons.length?'<h2 style="margin-top:12px">Why review?</h2><ul>'+res.review_reasons.map(r=>'<li>'+esc(r)+'</li>').join('')+'</ul>':''}</section>
+  <section class="card"><h2>Entities found</h2><div class="mut">${Object.entries(res.entities).map(([k,v])=>`<b>${k}</b>: ${v.length?v.map(esc).join('; '):'-'}`).join('<br>')}</div></section>`;
+  if($('confirm'))$('confirm').onclick=async()=>{
+    const corr={};document.querySelectorAll('[data-f]').forEach(i=>{const f=current.fields[i.dataset.f];if(String(f.value)!==i.value){corr[i.dataset.f]=(typeof f.value==='number')?parseFloat(i.value):i.value}});
+    const {ok,data}=await call('/api/review/'+current.document_id,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({corrections:corr})});
+    $('rv').textContent=ok?`Saved (${data.review_status}).`:(data.message||'Failed');hist()};
+  hist();
+}
+async function run(p){const {ok,data}=await p;if(!ok){$('err').textContent=data.message||'Request failed';return}show(data)}
+$('up').onclick=()=>{const f=$('file').files[0];if(!f){$('err').textContent='Choose a file first.';return}const fd=new FormData();fd.append('file',f);run(call('/api/analyze',{method:'POST',body:fd}))};
+$('pasteGo').onclick=()=>run(call('/api/analyze',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({text:$('text').value})}));
+$('runSample').onclick=()=>run(call('/api/samples/'+encodeURIComponent($('samples').value),{method:'POST'}));
+async function hist(){const {data}=await call('/api/results');$('hist').innerHTML=data.results.map(r=>`<div><a href="#" onclick="load('${r.document_id}');return false">${esc(r.filename)}</a> <span class="mut">${esc(r.doc_type)} - ${esc(r.review_status)}</span></div>`).join('')||'-'}
+async function load(id){const {data}=await call('/api/results/'+id);show(data)}
+(async()=>{const {data}=await call('/api/samples');$('samples').innerHTML=data.samples.map(s=>`<option>${esc(s)}</option>`).join('');hist()})();
+</script></body></html>

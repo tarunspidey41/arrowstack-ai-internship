@@ -1,0 +1,13 @@
+{
+ "doc_type": "service_agreement",
+ "fields": {
+  "contract_number": "AGR-101/2025",
+  "effective_date": "2026-05-17",
+  "end_date": "2027-05-17",
+  "provider_name": "Bluewave Logistics Ltd",
+  "client_name": "Meridian Hotels Pvt Ltd",
+  "contract_value": 480000.0,
+  "currency": "INR",
+  "governing_law": "Delaware, USA"
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "doc_type": "service_agreement",
+ "fields": {
+  "contract_number": "AGR-495/2026",
+  "effective_date": "2026-05-18",
+  "end_date": "2026-11-14",
+  "provider_name": "Riverstone Hardware Ltd",
+  "client_name": "Maple Finance Ltd",
+  "contract_value": 3600000.0,
+  "currency": "INR",
+  "governing_law": "England and Wales"
+ }
+}

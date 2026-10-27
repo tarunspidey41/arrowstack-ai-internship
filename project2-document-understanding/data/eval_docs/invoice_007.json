@@ -1,0 +1,13 @@
+{
+ "doc_type": "invoice",
+ "fields": {
+  "invoice_number": "INV-4257",
+  "invoice_date": "2026-03-12",
+  "due_date": "2026-03-27",
+  "vendor_name": "Nova Stationers LLP",
+  "customer_name": "Maple Finance Ltd",
+  "tax_amount": 2712.0,
+  "total_amount": 56952.0,
+  "currency": "USD"
+ }
+}

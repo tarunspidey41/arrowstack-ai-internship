@@ -1,0 +1,12 @@
+{
+ "doc_type": "purchase_order",
+ "fields": {
+  "po_number": "PO-1933",
+  "order_date": "2026-03-19",
+  "delivery_date": "2026-04-09",
+  "buyer_name": "Vertex Analytics Pvt Ltd",
+  "supplier_name": "Sunrise Traders Pvt Ltd",
+  "total_amount": 324800.0,
+  "currency": "INR"
+ }
+}

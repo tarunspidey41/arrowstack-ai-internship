@@ -1,0 +1,19 @@
+INVOICE
+
+Invoice Number: INV-9016
+Date: April 28, 2026
+Payment Due: May 13, 2026
+Billed By: Zenith Electronics Pvt Ltd
+Client: Delta Education Trust
+
+Description                     Qty   Unit Price
+Laptop batteries                9     3200
+Software licence                18    250
+
+Subtotal  33,300.00
+GST: Rs. 5,994.00
+Total Amount: INR 39,294.00
+
+Payment terms: payment is due within the period shown above. Late payments attract interest of 1.5 percent per month.
+This invoice refers to purchase order PO-6939 and the related delivery note.
+Thank you for your business.

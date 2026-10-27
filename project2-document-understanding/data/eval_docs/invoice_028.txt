@@ -1,0 +1,20 @@
+Tax Invoice
+
+Invoice Ref No: INV-9470
+Inv Date: 2026-06-29
+Due Dt: 2026-07-29
+Vendor Name: Harbor Foods Inc
+Billing Name: Madras Retail Corp
+
+Description                     Qty   Unit Price
+Consulting hours                12    480
+Steel brackets                  14    480
+Office chairs                   5     7800
+
+Subtotal  51,480.00
+Total Tax: 6,177.60 INR
+Total Amt: 57,657.60 INR
+
+Please remit payment by bank transfer. Late payments may incur a penalty fee and suspension of services.
+This invoice refers to purchase order PO-7263 and the related delivery note.
+Thank you for your business.

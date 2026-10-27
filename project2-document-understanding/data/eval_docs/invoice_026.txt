@@ -1,0 +1,21 @@
+Invoice
+
+Invoice Num               INV-1923
+Invoice Dt                November 24, 2026
+Due Dt                    January 8, 2027
+Vendor Name               Crescent Packaging Pvt Ltd
+Customer Name             Meridian Hotels Pvt Ltd
+
+Description                     Qty   Unit Price
+Laptop batteries                10    3200
+Laptop batteries                12    3200
+Steel brackets                  3     1250
+Network cables                  15    1250
+
+Subtotal  92,900.00
+GST Amount                Rs. 11,148.00
+Amount Payable            INR 1,04,048.00
+
+Payment terms: payment is due within the period shown above. Late payments attract interest of 1.5 percent per month.
+This invoice refers to purchase order PO-2176 and the related delivery note.
+Thank you for your business.

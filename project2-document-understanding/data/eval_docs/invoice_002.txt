@@ -1,0 +1,21 @@
+Tax Invoice
+
+Invoice Ref No            INV-4327
+Inv Date                  10/01/2026
+Date Due                  09/02/2026
+Vendor Name               Greenfield Agro Pvt Ltd
+Sold To                   Madras Retail Corp
+
+Description                     Qty   Unit Price
+Packaging boxes                 19    3200
+Maintenance visit               4     1250
+Network cables                  20    480
+Cloud hosting (monthly)         15    1250
+
+Subtotal  94,150.00
+GST Amount                4,707.50 USD
+Total Amt                 USD 98,857.50
+
+Payment terms: payment is due within the period shown above. Late payments attract interest of 1.5 percent per month.
+This invoice refers to purchase order PO-2072 and the related delivery note.
+Thank you for your business.

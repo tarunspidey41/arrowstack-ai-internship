@@ -1,0 +1,28 @@
+Tax Invoice
+
+Invoice Num
+INV-3472
+Inv Date
+04-Oct-2026
+Payment Due Datc
+03-Nov-2026
+Vendor Name
+Sunrise Traders Pvt Ltd
+Customer Name
+Delta Education Trust
+
+Description                     Qty   Unit Price
+Cloud hosting (monthly)         10    1250
+Consulting hours                11    250
+Printer cartridges              20    7800
+Software licence                9     1250
+
+Subtotal  182,500.00
+GST Amount
+$21,900.00
+Amount Payable
+USD 204,400.00
+
+Please remit payment by bank transfer. Late payments may incur a penalty fee and suspension of services.
+This invoice refers to purchase order PO-5059 and the related delivery note.
+Thank you for your business.

@@ -1,0 +1,13 @@
+{
+ "doc_type": "service_agreement",
+ "fields": {
+  "contract_number": "AGR-830/2025",
+  "effective_date": "2026-11-21",
+  "end_date": "2028-11-20",
+  "provider_name": "Apex Consulting LLC",
+  "client_name": "Maple Finance Ltd",
+  "contract_value": 1250000.0,
+  "currency": "USD",
+  "governing_law": "England and Wales"
+ }
+}

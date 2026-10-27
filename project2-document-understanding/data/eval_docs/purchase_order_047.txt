@@ -1,0 +1,17 @@
+Order Form - Purchase Order
+
+PO Number: PO-7468
+Date Ordered: 04-Mar-2026
+Expected Delivery: 11-Mar-2026
+Bill To: Coastal Exports Inc
+Ship From: Harbor Foods Inc
+
+Item                            Qty   Unit Price
+Laptop batteries                64    900
+Steel brackets                  70    340
+Printer cartridges              19    900
+
+Order Total: 98,500.00 USD
+
+The supplier must confirm this order within two working days. Items that do not match the specification will be returned.
+Invoices for this order must quote the purchase order number above.

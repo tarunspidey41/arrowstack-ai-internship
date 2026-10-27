@@ -1,0 +1,13 @@
+{
+ "doc_type": "service_agreement",
+ "fields": {
+  "contract_number": "AGR-962/2025",
+  "effective_date": "2026-08-20",
+  "end_date": "2028-08-19",
+  "provider_name": "Lotus Textiles Pvt Ltd",
+  "client_name": "Kaveri Healthcare Pvt Ltd",
+  "contract_value": 3600000.0,
+  "currency": "USD",
+  "governing_law": "Delaware, USA"
+ }
+}

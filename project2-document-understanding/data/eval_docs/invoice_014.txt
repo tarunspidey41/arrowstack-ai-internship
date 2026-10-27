@@ -1,0 +1,21 @@
+Invoice
+
+Inv Number                INV-4902
+Inv Date                  10-Jan-2026
+Payment Due Date          25-Jan-2026
+Seller                    Riverstone Hardware Ltd
+Sold To                   Meridian Hotels Pvt Ltd
+
+Description                     Qty   Unit Price
+Safety helmets                  14    480
+Printer cartridges              7     250
+Office chairs                   9     250
+Laptop batteries                11    480
+
+Subtotal  16,000.00
+GST Amount                EUR 800.00
+Total Amt                 16,800.00 EUR
+
+Payment terms: payment is due within the period shown above. Late payments attract interest of 1.5 percent per month.
+This invoice refers to purchase order PO-1591 and the related delivery note.
+Thank you for your business.

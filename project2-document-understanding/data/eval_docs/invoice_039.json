@@ -1,0 +1,13 @@
+{
+ "doc_type": "invoice",
+ "fields": {
+  "invoice_number": "INV-3746",
+  "invoice_date": "2026-07-03",
+  "due_date": "2026-07-18",
+  "vendor_name": "Zenith Electronics Pvt Ltd",
+  "customer_name": "Atlas Manufacturing Ltd",
+  "tax_amount": 2678.5,
+  "total_amount": 56248.5,
+  "currency": "INR"
+ }
+}

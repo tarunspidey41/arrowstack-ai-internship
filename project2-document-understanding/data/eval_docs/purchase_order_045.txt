@@ -1,0 +1,17 @@
+Purchase Order
+
+Purchase Order No         PO-9924
+Date Ordered              2026-02-20
+Expected Delivery         2026-03-13
+Bill To                   Skyline Builders LLP
+Ship From                 Crescent Packaging Pvt Ltd
+
+Item                            Qty   Unit Price
+LED panels                      73    2100
+Steel brackets                  31    120
+Maintenance visit               89    340
+
+Order Total               187,280.00 USD
+
+The supplier must confirm this order within two working days. Items that do not match the specification will be returned.
+Invoices for this order must quote the purchase order number above.

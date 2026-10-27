@@ -1,0 +1,13 @@
+{
+ "doc_type": "invoice",
+ "fields": {
+  "invoice_number": "INV-3372",
+  "invoice_date": "2026-09-02",
+  "due_date": "2026-09-17",
+  "vendor_name": "Zenith Electronics Pvt Ltd",
+  "customer_name": "Meridian Hotels Pvt Ltd",
+  "tax_amount": 966.0,
+  "total_amount": 9016.0,
+  "currency": "INR"
+ }
+}

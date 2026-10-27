@@ -1,0 +1,20 @@
+INVOICE
+
+Inv Number: INV-2663
+Invoice Dt: 25 September 2026
+Date Due: 25 October 2026
+Sellcr: Bluewave Logistics Ltd
+Customer Name: Sapphire Clinics LLC
+
+Description                     Qty   Unit Price
+Network cables                  6     7800
+Consulting hours                11    250
+Safety helmets                  15    3200
+
+Subtotal  97,550.00
+Total Tax: Rs. 17,559.00
+Total Amt: Rs. 1,15,109.00
+
+Please remit payment by bank transfer. Late payments may incur a penalty fee and suspension of services.
+This invoice refers to purchase order PO-7695 and the related delivery note.
+Thank you for your business.

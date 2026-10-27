@@ -1,0 +1,16 @@
+Purchase Order
+
+Purchase Order No         PO-3293
+Order Date                19/11/2026
+Deliver By                03/12/2026
+Buyer                     Delta Education Trust
+Ship From                 Bluewave Logistics Ltd
+
+Item                            Qty   Unit Price
+Office chairs                   86    340
+Cloud hosting (monthly)         20    340
+
+Grand Total               USD 36,040.00
+
+Goods must be delivered to the main warehouse during working hours. Partial shipments require written approval.
+Invoices for this order must quote the purchase order number above.

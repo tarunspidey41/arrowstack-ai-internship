@@ -1,0 +1,18 @@
+PURCHASE ORDER
+
+Order Ref: PO-3220
+Order Dt: 27-Jun-2026
+Required By: 04-Jul-2026
+Buyer Name: Kaveri Healthcare Pvt Ltd
+Supplied By: Nova Stationers LLP
+
+Item                            Qty   Unit Price
+Laptop batteries                92    120
+Consulting hours                22    2100
+Consulting hours                37    900
+Software licence                19    900
+
+Order Value: INR 1,07,640.00
+
+Goods must be delivered to the main warehouse during working hours. Partial shipments require written approval.
+Invoices for this order must quote the purchase order number above.

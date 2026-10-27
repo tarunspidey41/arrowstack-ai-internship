@@ -1,0 +1,13 @@
+{
+ "doc_type": "service_agreement",
+ "fields": {
+  "contract_number": "AGR-810/2025",
+  "effective_date": "2026-02-08",
+  "end_date": "2027-02-08",
+  "provider_name": "Orion Software Solutions Pvt Ltd",
+  "client_name": "Atlas Manufacturing Ltd",
+  "contract_value": 3600000.0,
+  "currency": "USD",
+  "governing_law": "Tamil Nadu, India"
+ }
+}

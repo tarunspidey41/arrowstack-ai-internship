@@ -1,0 +1,13 @@
+{
+ "doc_type": "invoice",
+ "fields": {
+  "invoice_number": "INV-4339",
+  "invoice_date": "2026-07-19",
+  "due_date": "2026-08-18",
+  "vendor_name": "Orion Software Solutions Pvt Ltd",
+  "customer_name": "Vertex Analytics Pvt Ltd",
+  "tax_amount": 954.0,
+  "total_amount": 6254.0,
+  "currency": "INR"
+ }
+}

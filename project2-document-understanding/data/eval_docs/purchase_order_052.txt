@@ -1,0 +1,24 @@
+Purchase Order
+
+PO Num
+PO-6387
+Date of Order
+07-May-2026
+Required By
+21-May-2026
+Purchaser
+Kaveri Healthcare Pvt Ltd
+Vendor Name
+Nova Stationers LLP
+
+Item                            Qty   Unit Price
+Office chairs                   41    900
+Steel brackets                  26    2100
+Safety helmets                  81    2100
+Maintenance visit               49    2100
+
+Total Amt
+Rs. 364,500.00
+
+The supplier must confirm this order within two working days. Items that do not match the specification will be returned.
+Invoices for this order must quote the purchase order number above.

@@ -1,0 +1,12 @@
+{
+ "doc_type": "purchase_order",
+ "fields": {
+  "po_number": "PO-6866",
+  "order_date": "2026-03-15",
+  "delivery_date": "2026-04-05",
+  "buyer_name": "Delta Education Trust",
+  "supplier_name": "Nova Stationers LLP",
+  "total_amount": 222180.0,
+  "currency": "EUR"
+ }
+}

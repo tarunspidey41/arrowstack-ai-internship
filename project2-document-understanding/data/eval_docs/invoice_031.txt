@@ -1,0 +1,20 @@
+Invoice
+
+Bill No: INV-8141
+Invoice Date: 14-Feb-2026
+Payment Due: 01-Mar-2026
+Vendor: Sunrise Traders Pvt Ltd
+Billed To: Kaveri Healthcare Pvt Ltd
+
+Description                     Qty   Unit Price
+Network cables                  11    3200
+Safety helmets                  15    250
+Packaging boxes                 10    480
+
+Subtotal  43,750.00
+VAT: $5,250.00
+Total: $49,000.00
+
+Please remit payment by bank transfer. Late payments may incur a penalty fee and suspension of services.
+This invoice refers to purchase order PO-2223 and the related delivery note.
+Thank you for your business.

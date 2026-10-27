@@ -1,0 +1,18 @@
+PURCHASE ORDER
+
+PO Num: PO-1101
+Date of Order: 21/10/2026
+Delivery Dt: 20/11/2026
+Buyer Name: Coastal Exports Inc
+Supplied By: Riverstone Hardware Ltd
+
+Item                            Qty   Unit Price
+Packaging boxes                 54    120
+Packaging boxes                 7     340
+Steel brackets                  23    340
+Packaging boxes                 83    900
+
+Order Value: 91,380.00 USD
+
+Goods must be delivered to the main warehouse during working hours. Partial shipments require written approval.
+Invoices for this order must quote the purchase order number above.

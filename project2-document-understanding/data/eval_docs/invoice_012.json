@@ -1,0 +1,13 @@
+{
+ "doc_type": "invoice",
+ "fields": {
+  "invoice_number": "INV-3472",
+  "invoice_date": "2026-10-04",
+  "due_date": "2026-11-03",
+  "vendor_name": "Sunrise Traders Pvt Ltd",
+  "customer_name": "Delta Education Trust",
+  "tax_amount": 21900.0,
+  "total_amount": 204400.0,
+  "currency": "USD"
+ }
+}

@@ -1,0 +1,26 @@
+Invoice
+
+Invoice Num
+INV-1721
+Invoice Dt
+12/09/2026
+Payment Due Date
+12/10/2026
+Seller
+Pioneer Steel Works Ltd
+Sold To
+Meridian Hotels Pvt Ltd
+
+Description                     Qty   Unit Price
+Consulting hours                2     250
+Software licence                15    480
+
+Subtotal  7,700.00
+Total Tax
+Rs. 1,386.00
+Amount Payable
+9,086.00 INR
+
+Please remit payment by bank transfer. Late payments may incur a penalty fee and suspension of services.
+This invoice refers to purchase order PO-2930 and the related delivery note.
+Thank you for your business.

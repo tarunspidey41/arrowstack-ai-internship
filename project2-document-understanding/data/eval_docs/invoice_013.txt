@@ -1,0 +1,21 @@
+Tax Invoice
+
+Inv. No.: INV-9136
+Date of Issue: 2026-01-04
+Due Date: 2026-02-18
+Supplier: Nova Stationers LLP
+Bill To: Sapphire Clinics LLC
+
+Description                     Qty   Unit Price
+Maintenance visit               17    3200
+Safety helmets                  15    480
+Printer cartridges              4     7800
+Network cables                  14    3200
+
+Subtotal  137,600.00
+VAT: 16,512.00 INR
+Total: Rs. 154,112.00
+
+Please remit payment by bank transfer. Late payments may incur a penalty fee and suspension of services.
+This invoice refers to purchase order PO-7147 and the related delivery note.
+Thank you for your business.

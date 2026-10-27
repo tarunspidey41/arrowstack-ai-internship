@@ -1,0 +1,16 @@
+Order Form - Purchase Order
+
+PO Number                 PO-7692
+PO Date                   03-Sep-2026
+Delivery Date             17-Sep-2026
+Ordered By                Madras Retail Corp
+Ship From                 Bluewave Logistics Ltd
+
+Item                            Qty   Unit Price
+Steel brackets                  42    120
+Cloud hosting (monthly)         47    900
+
+Total                     47,340.00 INR
+
+The supplier must confirm this order within two working days. Items that do not match the specification will be returned.
+Invoices for this order must quote the purchase order number above.

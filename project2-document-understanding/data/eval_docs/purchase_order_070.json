@@ -1,0 +1,12 @@
+{
+ "doc_type": "purchase_order",
+ "fields": {
+  "po_number": "PO-1017",
+  "order_date": "2026-03-08",
+  "delivery_date": "2026-03-15",
+  "buyer_name": "Meridian Hotels Pvt Ltd",
+  "supplier_name": "Orion Software Solutions Pvt Ltd",
+  "total_amount": 154500.0,
+  "currency": "USD"
+ }
+}

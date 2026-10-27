@@ -1,0 +1,16 @@
+Purchase Order
+
+Purchase Order Number     PO-9441
+PO Dt                     25-Jul-2026
+Required By               15-Aug-2026
+Purchaser                 Meridian Hotels Pvt Ltd
+Seller                    Crescent Packaging Pvt Ltd
+
+Item                            Qty   Unit Price
+LED panels                      34    2100
+Laptop batteries                24    2100
+
+Total Order Value         1,21,800.00 INR
+
+Goods must be delivered to the main warehouse during working hours. Partial shipments require written approval.
+Invoices for this order must quote the purchase order number above.

@@ -1,0 +1,13 @@
+{
+ "doc_type": "invoice",
+ "fields": {
+  "invoice_number": "INV-1997",
+  "invoice_date": "2026-07-08",
+  "due_date": "2026-08-07",
+  "vendor_name": "Crescent Packaging Pvt Ltd",
+  "customer_name": "Kaveri Healthcare Pvt Ltd",
+  "tax_amount": 1124.5,
+  "total_amount": 23614.5,
+  "currency": "INR"
+ }
+}

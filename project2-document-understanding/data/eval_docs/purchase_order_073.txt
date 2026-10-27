@@ -1,0 +1,24 @@
+Order Form - Purchase Order
+
+Purchase Order No
+PO-3436
+Date Ordered
+05/06/2026
+Deliver By
+12/06/2026
+Ordered By
+Coastal Exports Inc
+Vendor
+Zenith Electronics Pvt Ltd
+
+Item                            Qty   Unit Price
+Safety helmets                  16    120
+Office chairs                   54    900
+Laptop batteries                16    2100
+Laptop batteries                43    2100
+
+Total Amount
+1,74,420.00 INR
+
+The supplier must confirm this order within two working days. Items that do not match the specification will be returned.
+Invoices for this order must quote the purchase order number above.

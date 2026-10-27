@@ -1,0 +1,17 @@
+PURCHASE ORDER
+
+PO No: PO-3303
+PO Date: 13 February 2026
+Deliver By: 27 February 2026
+Buyer: Kaveri Healthcare Pvt Ltd
+Supplier: Orion Software Solutions Pvt Ltd
+
+Item                            Qty   Unit Price
+Consulting hours                25    2100
+Safety helmets                  56    900
+Software licence                35    120
+
+Order Total: Rs. 1,07,100.00
+
+Goods must be delivered to the main warehouse during working hours. Partial shipments require written approval.
+Invoices for this order must quote the purchase order number above.

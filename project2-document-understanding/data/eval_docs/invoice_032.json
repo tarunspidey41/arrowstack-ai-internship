@@ -1,0 +1,13 @@
+{
+ "doc_type": "invoice",
+ "fields": {
+  "invoice_number": "INV-9318",
+  "invoice_date": "2026-01-23",
+  "due_date": "2026-02-22",
+  "vendor_name": "Bluewave Logistics Ltd",
+  "customer_name": "Sapphire Clinics LLC",
+  "tax_amount": 3980.0,
+  "total_amount": 83580.0,
+  "currency": "INR"
+ }
+}

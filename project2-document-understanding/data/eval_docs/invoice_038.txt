@@ -1,0 +1,21 @@
+INVOICE
+
+Inv Number                INV-2654
+Inv Date                  June 7, 2026
+Date Due                  June 22, 2026
+Vendor Name               Harbor Foods Inc
+Sold To                   Meridian Hotels Pvt Ltd
+
+Description                     Qty   Unit Price
+LED panels                      19    7800
+Software licence                15    250
+Cloud hosting (monthly)         17    1250
+Safety helmets                  5     3200
+
+Subtotal  189,200.00
+Total Tax                 Rs. 34,056.00
+Invoice Total             Rs. 223,256.00
+
+Payment terms: payment is due within the period shown above. Late payments attract interest of 1.5 percent per month.
+This invoice refers to purchase order PO-5442 and the related delivery note.
+Thank you for your business.

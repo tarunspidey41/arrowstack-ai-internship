@@ -1,0 +1,13 @@
+{
+ "doc_type": "service_agreement",
+ "fields": {
+  "contract_number": "AGR-622/2026",
+  "effective_date": "2026-06-19",
+  "end_date": "2026-12-16",
+  "provider_name": "Riverstone Hardware Ltd",
+  "client_name": "Madras Retail Corp",
+  "contract_value": 1250000.0,
+  "currency": "USD",
+  "governing_law": "Delaware, USA"
+ }
+}

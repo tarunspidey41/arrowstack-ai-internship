@@ -1,0 +1,16 @@
+SERVICE AGREEMENT
+
+Agreement No              AGR-359/2025
+Commencement Date         07/03/2026
+Expiry Date               06/03/2028
+Provider                  Bluewave Logistics Ltd
+Party B                   Atlas Manufacturing Ltd
+Contract Value            Rs. 1,250,000.00
+Governing Law             Delaware, USA
+
+Terms and conditions
+1. Either party may terminate this Agreement with thirty days written notice if the other party commits a material breach.
+2. Neither party is liable for delays caused by events beyond its reasonable control.
+3. Each party shall keep the other party's confidential information secret and use it only for this Agreement.
+4. The Service Provider shall deliver the services described in Schedule A with reasonable skill and care.
+Invoices will be raised monthly and each invoice shall quote the agreement number.

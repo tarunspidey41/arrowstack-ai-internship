@@ -1,0 +1,22 @@
+Purchase Order
+
+PO No
+PO-6936
+Order Date
+6 September 2026
+Delivery Date
+13 September 2026
+Bill To
+Vertex Analytics Pvt Ltd
+Supplier
+Zenith Electronics Pvt Ltd
+
+Item                            Qty   Unit Price
+Packaging boxes                 85    120
+Packaging boxes                 71    340
+
+Grand Total
+34,340.00 USD
+
+The supplier must confirm this order within two working days. Items that do not match the specification will be returned.
+Invoices for this order must quote the purchase order number above.

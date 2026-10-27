@@ -1,0 +1,18 @@
+PURCHASE ORDER
+
+Purchase Order Number: PO-6623
+Order Dt: August 14, 2026
+Required By: August 28, 2026
+Purchaser: Coastal Exports Inc
+Supplied By: Greenfield Agro Pvt Ltd
+
+Item                            Qty   Unit Price
+Consulting hours                98    120
+Office chairs                   31    2100
+Network cables                  12    2100
+Office chairs                   16    900
+
+Order Value: 116,460.00 USD
+
+Goods must be delivered to the main warehouse during working hours. Partial shipments require written approval.
+Invoices for this order must quote the purchase order number above.

@@ -1,0 +1,23 @@
+PURCHASE ORDER
+
+PO Number
+PO-6199
+PO Date
+November 27, 2026
+Delivery Date
+December 4, 2026
+Buyer
+Maple Finance Ltd
+Ship From
+Lotus Textiles Pvt Ltd
+
+Item                            Qty   Unit Price
+Printer cartridges              61    120
+Software licence                41    120
+LED panels                      81    340
+
+Order Total
+USD 39,780.00
+
+The supplier must confirm this order within two working days. Items that do not match the specification will be returned.
+Invoices for this order must quote the purchase order number above.

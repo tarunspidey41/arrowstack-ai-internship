@@ -1,0 +1,21 @@
+Invoice
+
+Invoice Num               INV-7528
+Inv Date                  07/06/2026
+Due Dt                    22/06/2026
+Issued By                 Crescent Packaging Pvt Ltd
+Sold To                   Madras Retail Corp
+
+Description                     Qty   Unit Price
+Office chairs                   2     3200
+Consulting hours                12    7800
+Network cables                  19    7800
+Consulting hours                7     250
+
+Subtotal  249,950.00
+Tax Amt                   29,994.00 EUR
+Total Amt                 279,944.00 EUR
+
+Please remit payment by bank transfer. Late payments may incur a penalty fee and suspension of services.
+This invoice refers to purchase order PO-8804 and the related delivery note.
+Thank you for your business.

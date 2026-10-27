@@ -1,0 +1,28 @@
+Tax Invoice
+
+Invoice No
+INV-3746
+Invoice Date
+3 July 2026
+Due On
+18 July 2026
+Vend0r
+Zenith Electronics Pvt Ltd
+Customer
+Atlas Manufacturing Ltd
+
+Description                     Qty   Unit Price
+Office chairs                   3     250
+Safety helmets                  14    480
+Maintenance visit               18    250
+Safety helmets                  13    3200
+
+Subtotal  53,570.00
+Tax Amount
+2,678.50 INR
+Amount Due
+56,248.50 INR
+
+Payment terms: payment is due within the period shown above. Late payments attract interest of 1.5 percent per month.
+This invoice refers to purchase order PO-7800 and the related delivery note.
+Thank you for your business.

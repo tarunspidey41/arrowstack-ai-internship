@@ -1,0 +1,17 @@
+Purchase Order
+
+Purchase Order Number     PO-2026
+PO Dt                     24-Nov-2026
+Date of Delivery          01-Dec-2026
+Purchaser                 Kaveri Healthcare Pvt Ltd
+Supplied By               Bluewave Logistics Ltd
+
+Item                            Qty   Unit Price
+Laptop batteries                45    900
+Cloud hosting (monthly)         65    340
+Laptop batteries                63    120
+
+Total Amt                 70,160.00 INR
+
+The supplier must confirm this order within two working days. Items that do not match the specification will be returned.
+Invoices for this order must quote the purchase order number above.

@@ -1,0 +1,16 @@
+Master Service Agreement
+
+Agreement Number          AGR-227/2025
+Starts On                 8 April 2026
+Expiry Dt                 5 October 2026
+Service Provider Name     Lotus Textiles Pvt Ltd
+Customer Name             Sapphire Clinics LLC
+Contract Amount           Rs. 36,00,000.00
+Governing Jurisdiction    Delaware, USA
+
+Terms and conditions
+1. Each party shall keep the other party's confidential information secret and use it only for this Agreement.
+2. Neither party is liable for delays caused by events beyond its reasonable control.
+3. Either party may terminate this Agreement with thirty days written notice if the other party commits a material breach.
+4. The Client shall pay all undisputed invoices within thirty days of receipt.
+Invoices will be raised monthly and each invoice shall quote the agreement number.

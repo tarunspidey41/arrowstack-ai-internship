@@ -1,0 +1,22 @@
+PURCHASE ORDER
+
+PO Num
+PO-1017
+PO Dt
+2026-03-08
+Required By
+2026-03-15
+Buyer Name
+Meridian Hotels Pvt Ltd
+Seller
+Orion Software Solutions Pvt Ltd
+
+Item                            Qty   Unit Price
+Packaging boxes                 45    120
+Network cables                  71    2100
+
+Total Order Value
+USD 154,500.00
+
+Goods must be delivered to the main warehouse during working hours. Partial shipments require written approval.
+Invoices for this order must quote the purchase order number above.

@@ -1,0 +1,16 @@
+Purchase Order
+
+Order #: PO-2833
+Date Ordered: 03/06/2026
+Delivery Date: 03/07/2026
+Bill To: Madras Retail Corp
+Vendor: Lotus Textiles Pvt Ltd
+
+Item                            Qty   Unit Price
+LED panels                      27    120
+Steel brackets                  37    340
+
+Total Amount: 15,820.00 INR
+
+The supplier must confirm this order within two working days. Items that do not match the specification will be returned.
+Invoices for this order must quote the purchase order number above.

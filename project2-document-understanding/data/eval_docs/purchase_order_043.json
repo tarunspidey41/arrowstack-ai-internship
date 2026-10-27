@@ -1,0 +1,12 @@
+{
+ "doc_type": "purchase_order",
+ "fields": {
+  "po_number": "PO-6936",
+  "order_date": "2026-09-06",
+  "delivery_date": "2026-09-13",
+  "buyer_name": "Vertex Analytics Pvt Ltd",
+  "supplier_name": "Zenith Electronics Pvt Ltd",
+  "total_amount": 34340.0,
+  "currency": "USD"
+ }
+}

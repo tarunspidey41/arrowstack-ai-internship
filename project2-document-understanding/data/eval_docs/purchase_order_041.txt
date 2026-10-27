@@ -1,0 +1,16 @@
+PURCHASE ORDER
+
+PO Number: PO-8590
+Date Ordered: 2026-02-17
+Deliver By: 2026-03-10
+Buyer: Meridian Hotels Pvt Ltd
+Vendor: Harbor Foods Inc
+
+Item                            Qty   Unit Price
+Cloud hosting (monthly)         69    340
+Maintenance visit               14    120
+
+Order Total: USD 25,140.00
+
+Goods must be delivered to the main warehouse during working hours. Partial shipments require written approval.
+Invoices for this order must quote the purchase order number above.

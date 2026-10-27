@@ -1,0 +1,13 @@
+{
+ "doc_type": "service_agreement",
+ "fields": {
+  "contract_number": "AGR-619/2025",
+  "effective_date": "2026-02-01",
+  "end_date": "2028-02-01",
+  "provider_name": "Crescent Packaging Pvt Ltd",
+  "client_name": "Kaveri Healthcare Pvt Ltd",
+  "contract_value": 480000.0,
+  "currency": "EUR",
+  "governing_law": "Maharashtra, India"
+ }
+}

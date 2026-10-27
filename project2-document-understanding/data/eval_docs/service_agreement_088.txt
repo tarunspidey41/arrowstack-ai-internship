@@ -1,0 +1,16 @@
+Services Contract Agreement
+
+Agreement Number          AGR-622/2026
+Effective Dt              19/06/2026
+Expiry Dt                 16/12/2026
+Provider Name             Riverstone Hardware Ltd
+Service Recipient         Madras Retail Corp
+Total Contract Value      $1,250,000.00
+Governing Jurisdiction    Delaware, USA
+
+Terms and conditions
+1. Neither party is liable for delays caused by events beyond its reasonable control.
+2. Either party may terminate this Agreement with thirty days written notice if the other party commits a material breach.
+3. The Service Provider shall deliver the services described in Schedule A with reasonable skill and care.
+4. The Client shall pay all undisputed invoices within thirty days of receipt.
+Invoices will be raised monthly and each invoice shall quote the agreement number.

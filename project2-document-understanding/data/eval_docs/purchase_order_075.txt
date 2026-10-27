@@ -1,0 +1,18 @@
+Purchase Order
+
+PO No                     PO-2061
+PO Date                   8 October 2026
+Expected Delivery         7 November 2026
+Ordered By                Skyline Builders LLP
+Supplier                  Apex Consulting LLC
+
+Item                            Qty   Unit Price
+Software licence                82    340
+Steel brackets                  76    340
+Steel brackets                  90    2100
+Safety helmets                  61    120
+
+Total                     Rs. 250,040.00
+
+Goods must be delivered to the main warehouse during working hours. Partial shipments require written approval.
+Invoices for this order must quote the purchase order number above.

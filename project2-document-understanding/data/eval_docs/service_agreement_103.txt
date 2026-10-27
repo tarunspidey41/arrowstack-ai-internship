@@ -1,0 +1,16 @@
+Master Service Agreement
+
+Agreement No              AGR-592/2025
+Effective Date            25-Nov-2026
+Termination Date          25-Nov-2027
+Service Provider          Lotus Textiles Pvt Ltd
+Customer                  Skyline Builders LLP
+Contract Value            480,000.00 USD
+Jurisdiction              England and Wales
+
+Terms and conditions
+1. Either party may terminate this Agreement with thirty days written notice if the other party commits a material breach.
+2. Each party shall keep the other party's confidential information secret and use it only for this Agreement.
+3. Neither party is liable for delays caused by events beyond its reasonable control.
+4. The Service Provider shall deliver the services described in Schedule A with reasonable skill and care.
+Invoices will be raised monthly and each invoice shall quote the agreement number.

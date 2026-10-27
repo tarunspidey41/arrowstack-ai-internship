@@ -1,0 +1,20 @@
+INVOICE
+
+Bill No                   INV-8135
+Date                      18 February 2026
+Due On                    5 March 2026
+Supplier                  Orion Software Solutions Pvt Ltd
+Billed To                 Kaveri Healthcare Pvt Ltd
+
+Description                     Qty   Unit Price
+Office chairs                   11    7800
+Software licence                20    1250
+Steel brackets                  14    480
+
+Subtotal  117,520.00
+Tax                       14,102.40 INR
+Grand Total               INR 131,622.40
+
+Payment terms: payment is due within the period shown above. Late payments attract interest of 1.5 percent per month.
+This invoice refers to purchase order PO-6863 and the related delivery note.
+Thank you for your business.

@@ -1,0 +1,12 @@
+{
+ "doc_type": "purchase_order",
+ "fields": {
+  "po_number": "PO-2061",
+  "order_date": "2026-10-08",
+  "delivery_date": "2026-11-07",
+  "buyer_name": "Skyline Builders LLP",
+  "supplier_name": "Apex Consulting LLC",
+  "total_amount": 250040.0,
+  "currency": "INR"
+ }
+}

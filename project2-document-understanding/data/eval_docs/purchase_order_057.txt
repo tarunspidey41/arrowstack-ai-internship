@@ -1,0 +1,17 @@
+Order Form - Purchase Order
+
+PO Number                 PO-1771
+Order Date                25/05/2026
+Delivery Date             01/06/2026
+Buyer                     Coastal Exports Inc
+Supplier                  Orion Software Solutions Pvt Ltd
+
+Item                            Qty   Unit Price
+Laptop batteries                68    340
+Cloud hosting (monthly)         6     120
+Safety helmets                  31    340
+
+Total Amount              $34,380.00
+
+The supplier must confirm this order within two working days. Items that do not match the specification will be returned.
+Invoices for this order must quote the purchase order number above.

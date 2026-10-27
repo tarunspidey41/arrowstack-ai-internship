@@ -1,0 +1,13 @@
+{
+ "doc_type": "service_agreement",
+ "fields": {
+  "contract_number": "AGR-681/2025",
+  "effective_date": "2026-06-22",
+  "end_date": "2027-06-22",
+  "provider_name": "Pioneer Steel Works Ltd",
+  "client_name": "Skyline Builders LLP",
+  "contract_value": 1250000.0,
+  "currency": "INR",
+  "governing_law": "Karnataka, India"
+ }
+}

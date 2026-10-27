@@ -1,0 +1,19 @@
+INVOICE
+
+Inv Number: INV-3372
+Invoice Dt: 2026-09-02
+Date Due: 2026-09-17
+Seller: Zenith Electronics Pvt Ltd
+Sold To: Meridian Hotels Pvt Ltd
+
+Description                     Qty   Unit Price
+Software licence                10    480
+Maintenance visit               13    250
+
+Subtotal  8,050.00
+Total Tax: Rs. 966.00
+Amount Payable: INR 9,016.00
+
+Payment terms: payment is due within the period shown above. Late payments attract interest of 1.5 percent per month.
+This invoice refers to purchase order PO-4289 and the related delivery note.
+Thank you for your business.

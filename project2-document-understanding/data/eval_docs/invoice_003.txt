@@ -1,0 +1,26 @@
+Tax Invoice
+
+Bill No
+INV-8555
+Issued On
+2026-08-13
+Due On
+2026-09-27
+Supplier
+Orion Software Solutions Pvt Ltd
+Client
+Madras Retail Corp
+
+Description                     Qty   Unit Price
+Packaging boxes                 8     250
+Cloud hosting (monthly)         10    480
+
+Subtotal  6,800.00
+GST
+USD 1,224.00
+Total
+USD 8,024.00
+
+Payment terms: payment is due within the period shown above. Late payments attract interest of 1.5 percent per month.
+This invoice refers to purchase order PO-6242 and the related delivery note.
+Thank you for your business.

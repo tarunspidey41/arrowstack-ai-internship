@@ -1,0 +1,26 @@
+INVOICE
+
+Inv Number
+INV-9980
+Inv Date
+5 January 2026
+Due Dt
+4 February 2026
+Seller
+Orion Software Solutions Pvt Ltd
+Sold To
+Madras Retail Corp
+
+Description                     Qty   Unit Price
+Cloud hosting (monthly)         14    1250
+Packaging boxes                 2     3200
+
+Subtotal  23,900.00
+Tax Amt
+INR 2,868.00
+Invoice Total
+INR 26,768.00
+
+Payment terms: payment is due within the period shown above. Late payments attract interest of 1.5 percent per month.
+This invoice refers to purchase order PO-8681 and the related delivery note.
+Thank you for your business.

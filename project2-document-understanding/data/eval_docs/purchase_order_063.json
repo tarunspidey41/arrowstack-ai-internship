@@ -1,0 +1,12 @@
+{
+ "doc_type": "purchase_order",
+ "fields": {
+  "po_number": "PO-3293",
+  "order_date": "2026-11-19",
+  "delivery_date": "2026-12-03",
+  "buyer_name": "Delta Education Trust",
+  "supplier_name": "Bluewave Logistics Ltd",
+  "total_amount": 36040.0,
+  "currency": "USD"
+ }
+}

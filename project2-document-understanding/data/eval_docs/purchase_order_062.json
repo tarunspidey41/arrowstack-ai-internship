@@ -1,0 +1,12 @@
+{
+ "doc_type": "purchase_order",
+ "fields": {
+  "po_number": "PO-3220",
+  "order_date": "2026-06-27",
+  "delivery_date": "2026-07-04",
+  "buyer_name": "Kaveri Healthcare Pvt Ltd",
+  "supplier_name": "Nova Stationers LLP",
+  "total_amount": 107640.0,
+  "currency": "INR"
+ }
+}

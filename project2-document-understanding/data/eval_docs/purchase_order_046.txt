@@ -1,0 +1,24 @@
+Purchase Order
+
+PO Num
+PO-4942
+Order Dt
+September 9, 2026
+Required By
+October 9, 2026
+Purchaser
+Maple Finance Ltd
+Vendor Name
+Orion Software Solutions Pvt Ltd
+
+Item                            Qty   Unit Price
+Maintenance visit               87    900
+Office chairs                   13    120
+Office chairs                   78    120
+Consulting hours                80    900
+
+Total Order Value
+USD 161,220.00
+
+The supplier must confirm this order within two working days. Items that do not match the specification will be returned.
+Invoices for this order must quote the purchase order number above.

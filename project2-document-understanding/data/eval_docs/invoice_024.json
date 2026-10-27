@@ -1,0 +1,13 @@
+{
+ "doc_type": "invoice",
+ "fields": {
+  "invoice_number": "INV-1357",
+  "invoice_date": "2026-07-14",
+  "due_date": "2026-07-29",
+  "vendor_name": "Lotus Textiles Pvt Ltd",
+  "customer_name": "Atlas Manufacturing Ltd",
+  "tax_amount": 3854.4,
+  "total_amount": 35974.4,
+  "currency": "INR"
+ }
+}

@@ -1,0 +1,26 @@
+Tax Invoice
+
+Invoice Ref No
+INV-6945
+Inv Date
+09/08/2026
+Due Dt
+24/08/2026
+Vendor Name
+Greenfield Agro Pvt Ltd
+Customer Name
+Sapphire Clinics LLC
+
+Description                     Qty   Unit Price
+Printer cartridges              1     1250
+Consulting hours                9     3200
+
+Subtotal  30,050.00
+Tax Amt
+EUR 1,502.50
+Amount Payable
+EUR 31,552.50
+
+Please remit payment by bank transfer. Late payments may incur a penalty fee and suspension of services.
+This invoice refers to purchase order PO-4783 and the related delivery note.
+Thank you for your business.

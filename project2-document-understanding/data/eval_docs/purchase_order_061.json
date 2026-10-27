@@ -1,0 +1,12 @@
+{
+ "doc_type": "purchase_order",
+ "fields": {
+  "po_number": "PO-9070",
+  "order_date": "2026-07-05",
+  "delivery_date": "2026-08-04",
+  "buyer_name": "Delta Education Trust",
+  "supplier_name": "Greenfield Agro Pvt Ltd",
+  "total_amount": 168660.0,
+  "currency": "INR"
+ }
+}

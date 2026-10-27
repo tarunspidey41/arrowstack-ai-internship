@@ -1,0 +1,13 @@
+{
+ "doc_type": "service_agreement",
+ "fields": {
+  "contract_number": "AGR-736/2026",
+  "effective_date": "2026-06-27",
+  "end_date": "2026-12-24",
+  "provider_name": "Harbor Foods Inc",
+  "client_name": "Madras Retail Corp",
+  "contract_value": 480000.0,
+  "currency": "USD",
+  "governing_law": "Maharashtra, India"
+ }
+}

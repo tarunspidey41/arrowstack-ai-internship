@@ -1,0 +1,21 @@
+Tax Invoice
+
+Invoice Num               INV-9812
+Invoice Dt                April 10, 2026
+Date Due                  May 10, 2026
+Seller                    Harbor Foods Inc
+Customer Name             Sapphire Clinics LLC
+
+Description                     Qty   Unit Price
+Software licence                2     1250
+LED panels                      7     1250
+LED panels                      17    480
+Network cables                  11    1250
+
+Subtotal  33,160.00
+Total Tax                 5,968.80 INR
+Total Amt                 39,128.80 INR
+
+Payment terms: payment is due within the period shown above. Late payments attract interest of 1.5 percent per month.
+This invoice refers to purchase order PO-2660 and the related delivery note.
+Thank you for your business.

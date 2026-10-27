@@ -1,0 +1,12 @@
+{
+ "doc_type": "purchase_order",
+ "fields": {
+  "po_number": "PO-6199",
+  "order_date": "2026-11-27",
+  "delivery_date": "2026-12-04",
+  "buyer_name": "Maple Finance Ltd",
+  "supplier_name": "Lotus Textiles Pvt Ltd",
+  "total_amount": 39780.0,
+  "currency": "USD"
+ }
+}

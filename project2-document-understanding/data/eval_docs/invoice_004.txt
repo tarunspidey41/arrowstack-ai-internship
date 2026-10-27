@@ -1,0 +1,21 @@
+Invoice
+
+Inv Number: INV-8996
+Date of Invoice: 6 October 2026
+Payment Due Date: 5 November 2026
+Seller: Crescent Packaging Pvt Ltd
+Sold To: Madras Retail Corp
+
+Description                     Qty   Unit Price
+Safety helmets                  3     250
+Cloud hosting (monthly)         2     7800
+Printer cartridges              7     7800
+Laptop batteries                17    480
+
+Subtotal  79,110.00
+Tax Amt: 3,955.50 INR
+Invoice Total: 83,065.50 INR
+
+Payment terms: payment is due within the period shown above. Late payments attract interest of 1.5 percent per month.
+This invoice refers to purchase order PO-8552 and the related delivery note.
+Thank you for your business.

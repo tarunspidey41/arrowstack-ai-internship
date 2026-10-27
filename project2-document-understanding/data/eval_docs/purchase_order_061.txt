@@ -1,0 +1,24 @@
+PURCHASE ORDER
+
+Purchase Order No
+PO-9070
+Order Date
+05/07/2026
+Expected Delivery
+04/08/2026
+Buyer
+Delta Education Trust
+Supplier
+Greenfield Agro Pvt Ltd
+
+Item                            Qty   Unit Price
+Cloud hosting (monthly)         95    900
+Software licence                88    120
+Cloud hosting (monthly)         35    120
+Laptop batteries                76    900
+
+Grand Total
+INR 168,660.00
+
+The supplier must confirm this order within two working days. Items that do not match the specification will be returned.
+Invoices for this order must quote the purchase order number above.

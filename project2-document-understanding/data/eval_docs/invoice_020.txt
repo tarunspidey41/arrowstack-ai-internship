@@ -1,0 +1,20 @@
+INVOICE
+
+Invoice Num               INV-3046
+Date of Invoice           22 September 2026
+Date Due                  6 November 2026
+Seller                    Sunrise Traders Pvt Ltd
+Billing Name              Kaveri Healthcare Pvt Ltd
+
+Description                     Qty   Unit Price
+Packaging boxes                 11    3200
+Software licence                7     3200
+Printer cartridges              3     1250
+
+Subtotal  61,350.00
+GST Amount                $11,043.00
+Invoice Total             USD 72,393.00
+
+Payment terms: payment is due within the period shown above. Late payments attract interest of 1.5 percent per month.
+This invoice refers to purchase order PO-9143 and the related delivery note.
+Thank you for your business.

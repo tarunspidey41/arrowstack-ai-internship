@@ -1,0 +1,13 @@
+{
+ "doc_type": "service_agreement",
+ "fields": {
+  "contract_number": "AGR-598/2026",
+  "effective_date": "2026-10-15",
+  "end_date": "2027-10-15",
+  "provider_name": "Riverstone Hardware Ltd",
+  "client_name": "Maple Finance Ltd",
+  "contract_value": 1250000.0,
+  "currency": "EUR",
+  "governing_law": "Tamil Nadu, India"
+ }
+}

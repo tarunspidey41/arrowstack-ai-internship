@@ -1,0 +1,12 @@
+{
+ "doc_type": "purchase_order",
+ "fields": {
+  "po_number": "PO-6623",
+  "order_date": "2026-08-14",
+  "delivery_date": "2026-08-28",
+  "buyer_name": "Coastal Exports Inc",
+  "supplier_name": "Greenfield Agro Pvt Ltd",
+  "total_amount": 116460.0,
+  "currency": "USD"
+ }
+}

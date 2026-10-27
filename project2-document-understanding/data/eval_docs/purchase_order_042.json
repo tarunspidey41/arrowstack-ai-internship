@@ -1,0 +1,12 @@
+{
+ "doc_type": "purchase_order",
+ "fields": {
+  "po_number": "PO-9441",
+  "order_date": "2026-07-25",
+  "delivery_date": "2026-08-15",
+  "buyer_name": "Meridian Hotels Pvt Ltd",
+  "supplier_name": "Crescent Packaging Pvt Ltd",
+  "total_amount": 121800.0,
+  "currency": "INR"
+ }
+}

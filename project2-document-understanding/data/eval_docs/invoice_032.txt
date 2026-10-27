@@ -1,0 +1,19 @@
+Tax Invoice
+
+Invoice Num               INV-9318
+Inv Date                  2026-01-23
+Paymcnt Due Date          2026-02-22
+Seller                    Bluewave Logistics Ltd
+Sold To                   Sapphire Clinics LLC
+
+Description                     Qty   Unit Price
+Printer cartridges              2     7800
+Steel brackets                  20    3200
+
+Subtotal  79,600.00
+GST Amount                INR 3,980.00
+Amount Payable            83,580.00 INR
+
+Payment terms: payment is due within the period shown above. Late payments attract interest of 1.5 percent per month.
+This invoice refers to purchase order PO-9734 and the related delivery note.
+Thank you for your business.

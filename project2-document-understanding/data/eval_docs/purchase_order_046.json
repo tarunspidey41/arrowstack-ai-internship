@@ -1,0 +1,12 @@
+{
+ "doc_type": "purchase_order",
+ "fields": {
+  "po_number": "PO-4942",
+  "order_date": "2026-09-09",
+  "delivery_date": "2026-10-09",
+  "buyer_name": "Maple Finance Ltd",
+  "supplier_name": "Orion Software Solutions Pvt Ltd",
+  "total_amount": 161220.0,
+  "currency": "USD"
+ }
+}

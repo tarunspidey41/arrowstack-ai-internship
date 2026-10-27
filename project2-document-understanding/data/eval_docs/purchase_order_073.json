@@ -1,0 +1,12 @@
+{
+ "doc_type": "purchase_order",
+ "fields": {
+  "po_number": "PO-3436",
+  "order_date": "2026-06-05",
+  "delivery_date": "2026-06-12",
+  "buyer_name": "Coastal Exports Inc",
+  "supplier_name": "Zenith Electronics Pvt Ltd",
+  "total_amount": 174420.0,
+  "currency": "INR"
+ }
+}

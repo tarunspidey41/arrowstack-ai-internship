@@ -1,0 +1,12 @@
+{
+ "doc_type": "purchase_order",
+ "fields": {
+  "po_number": "PO-6912",
+  "order_date": "2026-05-30",
+  "delivery_date": "2026-06-13",
+  "buyer_name": "Meridian Hotels Pvt Ltd",
+  "supplier_name": "Nova Stationers LLP",
+  "total_amount": 208140.0,
+  "currency": "USD"
+ }
+}

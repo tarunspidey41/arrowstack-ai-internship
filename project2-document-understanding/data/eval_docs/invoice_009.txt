@@ -1,0 +1,27 @@
+INVOICE
+
+Invoice No
+INV-8568
+Invoice Date
+February 8, 2026
+Pay By
+March 25, 2026
+From
+Apex Consulting LLC
+Client
+Skyline Builders LLP
+
+Description                     Qty   Unit Price
+Office chairs                   9     7800
+Cloud hosting (monthly)         14    480
+Cloud hosting (monthly)         16    1250
+
+Subtotal  96,920.00
+Tax
+Rs. 4,846.00
+Total Amount
+1,01,766.00 INR
+
+Please remit payment by bank transfer. Late payments may incur a penalty fee and suspension of services.
+This invoice refers to purchase order PO-9962 and the related delivery note.
+Thank you for your business.

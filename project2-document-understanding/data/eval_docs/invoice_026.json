@@ -1,0 +1,13 @@
+{
+ "doc_type": "invoice",
+ "fields": {
+  "invoice_number": "INV-1923",
+  "invoice_date": "2026-11-24",
+  "due_date": "2027-01-08",
+  "vendor_name": "Crescent Packaging Pvt Ltd",
+  "customer_name": "Meridian Hotels Pvt Ltd",
+  "tax_amount": 11148.0,
+  "total_amount": 104048.0,
+  "currency": "INR"
+ }
+}

@@ -1,0 +1,22 @@
+Order Form - Purchase Order
+
+Purchase Order No
+PO-6222
+Date Ordered
+04-Sep-2026
+Expected Delivery
+04-Oct-2026
+Buyer
+Madras Retail Corp
+Ship From
+Lotus Textiles Pvt Ltd
+
+Item                            Qty   Unit Price
+Software licence                76    120
+Safety helmets                  99    120
+
+Grand Total
+INR 21,000.00
+
+The supplier must confirm this order within two working days. Items that do not match the specification will be returned.
+Invoices for this order must quote the purchase order number above.

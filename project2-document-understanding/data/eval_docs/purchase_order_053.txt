@@ -1,0 +1,16 @@
+Purchase Order
+
+Purchase Order No: PO-1593
+Date Ordered: 24-Oct-2026
+Expected Delivery: 23-Nov-2026
+Buyer: Sapphire Clinics LLC
+Supplier: Apex Consulting LLC
+
+Item                            Qty   Unit Price
+Laptop batteries                81    2100
+Printer cartridges              95    2100
+
+Total Amount: Rs. 3,69,600.00
+
+Goods must be delivered to the main warehouse during working hours. Partial shipments require written approval.
+Invoices for this order must quote the purchase order number above.

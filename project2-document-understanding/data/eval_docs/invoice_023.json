@@ -1,0 +1,13 @@
+{
+ "doc_type": "invoice",
+ "fields": {
+  "invoice_number": "INV-1973",
+  "invoice_date": "2026-08-31",
+  "due_date": "2026-09-15",
+  "vendor_name": "Greenfield Agro Pvt Ltd",
+  "customer_name": "Sapphire Clinics LLC",
+  "tax_amount": 8658.0,
+  "total_amount": 56758.0,
+  "currency": "INR"
+ }
+}

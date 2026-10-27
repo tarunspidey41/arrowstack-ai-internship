@@ -1,0 +1,17 @@
+PURCHASE ORDER
+
+PO Number: PO-8037
+PO Date: 28 February 2026
+Deliver By: 14 March 2026
+Buyer: Maple Finance Ltd
+Ship From: Sunrise Traders Pvt Ltd
+
+Item                            Qty   Unit Price
+Network cables                  93    120
+Packaging boxes                 20    120
+Software licence                45    2100
+
+Total: INR 108,060.00
+
+The supplier must confirm this order within two working days. Items that do not match the specification will be returned.
+Invoices for this order must quote the purchase order number above.

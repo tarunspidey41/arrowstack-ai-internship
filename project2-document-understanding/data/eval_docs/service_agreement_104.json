@@ -1,0 +1,13 @@
+{
+ "doc_type": "service_agreement",
+ "fields": {
+  "contract_number": "AGR-748/2025",
+  "effective_date": "2026-10-16",
+  "end_date": "2028-10-15",
+  "provider_name": "Nova Stationers LLP",
+  "client_name": "Skyline Builders LLP",
+  "contract_value": 480000.0,
+  "currency": "USD",
+  "governing_law": "Tamil Nadu, India"
+ }
+}

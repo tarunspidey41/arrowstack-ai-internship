@@ -1,0 +1,16 @@
+PURCHASE ORDER
+
+Order Ref                 PO-9686
+Date of Order             08/02/2026
+Required By               15/02/2026
+Ordering Company          Madras Retail Corp
+Seller                    Nova Stationers LLP
+
+Item                            Qty   Unit Price
+Laptop batteries                65    900
+LED panels                      86    900
+
+Total Order Value         EUR 135,900.00
+
+Goods must be delivered to the main warehouse during working hours. Partial shipments require written approval.
+Invoices for this order must quote the purchase order number above.

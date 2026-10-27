@@ -1,0 +1,18 @@
+PURCHASE ORDER
+
+Purchase Order Number: PO-1320
+Order Dt: October 30, 2026
+Required By: November 29, 2026
+Buyer Name: Atlas Manufacturing Ltd
+Vendor Name: Crescent Packaging Pvt Ltd
+
+Item                            Qty   Unit Price
+Network cables                  67    2100
+Printer cartridges              30    120
+Printer cartridges              71    340
+Laptop batteries                5     900
+
+Total Order Value: 172,940.00 EUR
+
+Goods must be delivered to the main warehouse during working hours. Partial shipments require written approval.
+Invoices for this order must quote the purchase order number above.

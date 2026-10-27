@@ -1,0 +1,21 @@
+Tax Invoice
+
+Inv. No.: INV-4257
+Date: 2026-03-12
+Due On: 2026-03-27
+From: Nova Stationers LLP
+Customer: Maple Finance Ltd
+
+Description                     Qty   Unit Price
+Maintenance visit               4     3200
+Laptop batteries                20    1250
+LED panels                      18    480
+Cloud hosting (monthly)         1     7800
+
+Subtotal  54,240.00
+VAT: 2,712.00 USD
+Amount Due: USD 56,952.00
+
+Please remit payment by bank transfer. Late payments may incur a penalty fee and suspension of services.
+This invoice refers to purchase order PO-4717 and the related delivery note.
+Thank you for your business.

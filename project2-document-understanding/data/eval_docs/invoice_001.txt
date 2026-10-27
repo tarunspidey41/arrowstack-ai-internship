@@ -1,0 +1,20 @@
+INVOICE
+
+Invoice #: INV-9910
+Invoice Date: July 29, 2026
+Payment Due: September 12, 2026
+Supplier: Orion Software Solutions Pvt Ltd
+Customer: Sapphire Clinics LLC
+
+Description                     Qty   Unit Price
+Software licence                8     3200
+Packaging boxes                 14    7800
+Safety helmets                  20    480
+
+Subtotal  144,400.00
+GST: INR 17,328.00
+Grand Total: INR 161,728.00
+
+Payment terms: payment is due within the period shown above. Late payments attract interest of 1.5 percent per month.
+This invoice refers to purchase order PO-7667 and the related delivery note.
+Thank you for your business.

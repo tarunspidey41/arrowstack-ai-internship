@@ -1,0 +1,13 @@
+{
+ "doc_type": "service_agreement",
+ "fields": {
+  "contract_number": "AGR-338/2026",
+  "effective_date": "2026-02-04",
+  "end_date": "2027-02-04",
+  "provider_name": "Nova Stationers LLP",
+  "client_name": "Kaveri Healthcare Pvt Ltd",
+  "contract_value": 480000.0,
+  "currency": "USD",
+  "governing_law": "Delaware, USA"
+ }
+}

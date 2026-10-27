@@ -1,0 +1,13 @@
+{
+ "doc_type": "invoice",
+ "fields": {
+  "invoice_number": "INV-2934",
+  "invoice_date": "2026-01-11",
+  "due_date": "2026-02-25",
+  "vendor_name": "Crescent Packaging Pvt Ltd",
+  "customer_name": "Delta Education Trust",
+  "tax_amount": 34308.0,
+  "total_amount": 224908.0,
+  "currency": "INR"
+ }
+}

@@ -1,0 +1,13 @@
+{
+ "doc_type": "invoice",
+ "fields": {
+  "invoice_number": "INV-8135",
+  "invoice_date": "2026-02-18",
+  "due_date": "2026-03-05",
+  "vendor_name": "Orion Software Solutions Pvt Ltd",
+  "customer_name": "Kaveri Healthcare Pvt Ltd",
+  "tax_amount": 14102.4,
+  "total_amount": 131622.4,
+  "currency": "INR"
+ }
+}

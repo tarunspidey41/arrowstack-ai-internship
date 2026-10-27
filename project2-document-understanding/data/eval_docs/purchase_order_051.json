@@ -1,0 +1,12 @@
+{
+ "doc_type": "purchase_order",
+ "fields": {
+  "po_number": "PO-9981",
+  "order_date": "2026-09-28",
+  "delivery_date": "2026-10-28",
+  "buyer_name": "Atlas Manufacturing Ltd",
+  "supplier_name": "Lotus Textiles Pvt Ltd",
+  "total_amount": 238020.0,
+  "currency": "INR"
+ }
+}

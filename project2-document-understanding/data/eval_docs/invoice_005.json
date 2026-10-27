@@ -1,0 +1,13 @@
+{
+ "doc_type": "invoice",
+ "fields": {
+  "invoice_number": "INV-6106",
+  "invoice_date": "2026-08-21",
+  "due_date": "2026-10-05",
+  "vendor_name": "Harbor Foods Inc",
+  "customer_name": "Skyline Builders LLP",
+  "tax_amount": 3640.0,
+  "total_amount": 76440.0,
+  "currency": "INR"
+ }
+}

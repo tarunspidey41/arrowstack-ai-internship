@@ -1,0 +1,20 @@
+Tax Invoice
+
+Invoice #: INV-8142
+Invoice Date: 03/01/2026
+Due On: 18/01/2026
+Vendor: Harbor Foods Inc
+Customer: Madras Retail Corp
+
+Description                     Qty   Unit Price
+Maintenance visit               2     250
+LED panels                      8     480
+Consulting hours                14    7800
+
+Subtotal  113,540.00
+Tax Amount: 13,624.80 USD
+Amount Due: $127,164.80
+
+Please remit payment by bank transfer. Late payments may incur a penalty fee and suspension of services.
+This invoice refers to purchase order PO-6433 and the related delivery note.
+Thank you for your business.

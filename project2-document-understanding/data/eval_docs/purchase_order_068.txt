@@ -1,0 +1,16 @@
+PURCHASE ORDER
+
+PO Num: PO-6145
+PO Dt: 05/02/2026
+Delivery Dt: 12/02/2026
+Buyer Name: Vertex Analytics Pvt Ltd
+Supplied By: Orion Software Solutions Pvt Ltd
+
+Item                            Qty   Unit Price
+Printer cartridges              75    2100
+Printer cartridges              38    900
+
+Total Order Value: $191,700.00
+
+Goods must be delivered to the main warehouse during working hours. Partial shipments require written approval.
+Invoices for this order must quote the purchase order number above.

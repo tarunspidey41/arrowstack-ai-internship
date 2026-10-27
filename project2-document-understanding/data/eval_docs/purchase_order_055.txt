@@ -1,0 +1,22 @@
+Order Form - Purchase Order
+
+Order #
+PO-2335
+PO Date
+18 April 2026
+Delivery Date
+9 May 2026
+Bill To
+Delta Education Trust
+Ship From
+Greenfield Agro Pvt Ltd
+
+Item                            Qty   Unit Price
+Laptop batteries                90    2100
+LED panels                      98    340
+
+Order Total
+INR 2,22,320.00
+
+The supplier must confirm this order within two working days. Items that do not match the specification will be returned.
+Invoices for this order must quote the purchase order number above.

@@ -1,0 +1,12 @@
+{
+ "doc_type": "purchase_order",
+ "fields": {
+  "po_number": "PO-2485",
+  "order_date": "2026-09-30",
+  "delivery_date": "2026-10-14",
+  "buyer_name": "Kaveri Healthcare Pvt Ltd",
+  "supplier_name": "Orion Software Solutions Pvt Ltd",
+  "total_amount": 265580.0,
+  "currency": "USD"
+ }
+}
